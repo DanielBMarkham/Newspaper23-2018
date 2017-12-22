@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>newspaper23</name></assembly>
+<members>
+<member name="T:SystemTypeExtensions.Stack`1">
+<summary>
+ Homegrown/copied pure functional stack implementation
+ from https://viralfsharp.com/2012/02/11/implementing-a-stack-in-f/
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.TextWriter.wc(System.IO.TextWriter,System.String,Microsoft.FSharp.Core.FSharpOption{System.Int32})">
+<summary>
+ Centers text across line using spaces on both sides. Default 80-character line can be overridden
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.TextWriter.wt(System.IO.TextWriter,System.Int32,System.String)">
+<summary>
+ WriteLine at a certain tab level
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.TextWriter.wl(System.IO.TextWriter,System.String)">
+<summary>
+ Shorter version of WriteLine
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.StringBuilder.wc(System.Text.StringBuilder,System.String,Microsoft.FSharp.Core.FSharpOption{System.Int32})">
+<summary>
+ Centers text across line using spaces on both sides. Default 80-character line can be overridden
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.StringBuilder.wt(System.Text.StringBuilder,System.Int32,System.String)">
+<summary>
+ Write a line at a certain tab level ending with the current OS newline character
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.StringBuilder.wl(System.Text.StringBuilder,System.String)">
+<summary>
+ Write a line ending with the current OS newline character
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.String.PadBoth(System.String,System.Int32)">
+<summary>
+ Centers text using spaces given a certain line length
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.String.AddSpaces(System.String,System.Int32)">
+<summary>
+ adds the number of spaces to the beginning of the string
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.Random.GetValues(System.Random,System.Int32,System.Int32)">
+<summary>
+ Generates an infinite sequence of random numbers within the given range.
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.op_BarQmarkQmark``1(System.Nullable{``0},``0)">
+<summary>
+ for .NET nullable types, gimme the value or the default I&apos;ll provide
+</summary>
+</member>
+<member name="M:SystemTypeExtensions.op_BarQmark``1(Microsoft.FSharp.Core.FSharpOption{``0},``0)">
+<summary>
+ for option types, gimme either the value or a default I&apos;ll provide
+</summary>
+</member>
+<member name="M:SystemUtilities.getFakeFileInfo">
+<summary>
+ Create a dummy file in the OS and return a .NET FileInfo object. Used as a mock for testing
+</summary>
+</member>
+<member name="M:SystemUtilities.duplicatesBy``1(Microsoft.FSharp.Core.FSharpFunc{``0,Microsoft.FSharp.Core.FSharpFunc{``0,System.Boolean}},Microsoft.FSharp.Collections.FSharpList{``0})">
+<summary>
+ finds only the duplicates in a list by applying a function to to each item
+ new items must be comparable
+</summary>
+</member>
+<member name="M:SystemUtilities.duplicates``1(Microsoft.FSharp.Collections.FSharpList{``0})">
+<summary>
+ Finds only the duplicates in a list. Items must be comparable
+</summary>
+</member>
+<member name="M:SystemUtilities.removeDuplicatesBy``1(Microsoft.FSharp.Core.FSharpFunc{``0,Microsoft.FSharp.Core.FSharpFunc{``0,System.Boolean}},Microsoft.FSharp.Collections.FSharpList{``0})">
+<summary>
+ Eliminates duplicates in a list by evaluating the result of a function on each item
+ Resulting items must be comparable
+</summary>
+</member>
+<member name="M:SystemUtilities.removeDuplicates``1(Microsoft.FSharp.Collections.FSharpList{``0})">
+<summary>
+ Eliminates duplicate items in a list. Items must be comparable
+</summary>
+</member>
+<member name="M:SystemUtilities.copyToDestinationDirectory(System.String,System.String)">
+<summary>
+ OS-independent file copy from one place to another. Uses shell.
+</summary>
+</member>
+<member name="P:SystemUtilities.isLinuxFileSystem">
+<summary>
+ Are we running on linux?
+</summary>
+</member>
+<member name="T:CommandLineHelper.InterimProgress">
+<summary>
+ A type so that programs can report what they&apos;re doing as they do it
+</summary>
+</member>
+<member name="T:CommandLineHelper.ConfigEntry`1">
+<summary>
+ Parameterized type to allow command-line argument processing without a lot of extra coder work
+ Instantiate the type with the type of value you want. Make a default entry in case nothing is found
+ Then call the populate method. Will pull from args and return a val and args with the found value (if any consumed)
+</summary>
+</member>
+<member name="M:CommandLineHelper.commandLinePrintWhileExit(CommandLineHelper.ConfigBase)">
+<summary>
+ Exiting program command line report. Detail level is based on verbosity setting
+</summary>
+</member>
+<member name="M:CommandLineHelper.commandLinePrintWhileEnter(CommandLineHelper.ConfigBase,Microsoft.FSharp.Core.FSharpFunc{Microsoft.FSharp.Core.Unit,Microsoft.FSharp.Core.Unit})">
+<summary>
+ Prints out the options for the command before it runs. Detail level is based on verbosity setting
+</summary>
+</member>
+<member name="M:Program.doStuff(ProgramTypes.MyProgramConfig)">
+<summary>
+ The new Main
+</summary>
+</member>
+</members>
+</doc>

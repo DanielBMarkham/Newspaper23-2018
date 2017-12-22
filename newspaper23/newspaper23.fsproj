@@ -60,12 +60,15 @@
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="..\..\Common\SystemTypeExtensions.fs">
       <Link>SystemTypeExtensions.fs</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
     <Compile Include="..\..\Common\SystemUtilities.fs">
       <Link>SystemUtilities.fs</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
     <Compile Include="..\..\Common\CommandLineHelper.fs">
       <Link>CommandLineHelper.fs</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
     <Compile Include="ProgramTypes.fs" />
     <Compile Include="Lenses.fs" />

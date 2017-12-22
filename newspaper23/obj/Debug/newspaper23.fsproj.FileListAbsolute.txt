@@ -20,3 +20,6 @@ C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\nunit.fr
 C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\obj\Debug\newspaper23.exe
 C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\obj\Debug\newspaper23.pdb
 C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\obj\Debug\newspaper23.fsproj.newspaper23.exe.config
+C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\SystemTypeExtensions.fs
+C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\SystemUtilities.fs
+C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\CommandLineHelper.fs

@@ -23,3 +23,6 @@ C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\obj\Debug\newspape
 C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\SystemTypeExtensions.fs
 C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\SystemUtilities.fs
 C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\CommandLineHelper.fs
+C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Daniel_Main\Dropbox\a-source\newspaper23\newspaper23\bin\Debug\HtmlAgilityPack.xml

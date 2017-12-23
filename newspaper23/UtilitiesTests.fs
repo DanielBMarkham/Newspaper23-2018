@@ -2,7 +2,7 @@
     open SystemTypeExtensions
     open SystemUtilities
     open CommandLineHelper
-    open ProgramTypes
+    open Newspaper23Types
     open Lenses
     open Utilities
     open NUnit.Framework

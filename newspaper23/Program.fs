@@ -1,43 +1,79 @@
 ﻿open SystemTypeExtensions
 open SystemUtilities
 open CommandLineHelper
-open ProgramTypes
+open Newspaper23Types
 open Lenses
 open Utilities
 open Persist
+open Newtonsoft.Json
+open Newtonsoft.Json.Converters
 
-    // To use this template:
-    // 1. Rename the ProgramTypes file to <MY-PROGRAM-NAME>Types
-    // 2. Inside the old ProgramTypes file, change the MyProgramConfig to your name <MY-PROGRAM-NAME>Config
-    // 3. Add all the help text, record members, and defaults for your new program config file
-    // 4. Update all the references and compile. You will also need to change the "opens" 
-    // that use the old ProgramTypes
-    // 5. 
 
 /// The new Main
-let doStuff (opts:MyProgramConfig) =
-    // Use the functional onion pattern
-    // First, thoroughly clean everything coming in
-    // Used shared source code Common directory to share types
-    // (When your program types get shared, you will need to move the <>Types file
-    // out to the common folder, delete the local one, and use a link to access it
-    // Either quit (HIGHLY unlikely), skip pieces, or force defaults for bad data
-
-    // Then do whatever it is your program does
-
-    // Then send the new data out to whomever wants to consume it
-    // Continue to use shared type code files for compatability
-    // Remember to use the combination of Verbosity and InterimProgress (from ConfigBase)
-    // to update the world on how things are going
+let doStuff (opts:Newspaper23Config) =
+    // first thing to do is clean/verify input data so that it's bulletproof
+    let inputFileContents= 
+        if ((snd opts.InputFile.parameterValue).IsNone)
+            then
+                System.IO.File.CreateText(fst opts.InputFile.parameterValue) |> ignore
+                defaultInputFileContents
+            else System.IO.File.ReadAllText((snd opts.InputFile.parameterValue).Value.FullName)
+    let inputData = 
+        if inputFileContents="" 
+            then defaultNewspaper23Input
+            else JsonConvert.DeserializeObject<Newspaper23Input>(defaultInputFileContents)
+    let outputFileContents= 
+        if ((snd opts.OutputFile.parameterValue).IsNone)
+            then
+                System.IO.File.CreateText(fst opts.OutputFile.parameterValue) |> ignore
+                defaultOutputFileContents
+            else System.IO.File.ReadAllText((snd opts.OutputFile.parameterValue).Value.FullName)
+    let outputData = 
+        if outputFileContents=""
+            then defaultNewspaper23Output
+            else JsonConvert.DeserializeObject<Newspaper23Output> outputFileContents
+    // then the main processing loop
+    let newOutputData = 
+        inputData.SitesToVisit 
+            |> List.fold(fun (outerAccumulatorOutputFile,index) siteToVisit->
+            let linkTextAndTargets=findTextLinksOnAPage siteToVisit.URLToVisit
+            // for each link, see if it already exists in the output file
+            // if so, skip. Otherwise add it
+            let newOuterAccumulatorOutputFile = 
+                linkTextAndTargets 
+                |> Array.fold(fun (innerAccumulatorOutputFile:Newspaper23Output) (incomingLinkText,incomingLinkTarget)->
+                let alreadyExistsInOutputFile =
+                    innerAccumulatorOutputFile.Links<>null
+                    && innerAccumulatorOutputFile.Links.Length>0
+                    && innerAccumulatorOutputFile.Links|>Array.exists(fun x->x.Link=incomingLinkTarget)
+                if alreadyExistsInOutputFile 
+                    then innerAccumulatorOutputFile
+                    else
+                        let newLinkItem:SiteVisitedLinkRecord =
+                            {
+                                Category=siteToVisit.Category
+                                SiteName=siteToVisit.SiteName
+                                LinkText=incomingLinkText
+                                Link=incomingLinkTarget
+                                RipTime=System.DateTime.Now;
+                            }
+                        let newLinks = [|newLinkItem|] |> Array.append innerAccumulatorOutputFile.Links 
+                        {innerAccumulatorOutputFile with Links=newLinks}
+                ) outerAccumulatorOutputFile
+            (newOuterAccumulatorOutputFile,index+1)
+            ) (outputData,0)
+    // persist the program output
+    let programOutput=JsonConvert.SerializeObject newOutputData
+    System.IO.File.WriteAllText((snd opts.OutputFile.parameterValue).Value.FullName,programOutput)
     ()
 
-[<EntryPoint>]
+[<EntryPoint; System.STAThreadAttribute>]
 let main argv = 
     try
         let opts = loadConfigFromCommandLine argv
-        commandLinePrintWhileEnter opts.configBase (opts.printThis)
+        commandLinePrintWhileEnter opts.ConfigBase (opts.printThis)
         let outputDirectories = doStuff opts
-        commandLinePrintWhileExit opts.configBase
+        commandLinePrintWhileExit opts.ConfigBase
         0
     with
         | :? UserNeedsHelp as hex ->

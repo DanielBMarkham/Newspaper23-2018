@@ -70,7 +70,8 @@
       <Link>CommandLineHelper.fs</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
-    <Compile Include="ProgramTypes.fs" />
+    <Compile Include="Newspaper23Types.fs" />
+    <Compile Include="SamplePageDataForTests.fs" />
     <Compile Include="Lenses.fs" />
     <Compile Include="Utilities.fs" />
     <Compile Include="UtilitiesTests.fs" />
@@ -83,6 +84,9 @@
     <Reference Include="FSharp.Core, Version=4.4.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
     <Reference Include="FsUnit.NUnit">
       <HintPath>..\packages\FsUnit.3.0.0\lib\net45\FsUnit.NUnit.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\packages\HtmlAgilityPack.1.6.8\lib\Net45\HtmlAgilityPack.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="Newtonsoft.Json">

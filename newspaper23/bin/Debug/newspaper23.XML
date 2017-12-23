@@ -63,6 +63,11 @@
  for option types, gimme either the value or a default I&apos;ll provide
 </summary>
 </member>
+<member name="M:SystemUtilities.http(System.String,System.Int32)">
+<summary>
+ Fetch the contents of a web page
+</summary>
+</member>
 <member name="M:SystemUtilities.getFakeFileInfo">
 <summary>
  Create a dummy file in the OS and return a .NET FileInfo object. Used as a mock for testing
@@ -122,7 +127,7 @@
  Prints out the options for the command before it runs. Detail level is based on verbosity setting
 </summary>
 </member>
-<member name="M:Program.doStuff(ProgramTypes.MyProgramConfig)">
+<member name="M:Program.doStuff(Newspaper23Types.Newspaper23Config)">
 <summary>
  The new Main
 </summary>

@@ -1,0 +1,117 @@
+{
+  "LastRunTime": "2017-12-23T20:51:06.0673096-05:00",
+  "SitesToVisit": [
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "CNN",
+      "URLToVisit": "https://www.cnn.com"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "Drudge Report",
+      "URLToVisit": "http://www.drudgereport.com"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "Fox News",
+      "URLToVisit": "https://www.foxnews.com"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "MSNBC News",
+      "URLToVisit": "https://www.msnbc.com"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "NBC News",
+      "URLToVisit": "https://www.nbcnews.com"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "Yahoo News",
+      "URLToVisit": "https://www.yahoo.com/news"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "CBS News",
+      "URLToVisit": "https://www.cbsnews.com"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "BBC News",
+      "URLToVisit": "https://www.bbc.com/news"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "Google News",
+      "URLToVisit": "https://news.google.com"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "Daily Mail",
+      "URLToVisit": "http://www.dailymail.co.uk/ushome/index.html"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "Washington Post",
+      "URLToVisit": "https://www.washingtonpost.com/"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "The Guardian",
+      "URLToVisit": "https://www.theguardian.com/us"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "Wall Street Journal",
+      "URLToVisit": "https://www.wsj.com/"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "LA Times",
+      "URLToVisit": "http://www.latimes.com/hp-2/"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "New York Times",
+      "URLToVisit": "https://www.nytimes.com/"
+    },
+    {
+      "Category": "News",
+      "MorePagesXPath": "",
+      "NumberOfLinksToGather": 30,
+      "SiteName": "USA Today",
+      "URLToVisit": "https://www.usatoday.com/"
+    }
+  ]
+}

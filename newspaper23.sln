@@ -7,9 +7,10 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "newspaper23", "newspaper23\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA94A6EA-90A8-4D06-8BF3-A6FB695F6E4B}"
 	ProjectSection(SolutionItems) = preProject
-		newspaper23\bin\Debug\filteredOutput.json = newspaper23\bin\Debug\filteredOutput.json
-		newspaper23\bin\Debug\input.json = newspaper23\bin\Debug\input.json
+		newspaper23\bin\Debug\linkLibrary.json = newspaper23\bin\Debug\linkLibrary.json
+		newspaper23\bin\Debug\newspaper23Input.json = newspaper23\bin\Debug\newspaper23Input.json
 		README.md = README.md
+		newspaper23\bin\Debug\recentLinks.json = newspaper23\bin\Debug\recentLinks.json
 	EndProjectSection
 EndProject
 Global

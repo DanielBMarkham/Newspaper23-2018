@@ -66,19 +66,31 @@
             ) []
     /// Eliminates duplicates in a list by evaluating the result of a function on each item
     /// Resulting items must be comparable
-    let removeDuplicatesBy f a =
+    //let removeDuplicatesBy f a =
+    //    a |> List.fold(fun acc x->
+    //        let itemCount = (a |> List.filter(fun y->f x y)).Length
+    //        if itemCount>1
+    //            then
+    //                if acc |> List.exists(fun y->f x y)
+    //                    then
+    //                        acc
+    //                    else
+    //                        List.append acc [x]
+    //            else
+    //                acc
+    //        ) []
+    let removeDuplicatesBy f a:'a[] =
         a |> List.fold(fun acc x->
-            let itemCount = (a |> List.filter(fun y->f x y)).Length
-            if itemCount>1
+            if acc.Length>1
                 then
-                    if acc |> List.exists(fun y->f x y)
+                    if acc |> Array.exists(fun y->(f y)=(f x))
                         then
                             acc
                         else
-                            List.append acc [x]
+                            [|x|]|>Array.append acc 
                 else
-                    acc
-            ) []
+                    [|x|]
+            ) [||]
     /// Finds only the duplicates in a list. Items must be comparable
     let duplicates a =
         a |> List.fold(fun acc x->
@@ -203,15 +215,22 @@
                 then [||]
                 else
                     let nodeResults=doc.DocumentNode.SelectNodes("//a[text()][not(img) and not(@href='#')]")
-                    let resultPairs=
+                    let nodesWithHrefs = 
+                        nodeResults
+                        |>Seq.filter(fun htmlnode->
+                            htmlnode.Attributes.Contains("href")
+                            && htmlnode.Attributes.["href"].Value.Trim()<>""
+                            )
+                    let nodesWithHrefs=
                         nodeResults
                         |> Seq.map(fun x->(
-                                            let originalLinkText=x.InnerHtml
-                                            let urlLink = new Uri(originalLinkText, UriKind.RelativeOrAbsolute)
+                                            let originalLinkText=x.InnerText
+                                            let originalHrefAttribute=x.Attributes.["href"].Value
+                                            let urlLink = new Uri(originalHrefAttribute, UriKind.RelativeOrAbsolute)
                                             let fixedUrl = if urlLink.IsAbsoluteUri=false then (new Uri(docUri,urlLink)) else urlLink
                                             (x.InnerText,fixedUrl.ToString())
                             ))
-                    resultPairs|>Seq.toArray
+                    nodesWithHrefs|>Seq.toArray
         with
             | :? System.Exception as ex ->[||]
     let downloadFile (url:System.Uri) (fileName:string) = 

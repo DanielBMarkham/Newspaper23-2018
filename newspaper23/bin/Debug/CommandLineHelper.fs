@@ -1,6 +1,8 @@
 ﻿module CommandLineHelper
     open SystemTypeExtensions
     open SystemUtilities
+    open System.IO
+    open Newtonsoft.Json
 
     exception UserNeedsHelp of string
     type Verbosity =
@@ -26,8 +28,27 @@
                 if parmSections.Length<2 then Some "" else Some parmSections.[1]
             else
                 None
-    type FileParm = string*System.IO.FileInfo option
-    type DirectoryParm = string*System.IO.DirectoryInfo option
+    //type FileParm = string*System.IO.FileInfo option
+    type FileParm = 
+        {
+            FileName:string
+            FileInfoOption:System.IO.FileInfo option
+        }
+        member x.LoadJsonDataOrCreateJsonFileIfMissing<'a> defaultJsonData =
+            let fileContents= 
+                if (x.FileInfoOption.IsNone) || (File.Exists(x.FileInfoOption.Value.FullName)=false)
+                    then
+                        System.IO.File.CreateText(x.FileName) |> ignore
+                        JsonConvert.SerializeObject(defaultJsonData)
+                    else System.IO.File.ReadAllText(x.FileInfoOption.Value.FullName)
+            let fileData = 
+                if fileContents="" then defaultJsonData else JsonConvert.DeserializeObject<'a>(fileContents)
+            fileData
+    type DirectoryParm = 
+        {
+            DirectoryName:string
+            DirectoryInfoOption:System.IO.DirectoryInfo option
+        }
     type SortOrder = Ascending | Descending
                         static member ToList()=[Ascending;Descending]
                         override this.ToString()=
@@ -84,9 +105,9 @@
                     then
                         if System.IO.Directory.Exists(parmValue.Value)
                             then 
-                                let tempDirectoryInfo = Some(System.IO.DirectoryInfo(parmValue.Value))
-                                defaultConfig.swapInNewValue (parmValue.Value, tempDirectoryInfo)
-                            else defaultConfig.swapInNewValue (parmValue.Value, Option.None)
+                                let tempDirectoryInfoOption = Some(System.IO.DirectoryInfo(parmValue.Value))
+                                defaultConfig.swapInNewValue ({DirectoryName=parmValue.Value; DirectoryInfoOption=tempDirectoryInfoOption})
+                            else defaultConfig.swapInNewValue ({DirectoryName=parmValue.Value; DirectoryInfoOption=Option.None})
                     else
                         defaultConfig
             static member populateValueFromCommandLine ((defaultConfig:ConfigEntry<FileParm>), (args:string[])):ConfigEntry<FileParm>  =
@@ -95,10 +116,10 @@
                     then
                         if System.IO.File.Exists(parmValue.Value)
                             then
-                                let tempFileInfo = Some(System.IO.FileInfo(parmValue.Value))
-                                defaultConfig.swapInNewValue (parmValue.Value, tempFileInfo)
+                                let tempFileInfoOption = Some(System.IO.FileInfo(parmValue.Value))
+                                defaultConfig.swapInNewValue ({FileName=parmValue.Value; FileInfoOption=tempFileInfoOption})
                             else
-                                defaultConfig.swapInNewValue (parmValue.Value, Option.None)
+                                defaultConfig.swapInNewValue ({FileName=parmValue.Value; FileInfoOption=Option.None})
                     else
                         defaultConfig
             static member populateValueFromCommandLine ((defaultConfig:ConfigEntry<bool>), (args:string[])):ConfigEntry<bool> =
@@ -177,8 +198,8 @@
             printfn "%s" this.programName
             this.programHelpText |> Seq.iter(System.Console.WriteLine)
 
-    let directoryExists (dir:ConfigEntry<DirectoryParm>) = (snd (dir.parameterValue)).IsSome
-    let fileExists (dir:ConfigEntry<FileParm>) = (snd (dir.parameterValue)).IsSome
+    let directoryExists (dir:ConfigEntry<DirectoryParm>) = dir.parameterValue.DirectoryInfoOption.IsSome
+    let fileExists (dir:ConfigEntry<FileParm>) = dir.parameterValue.FileInfoOption.IsSome
 
 
 

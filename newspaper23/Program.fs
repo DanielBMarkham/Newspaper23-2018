@@ -8,40 +8,18 @@ open Persist
 open Newtonsoft.Json
 open Newtonsoft.Json.Converters
 
-
 /// The new Main
 let doStuff (opts:Newspaper23Config) =
     // first thing to do is clean/verify input data so that it's bulletproof
-    let inputFileContents= 
-        if ((snd opts.InputFile.parameterValue).IsNone)
-            then
-                System.IO.File.CreateText(fst opts.InputFile.parameterValue) |> ignore
-                defaultInputFileContents
-            else System.IO.File.ReadAllText((snd opts.InputFile.parameterValue).Value.FullName)
-    let inputData = 
-        if inputFileContents="" 
-            then defaultNewspaper23Input
-            else JsonConvert.DeserializeObject<Newspaper23Input>(inputFileContents)
-    let outputFileContents= 
-        if ((snd opts.OutputFile.parameterValue).IsNone)
-            then
-                System.IO.File.CreateText(fst opts.OutputFile.parameterValue) |> ignore
-                defaultOutputFileContents
-            else System.IO.File.ReadAllText((snd opts.OutputFile.parameterValue).Value.FullName)
-    let outputData = 
-        if outputFileContents=""
-            then defaultNewspaper23Output
-            else JsonConvert.DeserializeObject<Newspaper23Output> outputFileContents
-    let filteredOutputFileContents= 
-        if ((snd opts.FilteredOutputFile.parameterValue).IsNone)
-            then
-                System.IO.File.CreateText(fst opts.FilteredOutputFile.parameterValue) |> ignore
-                defaultFilteredOutputFileContents
-            else System.IO.File.ReadAllText((snd opts.FilteredOutputFile.parameterValue).Value.FullName)
-    let filteredOutputData = 
-        if filteredOutputFileContents=""
-            then defaultFilteredNewspaper23Output
-            else JsonConvert.DeserializeObject<Newspaper23Output> filteredOutputFileContents
+    //let inputData,inputFileContents = 
+    //    takeAFileParmAndReturnFileContentsAndDataOrDefault<Newspaper23Input> opts.InputFile.parameterValue defaultNewspaper23Input
+    let inputData = opts.InputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Input> defaultNewspaper23Input
+    //let outputData, outputFileContents =
+    //    takeAFileParmAndReturnFileContentsAndDataOrDefault<Newspaper23Output> opts.OutputFile.parameterValue defaultNewspaper23Output
+    let outputData = opts.OutputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Output> defaultNewspaper23Output
+    //let filteredOutputFileContents, filterdOutputData =
+    //    takeAFileParmAndReturnFileContentsAndDataOrDefault<Newspaper23Output> opts.FilteredOutputFile.parameterValue defaultFilteredNewspaper23Output
+    let filteredOutputputData = opts.FilteredOutputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Output> defaultNewspaper23Output
     // then the main processing loop
     let newOutputDataAndCount = 
         inputData.SitesToVisit 
@@ -65,6 +43,7 @@ let doStuff (opts:Newspaper23Config) =
                                 SiteName=siteToVisit.SiteName
                                 LinkText=incomingLinkText
                                 Link=incomingLinkTarget
+                                LocalLinkFileName=makeLocalLinkFileName incomingLinkText
                                 RipTime=System.DateTime.Now;
                             }
                         let newLinks = [|newLinkItem|] |> Array.append innerAccumulatorOutputFile.Links 
@@ -74,14 +53,22 @@ let doStuff (opts:Newspaper23Config) =
             ) (outputData,0)
     // persist the program output
     let newOutputData = fst newOutputDataAndCount
-    let programOutput=JsonConvert.SerializeObject newOutputData
-    System.IO.File.WriteAllText((snd opts.OutputFile.parameterValue).Value.FullName,programOutput)
+    let newCategoryList =
+        newOutputData.Links |> Array.toList |> removeDuplicatesBy(fun x->x.Category) |> Array.map(fun x->x.Category)
+    let newOutputDataWithCategoryListUpdated = {newOutputData with CategoryList=newCategoryList}
+    let programOutput=JsonConvert.SerializeObject newOutputDataWithCategoryListUpdated
+    let fullOutputFileName = if opts.OutputFile.parameterValue.FileInfoOption.IsSome then opts.OutputFile.parameterValue.FileInfoOption.Value.FullName else opts.OutputFile.parameterValue.FileName
+    System.IO.File.WriteAllText(fullOutputFileName,programOutput)
     let newInputData = {inputData with LastRunTime=System.DateTime.Now}
+    let newSerial=new JsonSerializerSettings()
+    newSerial.Formatting<-Formatting.Indented
     let programInput=JsonConvert.SerializeObject newInputData
-    System.IO.File.WriteAllText((snd opts.InputFile.parameterValue).Value.FullName,programInput)
-    let filteredOutputDataLinks = newOutputData.Links |> Array.filter(fun x->x.RipTime>System.DateTime.Now.AddDays(-2.0))
-    let filteredOutputDataString = JsonConvert.SerializeObject {newOutputData with Links=filteredOutputDataLinks}
-    System.IO.File.WriteAllText((snd opts.FilteredOutputFile.parameterValue).Value.FullName,filteredOutputDataString)
+    let fullInputFileName = if opts.InputFile.parameterValue.FileInfoOption.IsSome then opts.InputFile.parameterValue.FileInfoOption.Value.FullName else opts.InputFile.parameterValue.FileName
+    System.IO.File.WriteAllText(fullInputFileName,programInput)
+    let filteredOutputDataLinks = newOutputDataWithCategoryListUpdated.Links |> Array.filter(fun x->x.RipTime>System.DateTime.Now.AddHours((-1.0) * (float)opts.HoursRecent.parameterValue))
+    let filteredOutputDataString = JsonConvert.SerializeObject {newOutputDataWithCategoryListUpdated with Links=filteredOutputDataLinks}
+    let fullFilteredOutputFileName = if opts.FilteredOutputFile.parameterValue.FileInfoOption.IsSome then opts.FilteredOutputFile.parameterValue.FileInfoOption.Value.FullName else opts.FilteredOutputFile.parameterValue.FileName
+    System.IO.File.WriteAllText(fullFilteredOutputFileName,filteredOutputDataString)
     ()
 
 [<EntryPoint; System.STAThreadAttribute>]

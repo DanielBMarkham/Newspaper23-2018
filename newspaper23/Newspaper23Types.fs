@@ -19,14 +19,17 @@
             ConfigBase:ConfigBase
             InputFile:ConfigEntry<FileParm>
             OutputFile:ConfigEntry<FileParm>
+            FilteredOutputFile:ConfigEntry<FileParm>
         }
         member this.printThis() =
             printfn "MyProgram Parameters Provided"
             this.ConfigBase.verbose.printVal
             this.InputFile.printVal
-            printfn "sourceFileExists: %b" (snd this.InputFile.parameterValue).IsSome
+            printfn "Input File Exists: %b" (snd this.InputFile.parameterValue).IsSome
             this.OutputFile.printVal
-            printfn "destinationDirectoryExists: %b" (snd this.OutputFile.parameterValue).IsSome
+            printfn "Output File Exists: %b" (snd this.OutputFile.parameterValue).IsSome
+            this.FilteredOutputFile.printVal
+            printfn "Filtered Output File Exists: %b" (snd this.FilteredOutputFile.parameterValue).IsSome
 
 
     // Add any help text you want
@@ -39,22 +42,28 @@
     let defaultInputFileName="input.json"
     let defaultInputFileExists=System.IO.File.Exists(defaultInputFileName)
     let defaultInputFileInfo = if defaultInputFileExists then Some (new System.IO.FileInfo(defaultInputFileName)) else option.None
-    let defaultInputFile= createNewConfigEntry "I" "Input File (Optional)" [|"/I:<path> -> full name of the file having program input."|] (defaultInputFileName, defaultInputFileInfo)
+    let defaultInputFile= createNewConfigEntry "I" "Input File (Optional)" [|"/I:<fullName> -> full name of the file having program input."|] (defaultInputFileName, defaultInputFileInfo)
     let defaultOutputFileName="output.json"
     let defaultOutputFileExists=System.IO.File.Exists(defaultOutputFileName)
     let defaultOutputFileInfo = if defaultOutputFileExists then Some (new System.IO.FileInfo(defaultOutputFileName)) else option.None
-    let defaultOutputFile = createNewConfigEntry "D=O" "Outpuf File (Optional)" [|"/O:<path> -> full name of the file where program output will be deployed."|] (defaultOutputFileName, defaultOutputFileInfo)
+    let defaultOutputFile = createNewConfigEntry "O" "Output File (Optional)" [|"/O:<fullName> -> full name of the file where program output will be deployed."|] (defaultOutputFileName, defaultOutputFileInfo)
+    let defaultFilteredOutputFileName="filteredOutput.json"
+    let defaultFilteredOutputFileExists=System.IO.File.Exists(defaultFilteredOutputFileName)
+    let defaultFilteredOutputFileInfo = if defaultFilteredOutputFileExists then Some (new System.IO.FileInfo(defaultFilteredOutputFileName)) else option.None
+    let defaultFilteredOutputFile = createNewConfigEntry "F" "Filtered Output File (Optional)" [|"/F:<fullName> -> full name of the file where program filtered output will be deployed."|] (defaultFilteredOutputFileName, defaultFilteredOutputFileInfo)
 
     let loadConfigFromCommandLine (args:string []):Newspaper23Config =
         if args.Length>0 && (args.[0]="?"||args.[0]="/?"||args.[0]="-?"||args.[0]="--?"||args.[0]="help"||args.[0]="/help"||args.[0]="-help"||args.[0]="--help") then raise (UserNeedsHelp args.[0]) else
         let newVerbosity =ConfigEntry<_>.populateValueFromCommandLine(defaultVerbosity, args)
         let newInputFile = ConfigEntry<_>.populateValueFromCommandLine(defaultInputFile, args)
         let newOutputFile = ConfigEntry<_>.populateValueFromCommandLine(defaultOutputFile, args)
+        let newFilteredOutputFile = ConfigEntry<_>.populateValueFromCommandLine(defaultFilteredOutputFile, args)
         let newConfigBase = {defaultBaseOptions with verbose=newVerbosity}
         { 
             ConfigBase = newConfigBase
             InputFile=newInputFile
             OutputFile=newOutputFile
+            FilteredOutputFile=newFilteredOutputFile
         }
 
 
@@ -108,7 +117,7 @@
         {
             Links=[||];
         }
-    //let defaultOutputFileContents = @"
-    //    "
+    let defaultFilteredNewspaper23Output=defaultNewspaper23Output
     let defaultOutputFileContents = JsonConvert.SerializeObject(defaultNewspaper23Output)
+    let defaultFilteredOutputFileContents = JsonConvert.SerializeObject(defaultFilteredNewspaper23Output)
 

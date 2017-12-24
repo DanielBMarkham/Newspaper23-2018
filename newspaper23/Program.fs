@@ -21,7 +21,7 @@ let doStuff (opts:Newspaper23Config) =
     let inputData = 
         if inputFileContents="" 
             then defaultNewspaper23Input
-            else JsonConvert.DeserializeObject<Newspaper23Input>(defaultInputFileContents)
+            else JsonConvert.DeserializeObject<Newspaper23Input>(inputFileContents)
     let outputFileContents= 
         if ((snd opts.OutputFile.parameterValue).IsNone)
             then
@@ -32,8 +32,18 @@ let doStuff (opts:Newspaper23Config) =
         if outputFileContents=""
             then defaultNewspaper23Output
             else JsonConvert.DeserializeObject<Newspaper23Output> outputFileContents
+    let filteredOutputFileContents= 
+        if ((snd opts.FilteredOutputFile.parameterValue).IsNone)
+            then
+                System.IO.File.CreateText(fst opts.FilteredOutputFile.parameterValue) |> ignore
+                defaultFilteredOutputFileContents
+            else System.IO.File.ReadAllText((snd opts.FilteredOutputFile.parameterValue).Value.FullName)
+    let filteredOutputData = 
+        if filteredOutputFileContents=""
+            then defaultFilteredNewspaper23Output
+            else JsonConvert.DeserializeObject<Newspaper23Output> filteredOutputFileContents
     // then the main processing loop
-    let newOutputData = 
+    let newOutputDataAndCount = 
         inputData.SitesToVisit 
             |> List.fold(fun (outerAccumulatorOutputFile,index) siteToVisit->
             let linkTextAndTargets=findTextLinksOnAPage siteToVisit.URLToVisit
@@ -63,8 +73,15 @@ let doStuff (opts:Newspaper23Config) =
             (newOuterAccumulatorOutputFile,index+1)
             ) (outputData,0)
     // persist the program output
+    let newOutputData = fst newOutputDataAndCount
     let programOutput=JsonConvert.SerializeObject newOutputData
     System.IO.File.WriteAllText((snd opts.OutputFile.parameterValue).Value.FullName,programOutput)
+    let newInputData = {inputData with LastRunTime=System.DateTime.Now}
+    let programInput=JsonConvert.SerializeObject newInputData
+    System.IO.File.WriteAllText((snd opts.InputFile.parameterValue).Value.FullName,programInput)
+    let filteredOutputDataLinks = newOutputData.Links |> Array.filter(fun x->x.RipTime>System.DateTime.Now.AddDays(-2.0))
+    let filteredOutputDataString = JsonConvert.SerializeObject {newOutputData with Links=filteredOutputDataLinks}
+    System.IO.File.WriteAllText((snd opts.FilteredOutputFile.parameterValue).Value.FullName,filteredOutputDataString)
     ()
 
 [<EntryPoint; System.STAThreadAttribute>]

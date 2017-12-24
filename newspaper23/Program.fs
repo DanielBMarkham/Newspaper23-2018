@@ -52,21 +52,22 @@ let doStuff (opts:Newspaper23Config) =
             (newOuterAccumulatorOutputFile,index+1)
             ) (outputData,0)
     // persist the program output
+    let newSerialSettings=new JsonSerializerSettings()
+    newSerialSettings.Formatting<-Formatting.Indented
+
     let newOutputData = fst newOutputDataAndCount
     let newCategoryList =
         newOutputData.Links |> Array.toList |> removeDuplicatesBy(fun x->x.Category) |> Array.map(fun x->x.Category)
     let newOutputDataWithCategoryListUpdated = {newOutputData with CategoryList=newCategoryList}
-    let programOutput=JsonConvert.SerializeObject newOutputDataWithCategoryListUpdated
+    let programOutput=JsonConvert.SerializeObject(newOutputDataWithCategoryListUpdated, newSerialSettings)
     let fullOutputFileName = if opts.OutputFile.parameterValue.FileInfoOption.IsSome then opts.OutputFile.parameterValue.FileInfoOption.Value.FullName else opts.OutputFile.parameterValue.FileName
     System.IO.File.WriteAllText(fullOutputFileName,programOutput)
     let newInputData = {inputData with LastRunTime=System.DateTime.Now}
-    let newSerial=new JsonSerializerSettings()
-    newSerial.Formatting<-Formatting.Indented
-    let programInput=JsonConvert.SerializeObject newInputData
+    let programInput=JsonConvert.SerializeObject(newInputData,newSerialSettings)
     let fullInputFileName = if opts.InputFile.parameterValue.FileInfoOption.IsSome then opts.InputFile.parameterValue.FileInfoOption.Value.FullName else opts.InputFile.parameterValue.FileName
     System.IO.File.WriteAllText(fullInputFileName,programInput)
     let filteredOutputDataLinks = newOutputDataWithCategoryListUpdated.Links |> Array.filter(fun x->x.RipTime>System.DateTime.Now.AddHours((-1.0) * (float)opts.HoursRecent.parameterValue))
-    let filteredOutputDataString = JsonConvert.SerializeObject {newOutputDataWithCategoryListUpdated with Links=filteredOutputDataLinks}
+    let filteredOutputDataString = JsonConvert.SerializeObject({newOutputDataWithCategoryListUpdated with Links=filteredOutputDataLinks}, newSerialSettings)
     let fullFilteredOutputFileName = if opts.FilteredOutputFile.parameterValue.FileInfoOption.IsSome then opts.FilteredOutputFile.parameterValue.FileInfoOption.Value.FullName else opts.FilteredOutputFile.parameterValue.FileName
     System.IO.File.WriteAllText(fullFilteredOutputFileName,filteredOutputDataString)
     ()

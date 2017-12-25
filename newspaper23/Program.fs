@@ -24,7 +24,7 @@ let doStuff (opts:Newspaper23Config) =
     let newOutputDataAndCount = 
         inputData.SitesToVisit 
             |> List.fold(fun (outerAccumulatorOutputFile,index) siteToVisit->
-            let linkTextAndTargets=findTextLinksOnAPage siteToVisit.URLToVisit
+            let linkTextAndTargets=findTextLinksOnAPage siteToVisit.URLToVisit siteToVisit.CustomXPath
             // for each link, see if it already exists in the output file
             // if so, skip. Otherwise add it
             let newOuterAccumulatorOutputFile = 
@@ -33,7 +33,7 @@ let doStuff (opts:Newspaper23Config) =
                 let alreadyExistsInOutputFile =
                     innerAccumulatorOutputFile.Links<>null
                     && innerAccumulatorOutputFile.Links.Length>0
-                    && innerAccumulatorOutputFile.Links|>Array.exists(fun x->x.Link=incomingLinkTarget)
+                    && innerAccumulatorOutputFile.Links|>Array.exists(fun x->(x.Link=incomingLinkTarget) || ((x.SiteName=siteToVisit.SiteName) && (x.LinkText=incomingLinkText)))
                 if alreadyExistsInOutputFile 
                     then innerAccumulatorOutputFile
                     else

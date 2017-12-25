@@ -79,6 +79,7 @@
             URLToVisit:string;
             NumberOfLinksToGather:int;
             MorePagesXPath:string;
+            CustomXPath:string;
         }
     let defaultSiteToVist =
         {
@@ -87,6 +88,7 @@
             URLToVisit="https://www.cnn.com";
             NumberOfLinksToGather=30;
             MorePagesXPath=""
+            CustomXPath=""
         }
     [<NoComparison>]
     type Newspaper23Input =

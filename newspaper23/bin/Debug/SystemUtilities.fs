@@ -81,7 +81,7 @@
     //        ) []
     let removeDuplicatesBy f a:'a[] =
         a |> List.fold(fun acc x->
-            if acc.Length>1
+            if acc.Length>0
                 then
                     if acc |> Array.exists(fun y->(f y)=(f x))
                         then
@@ -207,30 +207,44 @@
                 let htmlResponse = http url 1
                 doc2.LoadHtml htmlResponse
                 doc2
-    let findTextLinksOnAPage (url:string) =
+    let findTextLinksOnAPage (url:string) (customXPathForLinks:string) =
+        let xPathForLinks =
+            if customXPathForLinks.Length=0 
+                then "//a[text()][not(img) and not(@href='#')]"
+                else customXPathForLinks
         try
             let doc = loadDoc url
             let docUri = new Uri(url)
             if (doc.ToString()="") 
                 then [||]
                 else
-                    let nodeResults=doc.DocumentNode.SelectNodes("//a[text()][not(img) and not(@href='#')]")
+                    let nodeResults=doc.DocumentNode.SelectNodes(xPathForLinks)
                     let nodesWithHrefs = 
                         nodeResults
                         |>Seq.filter(fun htmlnode->
                             htmlnode.Attributes.Contains("href")
                             && htmlnode.Attributes.["href"].Value.Trim()<>""
                             )
-                    let nodesWithHrefs=
-                        nodeResults
+                    let nodesWithFixedHrefs=
+                        nodesWithHrefs
                         |> Seq.map(fun x->(
                                             let originalLinkText=x.InnerText
                                             let originalHrefAttribute=x.Attributes.["href"].Value
                                             let urlLink = new Uri(originalHrefAttribute, UriKind.RelativeOrAbsolute)
                                             let fixedUrl = if urlLink.IsAbsoluteUri=false then (new Uri(docUri,urlLink)) else urlLink
-                                            (x.InnerText,fixedUrl.ToString())
+                                            let trimmedLinkText=x.InnerText.Trim()
+                                            let newlineCount=System.Text.RegularExpressions.Regex.Matches(trimmedLinkText,"\n").Count
+                                            let newlineHappyPosterFix =
+                                                if newlineCount <1 
+                                                    then trimmedLinkText
+                                                    else
+                                                        let splitOnNewlines=trimmedLinkText.Split([|"\n"|], System.StringSplitOptions.None)
+                                                        let filterOutAnyHunkThatLooksLikeAnHtmlNode=splitOnNewlines|>Array.filter(fun x->(x.Contains("&lt;") && x.Contains("&gt;"))=false)
+                                                        let biggestHunk=(filterOutAnyHunkThatLooksLikeAnHtmlNode|>Array.sortBy(fun x->x.Trim().Length)|>Array.rev).[0]
+                                                        biggestHunk.Trim()
+                                            (newlineHappyPosterFix,fixedUrl.ToString())
                             ))
-                    nodesWithHrefs|>Seq.toArray
+                    nodesWithFixedHrefs|>Seq.toArray
         with
             | :? System.Exception as ex ->[||]
     let downloadFile (url:System.Uri) (fileName:string) = 

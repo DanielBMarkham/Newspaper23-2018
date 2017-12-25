@@ -12,7 +12,8 @@
         let month=System.DateTime.Now.Month.ToString()
         let day=System.DateTime.Now.Day.ToString()
         let hour=System.DateTime.Now.Hour.ToString()
-        let titleWords=linkText.Split([|" "|], System.StringSplitOptions.None)
+        let linkTextNoPunctuation=System.Text.RegularExpressions.Regex.Replace(linkText, @"\p{P}", "")
+        let titleWords=linkTextNoPunctuation.Split([|" "|], System.StringSplitOptions.None)
         let titleWordsSortedByLength= titleWords |> Array.sortBy(fun x->x.Trim().Length) |> Array.rev
         let longestWordPlusHyphen1=
             if titleWordsSortedByLength.Length>0 

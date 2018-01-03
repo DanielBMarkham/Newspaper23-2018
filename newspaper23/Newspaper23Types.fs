@@ -112,17 +112,20 @@
             LinkText:string;
             Link:string;
             LocalLinkFileName:string;
+            CentileRanking:int;
             RipTime:DateTime;
         }
     [<NoComparison>]
     type Newspaper23Output=
         {
             CategoryList:string[]
+            SiteList:string[]
             Links:SiteVisitedLinkRecord[];
         }
     let defaultNewspaper23Output =
         {
             CategoryList=[||]
+            SiteList=[||]
             Links=[||]
         }
     let defaultFilteredNewspaper23Output=defaultNewspaper23Output

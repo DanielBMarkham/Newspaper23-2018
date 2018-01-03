@@ -45,6 +45,7 @@ let doStuff (opts:Newspaper23Config) =
                                 Link=incomingLinkTarget
                                 LocalLinkFileName=makeLocalLinkFileName incomingLinkText
                                 RipTime=System.DateTime.Now;
+                                CentileRanking=0;
                             }
                         let newLinks = [|newLinkItem|] |> Array.append innerAccumulatorOutputFile.Links 
                         {innerAccumulatorOutputFile with Links=newLinks}
@@ -58,7 +59,9 @@ let doStuff (opts:Newspaper23Config) =
     let newOutputData = fst newOutputDataAndCount
     let newCategoryList =
         newOutputData.Links |> Array.toList |> removeDuplicatesBy(fun x->x.Category) |> Array.map(fun x->x.Category)
-    let newOutputDataWithCategoryListUpdated = {newOutputData with CategoryList=newCategoryList}
+    let newSiteList =
+        newOutputData.Links |> Array.toList |> removeDuplicatesBy(fun x->x.SiteName) |> Array.map(fun x->x.SiteName)
+    let newOutputDataWithCategoryListUpdated = {newOutputData with CategoryList=newCategoryList; SiteList=newSiteList}
     let programOutput=JsonConvert.SerializeObject(newOutputDataWithCategoryListUpdated, newSerialSettings)
     let fullOutputFileName = if opts.OutputFile.parameterValue.FileInfoOption.IsSome then opts.OutputFile.parameterValue.FileInfoOption.Value.FullName else opts.OutputFile.parameterValue.FileName
     System.IO.File.WriteAllText(fullOutputFileName,programOutput)
@@ -66,13 +69,16 @@ let doStuff (opts:Newspaper23Config) =
     let programInput=JsonConvert.SerializeObject(newInputData,newSerialSettings)
     let fullInputFileName = if opts.InputFile.parameterValue.FileInfoOption.IsSome then opts.InputFile.parameterValue.FileInfoOption.Value.FullName else opts.InputFile.parameterValue.FileName
     System.IO.File.WriteAllText(fullInputFileName,programInput)
-    let filteredOutputDataLinks = newOutputDataWithCategoryListUpdated.Links |> Array.filter(fun x->x.RipTime>System.DateTime.Now.AddHours((-1.0) * (float)opts.HoursRecent.parameterValue))
-    let filteredOutputDataString = JsonConvert.SerializeObject({newOutputDataWithCategoryListUpdated with Links=filteredOutputDataLinks}, newSerialSettings)
+    let filteredOutputDataLinks = newOutputDataWithCategoryListUpdated.Links |> Array.filter(fun x->x.RipTime>System.DateTime.Now.AddHours((-12.0) * (float)opts.HoursRecent.parameterValue))
+    let preFilteredOutput = addStatsToLinks newOutputDataWithCategoryListUpdated.Links filteredOutputDataLinks
+    let finalFilteredOutputData={newOutputDataWithCategoryListUpdated with Links=preFilteredOutput}
+    let filteredOutputDataString = JsonConvert.SerializeObject(finalFilteredOutputData, newSerialSettings)
     let fullFilteredOutputFileName = if opts.FilteredOutputFile.parameterValue.FileInfoOption.IsSome then opts.FilteredOutputFile.parameterValue.FileInfoOption.Value.FullName else opts.FilteredOutputFile.parameterValue.FileName
     System.IO.File.WriteAllText(fullFilteredOutputFileName,filteredOutputDataString)
+    saveLinkStats newOutputDataWithCategoryListUpdated.Links finalFilteredOutputData.Links
     ()
 
-[<EntryPoint; System.STAThreadAttribute>]
+[<EntryPoint; System.STAThreadAttribute>] 
 let main argv = 
     try
         let opts = loadConfigFromCommandLine argv

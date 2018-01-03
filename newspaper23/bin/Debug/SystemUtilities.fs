@@ -4,6 +4,7 @@
     open System.IO
     open System.Net
     open HtmlAgilityPack
+    open System.Threading
 
     let allCardinalNumbers = {1..10000}
 
@@ -64,21 +65,18 @@
                 else
                     acc
             ) []
-    /// Eliminates duplicates in a list by evaluating the result of a function on each item
-    /// Resulting items must be comparable
-    //let removeDuplicatesBy f a =
-    //    a |> List.fold(fun acc x->
-    //        let itemCount = (a |> List.filter(fun y->f x y)).Length
-    //        if itemCount>1
-    //            then
-    //                if acc |> List.exists(fun y->f x y)
-    //                    then
-    //                        acc
-    //                    else
-    //                        List.append acc [x]
-    //            else
-    //                acc
-    //        ) []
+
+    let batchesOf n =
+        Seq.mapi (fun i v -> i / n, v) >>
+        Seq.groupBy fst >>
+        Seq.map snd >>
+        Seq.map (Seq.map snd)
+    let batchesOfNBy f n =
+        Seq.mapi (fun i v -> i / (f n), v) >>
+        Seq.groupBy fst >>
+        Seq.map snd >>
+        Seq.map (Seq.map snd)
+
     let removeDuplicatesBy f a:'a[] =
         a |> List.fold(fun acc x->
             if acc.Length>0
@@ -151,8 +149,6 @@
         client.Headers.Add(HttpRequestHeader.Accept, "text/html,application/xhtml+xml,application/xml")
         client.Headers.Add(HttpRequestHeader.AcceptLanguage, "en-us,en;q=0.5")
         client.Headers.Add(HttpRequestHeader.Upgrade, "1")
-        //let yesterdayInWebHeaderFormat=String.Format(@"{0:ddd,' 'dd' 'MMM' 'yyyy' 'HH':'mm':'ss' 'G\MT}", DateTime.Now.AddDays(-1.0))
-        //client.Headers.Add(HttpRequestHeader.IfModifiedSince, yesterdayInWebHeaderFormat)
         client.Headers.Add("DNT", "1")
         client
     /// Fetch the contents of a web page
@@ -192,21 +188,57 @@
                         System.Console.WriteLine("Inner")
                         System.Console.WriteLine(ex.InnerException.Message)
                         ""
+    let withTimeout (timeOut: option<int>) (operation: Async<'x>) : Async<option<'x>> =
+      match timeOut with
+       | None -> async {
+           let! result = operation
+           return Some result
+         }
+       | Some timeOut -> async {
+           let! child = Async.StartChild (operation, timeOut)
+           try
+             let! result = child
+             return Some result
+           with :? System.TimeoutException ->
+             return None
+         }
+
     let loadDoc url =
-        let doc1=
-            try 
+        let tOut=new System.Timers.Timer((float)60000)
+        let doc =
+            try
+                tOut.Elapsed.Add(fun x->
+                    tOut.Stop()
+                    tOut.Enabled<-false
+                    tOut.Dispose()                    
+                    raise (new System.TimeoutException()))
+                tOut.Start()
                 let web=new HtmlWeb()
-                web.BrowserTimeout<-TimeSpan(0,0,30)
-                web.LoadFromBrowser(url)
-            with        
-            | :? System.Exception as ex ->new HtmlDocument()        
-        if doc1.ParsedText<>""
-            then doc1
+                web.BrowserTimeout<-TimeSpan(0,0,25)
+                web.BrowserDelay<-TimeSpan(0,0,25)                    
+                let ret=web.LoadFromBrowser url
+                tOut.Stop()
+                tOut.Enabled<-false
+                tOut.Dispose()
+                ret
+            with
+            | :? System.TimeoutException as tEx->
+                tOut.Stop()
+                tOut.Enabled<-false
+                tOut.Dispose()
+                new HtmlDocument()
+            | :? System.Exception as ex ->
+                tOut.Stop()
+                tOut.Enabled<-false
+                tOut.Dispose()
+                new HtmlDocument()        
+        if doc.ParsedText<>""
+            then doc
             else
                 let doc2 = new HtmlDocument()
                 let htmlResponse = http url 1
                 doc2.LoadHtml htmlResponse
-                doc2
+                doc2            
     let findTextLinksOnAPage (url:string) (customXPathForLinks:string) =
         let xPathForLinks =
             if customXPathForLinks.Length=0 

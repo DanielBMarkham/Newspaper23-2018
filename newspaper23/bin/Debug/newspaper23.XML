@@ -84,12 +84,6 @@
  Finds only the duplicates in a list. Items must be comparable
 </summary>
 </member>
-<member name="M:SystemUtilities.removeDuplicatesBy``2(Microsoft.FSharp.Core.FSharpFunc{``0,``1},Microsoft.FSharp.Collections.FSharpList{``0})">
-<summary>
- Eliminates duplicates in a list by evaluating the result of a function on each item
- Resulting items must be comparable
-</summary>
-</member>
 <member name="M:SystemUtilities.removeDuplicates``1(Microsoft.FSharp.Collections.FSharpList{``0})">
 <summary>
  Eliminates duplicate items in a list. Items must be comparable
@@ -125,6 +119,11 @@
 <member name="M:CommandLineHelper.commandLinePrintWhileEnter(CommandLineHelper.ConfigBase,Microsoft.FSharp.Core.FSharpFunc{Microsoft.FSharp.Core.Unit,Microsoft.FSharp.Core.Unit})">
 <summary>
  Prints out the options for the command before it runs. Detail level is based on verbosity setting
+</summary>
+</member>
+<member name="M:Utilities.longestNWords(System.String,System.Int32,System.Int32)">
+<summary>
+ takes a sentence and returns top N words, with a cutoff in wordLength
 </summary>
 </member>
 <member name="M:Program.doStuff(Newspaper23Types.Newspaper23Config)">

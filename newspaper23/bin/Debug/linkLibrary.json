@@ -1,12 +1,16 @@
 {
   "CategoryList": [
     "News",
-    "Opinion"
+    "Opinion",
+    "Tech/Programming"
   ],
   "SiteList": [
     "Yahoo News",
     "The Atlantic",
-    "America Blog"
+    "America Blog",
+    "Gamasutra",
+    "LA Times",
+    "Salon"
   ],
   "Links": [
     {
@@ -2600,6 +2604,3426 @@
       "LocalLinkFileName": "2018-2-12-11-Google+-xfirx0dw.a4u.html",
       "CentileRanking": 0,
       "RipTime": "2018-02-12T11:23:17.0931207-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Gamasutra",
+      "Link": "https://www.gamasutra.com/",
+      "LocalLinkFileName": "2018-2-12-14-Gamasutra-xx1srjoz.dr3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "GameCareerGuide",
+      "Link": "http://www.gamecareerguide.com/",
+      "LocalLinkFileName": "2018-2-12-14-GameCareerGuide-a3ia2l2e.4qb.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "IndieGames",
+      "Link": "http://www.indiegames.com/",
+      "LocalLinkFileName": "2018-2-12-14-IndieGames-vpiso1mc.bk0.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "GDC Vault",
+      "Link": "http://www.gdcvault.com/",
+      "LocalLinkFileName": "2018-2-12-14-Vault-1en4ab1t.drl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "GDC",
+      "Link": "http://www.gdconf.com/",
+      "LocalLinkFileName": "2018-2-12-14-GDC-1dw1zjhw.w4c.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "IGF",
+      "Link": "http://www.igf.com/",
+      "LocalLinkFileName": "2018-2-12-14-IGF-u53ftnvf.pqx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "GAME JOBS",
+      "Link": "http://jobs.gamasutra.com/",
+      "LocalLinkFileName": "2018-2-12-14-JOBS-fcugk3ee.gpj.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "updates",
+      "Link": "https://www.gamasutra.com/updates/",
+      "LocalLinkFileName": "2018-2-12-14-updates-fac1hrpg.iwr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blogs",
+      "Link": "https://www.gamasutra.com/blogs/",
+      "LocalLinkFileName": "2018-2-12-14-Blogs-acsfybf5.ocs.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "contractors",
+      "Link": "https://www.gamasutra.com/contractors/contractor_display.php",
+      "LocalLinkFileName": "2018-2-12-14-contractors-whf2lra0.enq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "newsletter",
+      "Link": "https://www.gamasutra.com/newsletter-signup",
+      "LocalLinkFileName": "2018-2-12-14-newsletter-x2smclg5.dqr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7362788-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "store",
+      "Link": "https://store.cmpgame.com/storefront.php?loc=&skin=gamasutra_redesign",
+      "LocalLinkFileName": "2018-2-12-14-store-eeqgmvz2.jp1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "ALL",
+      "Link": "http://www.gamasutra.com/",
+      "LocalLinkFileName": "2018-2-12-14-ALL-dyvm5t3a.jsd.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "CONSOLE/PC",
+      "Link": "https://www.gamasutra.com/topic/console-pc",
+      "LocalLinkFileName": "2018-2-12-14-CONSOLEPC-wsz4kqwc.lbn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "SMARTPHONE/TABLET",
+      "Link": "https://www.gamasutra.com/topic/smartphone-tablet",
+      "LocalLinkFileName": "2018-2-12-14-SMARTPHONETABLET-jbmzlsf2.3cm.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "INDEPENDENT",
+      "Link": "https://www.gamasutra.com/topic/indie",
+      "LocalLinkFileName": "2018-2-12-14-INDEPENDENT-yunu3zsc.pc5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "VR/AR",
+      "Link": "https://www.gamasutra.com/topic/vr",
+      "LocalLinkFileName": "2018-2-12-14-VRAR-geozmi01.tzz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "SOCIAL/ONLINE",
+      "Link": "https://www.gamasutra.com/topic/social-online",
+      "LocalLinkFileName": "2018-2-12-14-SOCIALONLINE-4fg35x0h.41q.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "&nbsp;",
+      "Link": "http://www.facebook.com/pages/Gamasutra/31610613408",
+      "LocalLinkFileName": "2018-2-12-14-nbsp-cyno1f5j.vhq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "PROGRAMMING",
+      "Link": "https://www.gamasutra.com/category/programming/",
+      "LocalLinkFileName": "2018-2-12-14-PROGRAMMING-h05yyvc0.ss3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "ART",
+      "Link": "https://www.gamasutra.com/category/art/",
+      "LocalLinkFileName": "2018-2-12-14-ART-3ul4orc0.wua.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "AUDIO",
+      "Link": "https://www.gamasutra.com/category/audio/",
+      "LocalLinkFileName": "2018-2-12-14-AUDIO-dbeuisbw.rvf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "DESIGN",
+      "Link": "https://www.gamasutra.com/category/design/",
+      "LocalLinkFileName": "2018-2-12-14-DESIGN-wwoifocw.pdi.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "PRODUCTION",
+      "Link": "https://www.gamasutra.com/category/production/",
+      "LocalLinkFileName": "2018-2-12-14-PRODUCTION-13f5qekc.omw.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "BIZ/MARKETING",
+      "Link": "https://www.gamasutra.com/category/business-marketing/",
+      "LocalLinkFileName": "2018-2-12-14-BIZMARKETING-op4ydwlc.szp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Business Development Coordinator",
+      "Link": "http://jobs.gamasutra.com/job/business-development-coordinator-san-francisco-california-32595",
+      "LocalLinkFileName": "2018-2-12-14-Coordinator-Development-Business-d4yc4mxg.x5x.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Senior AI Programmer",
+      "Link": "http://jobs.gamasutra.com/job/senior-ai-programmer-helsinki-capital-area-32459",
+      "LocalLinkFileName": "2018-2-12-14-Programmer-Senior-rzylxhuo.yll.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Lead Programmer",
+      "Link": "http://jobs.gamasutra.com/job/lead-programmer-bangalore-32655",
+      "LocalLinkFileName": "2018-2-12-14-Programmer-ehxnsqej.vxt.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Lead Game Designer",
+      "Link": "http://jobs.gamasutra.com/job/lead-game-designer-espoo-32620",
+      "LocalLinkFileName": "2018-2-12-14-Designer-prfy0s41.jy2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Experienced Game Developer",
+      "Link": "http://jobs.gamasutra.com/job/experienced-game-developer-tokyo-31908",
+      "LocalLinkFileName": "2018-2-12-14-Experienced-Developer-3kwkdwbd.3gn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Gameplay Engineer",
+      "Link": "http://jobs.gamasutra.com/job/gameplay-engineer-seattle-washington-32594",
+      "LocalLinkFileName": "2018-2-12-14-Engineer-Gameplay-4yn4024c.o25.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Video Game Deep Cuts: Outsourcing My Death Anxiety",
+      "Link": "https://www.gamasutra.com/blogs/SimonCarless/20180212/314564/Video_Game_Deep_Cuts_Outsourcing_My_Death_Anxiety.php",
+      "LocalLinkFileName": "2018-2-12-14-Outsourcing-Anxiety-Death-Video-qmp22y2h.ycl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Revolutionary Warfare | The AI of Total War (Part 3)",
+      "Link": "https://www.gamasutra.com/blogs/TommyThompson/20180212/314399/Revolutionary_Warfare__The_AI_of_Total_War_Part_3.php",
+      "LocalLinkFileName": "2018-2-12-14-Revolutionary-Warfare-Total-cdxek0j2.qqp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Episodic design 2.0 - Gameplay and storytelling at its best (Part 2)",
+      "Link": "https://www.gamasutra.com/blogs/PascalLuban/20180212/314514/Episodic_design_20__Gameplay_and_storytelling_at_its_best_Part_2.php",
+      "LocalLinkFileName": "2018-2-12-14-storytelling-Gameplay-Episodic-design-41hdwgqy.exi.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Why I Loved &quot;Edith Finch&quot;",
+      "Link": "https://www.gamasutra.com/blogs/RaphKoster/20180208/314446/Why_I_Loved_quotEdith_Finchquot.php",
+      "LocalLinkFileName": "2018-2-12-14-Finchquot-quotEdith-Loved-kd4cvnk4.ktr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Game Economics Defined",
+      "Link": "https://www.gamasutra.com/blogs/RaminShokrizade/20180208/314450/Game_Economics_Defined.php",
+      "LocalLinkFileName": "2018-2-12-14-Economics-Defined-xyia03c5.xkb.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "10",
+      "Link": "https://www.gamasutra.com/blogs/RaminShokrizade/20180208/314450/Game_Economics_Defined.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-10-pke31qtu.rew.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "CONARIUM TO HAUNT MAC AND",
+      "Link": "https://www.gamasutra.com/view/pressreleases/314351/CONARIUM_TO_HAUNT_MAC_AND_LINUX_USERS.php",
+      "LocalLinkFileName": "2018-2-12-14-CONARIUM-HAUNT-nzfx30lb.0jl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "THE SEVEN DEADLY SINS:",
+      "Link": "https://www.gamasutra.com/view/pressreleases/314349/THE_SEVEN_DEADLY_SINS_KNIGHTS_OF_BRITANNIA_PRE_LAUNCH_TRAILER.php",
+      "LocalLinkFileName": "2018-2-12-14-DEADLY-SEVEN-uslpftg0.rnx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "NEON | Launching on Steam",
+      "Link": "https://www.gamasutra.com/view/pressreleases/314345/NEON__Launching_on_Steam_tomorrow.php",
+      "LocalLinkFileName": "2018-2-12-14-Launching-Steam-exxbnnwf.obi.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Merge Games partners with",
+      "Link": "https://www.gamasutra.com/view/pressreleases/314340/Merge_Games_partners_with_Angry_Mob_Games_to_bring_party_fighting_game_quotBrawloutquot_to_retail.php",
+      "LocalLinkFileName": "2018-2-12-14-partners-Games-Merge-iucf5jda.dx3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Shoppe Keep 2 Character",
+      "Link": "https://www.gamasutra.com/view/pressreleases/314341/Shoppe_Keep_2_Character_Creator_Preview__Available_Today.php",
+      "LocalLinkFileName": "2018-2-12-14-Character-Shoppe-jeikmjll.jbi.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "About",
+      "Link": "https://www.gamasutra.com/contactus",
+      "LocalLinkFileName": "2018-2-12-14-About-utxbaosg.r1m.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Kris Graft",
+      "Link": "mailto:kgraft@gamasutra.com",
+      "LocalLinkFileName": "2018-2-12-14-Graft-inkhyn4v.3uz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Alex Wawro",
+      "Link": "mailto:alex.wawro@ubm.com",
+      "LocalLinkFileName": "2018-2-12-14-Wawro-t5214210.psm.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Chris Baker",
+      "Link": "mailto:chris.baker@ubm.com",
+      "LocalLinkFileName": "2018-2-12-14-Baker-Chris-kyy5050q.dyu.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Libby Kruse",
+      "Link": "mailto:libby.kruse@ubm.com",
+      "LocalLinkFileName": "2018-2-12-14-Kruse-Libby-ryjb54j4.hln.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Report a Problem",
+      "Link": "mailto:support@gamasutra.com",
+      "LocalLinkFileName": "2018-2-12-14-Problem-Report-fv0joo2l.heh.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Submit News",
+      "Link": "mailto:news@gamasutra.com",
+      "LocalLinkFileName": "2018-2-12-14-Submit-gkwhxjsv.1ht.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Comment Guidelines",
+      "Link": "https://www.gamasutra.com/static2/comment_guidelines.html",
+      "LocalLinkFileName": "2018-2-12-14-Guidelines-Comment-wixmdf3l.3cq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blogging Guidelines",
+      "Link": "https://www.gamasutra.com/static2/blogsubmissions.html",
+      "LocalLinkFileName": "2018-2-12-14-Guidelines-Blogging-p0udu4bt.k4k.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "How We Work",
+      "Link": "https://www.gamasutra.com/static2/howwework.html",
+      "LocalLinkFileName": "2018-2-12-14-Work-uz313vnz.lad.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Indie Games",
+      "Link": "http://www.indiegames.com/blog",
+      "LocalLinkFileName": "2018-2-12-14-Games-Indie-esi2vfys.sse.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "1",
+      "Link": "https://www.gamasutra.com/view/news/314527/Designing_drama_into_the_turnbased_combat_of_Divinity_Original_Sin_2.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-1-hieysbhf.wmd.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Designing drama into the turn-based combat of Divinity: Original Sin 2",
+      "Link": "https://www.gamasutra.com/view/news/314527/Designing_drama_into_the_turnbased_combat_of_Divinity_Original_Sin_2.php",
+      "LocalLinkFileName": "2018-2-12-14-turnbased-Designing-Original-Divinity-aa1umkwi.i5s.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "&nbsp",
+      "Link": "https://www.gamasutra.com/view/news/314574/Baldurs_Gate_and_Dragon_Age_scribe_David_Gaider_departs_Beamdog.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-nbsp-uaotbylm.u5e.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Baldur's Gate and Dragon Age scribe David Gaider departs Beamdog",
+      "Link": "https://www.gamasutra.com/view/news/314574/Baldurs_Gate_and_Dragon_Age_scribe_David_Gaider_departs_Beamdog.php",
+      "LocalLinkFileName": "2018-2-12-14-Beamdog-departs-Baldurs-Gaider-1pkousmp.zjj.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blog: Some tips for fresh faced freelancers",
+      "Link": "https://www.gamasutra.com/blogs/MariaNovikova/20180208/314469/Wonderful_world_of_game_development_8_tips_for_newcomer_freelancers.php",
+      "LocalLinkFileName": "2018-2-12-14-freelancers-faced-fresh-3akqzxa5.0ov.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7372784-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Monster Hunter: World becomes fastest-selling Capcom title in history",
+      "Link": "https://www.gamasutra.com/view/news/314576/Monster_Hunter_World_becomes_fastestselling_Capcom_title_in_history.php",
+      "LocalLinkFileName": "2018-2-12-14-fastestselling-history-becomes-Monster-i334pjn5.fys.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "7",
+      "Link": "https://www.gamasutra.com/view/news/314419/The_Fire_Fades_Dealing_with_the_scourge_of_burnout_in_game_dev.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-7-gu2aeyvx.twc.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "The Fire Fades: Dealing with the scourge of burnout in game dev",
+      "Link": "https://www.gamasutra.com/view/news/314419/The_Fire_Fades_Dealing_with_the_scourge_of_burnout_in_game_dev.php",
+      "LocalLinkFileName": "2018-2-12-14-burnout-scourge-Dealing-Fades-npg15kb4.yvf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "11",
+      "Link": "https://www.gamasutra.com/blogs/PhilomenaSchwab/20180207/314432/Nimbatus__How_a_free_demo_got_our_game_funded.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-11-xebmghik.1x4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blog: A data-driven look at how a free demo can help fund your game",
+      "Link": "https://www.gamasutra.com/blogs/PhilomenaSchwab/20180207/314432/Nimbatus__How_a_free_demo_got_our_game_funded.php",
+      "LocalLinkFileName": "2018-2-12-14-datadriven-gheadjck.cjt.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Latest Updates",
+      "Link": "https://www.gamasutra.com/updates",
+      "LocalLinkFileName": "2018-2-12-14-Updates-Latest-vxn0p2y5.hk2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Road to the IGF: Nifflas Games' Uurnog Uurnlimited",
+      "Link": "https://www.gamasutra.com/view/news/314384/Road_to_the_IGF_Nifflas_Games_Uurnog_Uurnlimited.php",
+      "LocalLinkFileName": "2018-2-12-14-Uurnlimited-Nifflas-Uurnog-Games-g5wzzqxg.wse.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Learn to build better eSports at the GDC 2018 eSports Day!",
+      "Link": "https://www.gamasutra.com/view/news/314531/Learn_to_build_better_eSports_at_the_GDC_2018_eSports_Day.php",
+      "LocalLinkFileName": "2018-2-12-14-eSports-eSports-better-build-bodc5uin.idx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "3",
+      "Link": "https://www.gamasutra.com/blogs/TimBaijens/20180208/314455/How_the_postgame_keeps_us_playing_or_doesnt.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-3-ebcgvacs.ahv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blog: How post-game screens keep us playing (or don't)",
+      "Link": "https://www.gamasutra.com/blogs/TimBaijens/20180208/314455/How_the_postgame_keeps_us_playing_or_doesnt.php",
+      "LocalLinkFileName": "2018-2-12-14-postgame-playing-screens-a3sy3rul.fuz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "IGDA names Jen MacLean permanent executive director",
+      "Link": "https://www.gamasutra.com/view/news/314581/IGDA_names_Jen_MacLean_permanent_executive_director.php",
+      "LocalLinkFileName": "2018-2-12-14-executive-permanent-director-MacLean-rngfvkw1.jyz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Video: The ten principles for better level design",
+      "Link": "https://www.gamasutra.com/view/news/314544/Video_The_ten_principles_for_better_level_design.php",
+      "LocalLinkFileName": "2018-2-12-14-principles-design-better-level-0mr20qkv.lmg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Nintendo uncertain about future of the 3DS after Switch's success",
+      "Link": "https://www.gamasutra.com/view/news/314541/Nintendo_uncertain_about_future_of_the_3DS_after_Switchs_success.php",
+      "LocalLinkFileName": "2018-2-12-14-uncertain-Nintendo-success-Switchs-kmrxgpr3.4zw.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "The hands-free development of Dig Dog",
+      "Link": "https://www.gamasutra.com/view/news/314537/The_handsfree_development_of_Dig_Dog.php",
+      "LocalLinkFileName": "2018-2-12-14-development-handsfree-3wkfqjit.vlf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "$8M in funds raised for mobile AR company 8th Wall",
+      "Link": "https://www.gamasutra.com/view/news/314535/8M_in_funds_raised_for_mobile_AR_company_8th_Wall.php",
+      "LocalLinkFileName": "2018-2-12-14-company-mobile-raised-funds-fvnhvy3t.ywy.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Nexon closes 2017 with record Q4 revenue",
+      "Link": "https://www.gamasutra.com/view/news/314534/Nexon_closes_2017_with_record_Q4_revenue.php",
+      "LocalLinkFileName": "2018-2-12-14-revenue-record-closes-Nexon-3wejylhd.d5a.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Don't Miss: The dramatic value of player motivation in story-driven games",
+      "Link": "https://www.gamasutra.com/blogs/ChrisSolarski/20170209/291164/The_Unreliable_Gamemaster_Player_Motivation_in_StoryDriven_Games.php",
+      "LocalLinkFileName": "2018-2-12-14-storydriven-motivation-dramatic-player-nbhbgjfl.njc.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Alt.Ctrl.GDC Showcase: Unicornelia",
+      "Link": "https://www.gamasutra.com/view/news/314282/AltCtrlGDC_Showcase_Unicornelia.php",
+      "LocalLinkFileName": "2018-2-12-14-Unicornelia-AltCtrlGDC-Showcase-4sxzkvpo.hty.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Nintendo: The Switch's biggest challenge is broadening its appeal",
+      "Link": "https://www.gamasutra.com/view/news/314532/Nintendo_The_Switchs_biggest_challenge_is_broadening_its_appeal.php",
+      "LocalLinkFileName": "2018-2-12-14-broadening-challenge-Nintendo-biggest-5ei3rjys.f5u.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "The Nintendo Switch, Joy-Cons, and even Labo are the result of Wii-era feedback",
+      "Link": "https://www.gamasutra.com/view/news/314530/The_Nintendo_Switch_JoyCons_and_even_Labo_are_the_result_of_Wiiera_feedback.php",
+      "LocalLinkFileName": "2018-2-12-14-feedback-Nintendo-JoyCons-Wiiera-ft3sf12j.zrv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Road to the IGF: DANG!'s IO Interloper",
+      "Link": "https://www.gamasutra.com/view/news/314220/Road_to_the_IGF_DANGs_IO_Interloper.php",
+      "LocalLinkFileName": "2018-2-12-14-Interloper-DANGs-tkhsusle.2zj.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blog: Exploded views in Unreal Engine 4",
+      "Link": "https://www.gamasutra.com/blogs/DriesDeryckere/20180122/313460/Exploded_Views_in_Unreal_Engine_4.php",
+      "LocalLinkFileName": "2018-2-12-14-Exploded-Engine-Unreal-views-41dv3ujz.c3x.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Learn to make games for ARKit, straight from Apple, at GDC 2018!",
+      "Link": "https://www.gamasutra.com/view/news/314496/Learn_to_make_games_for_ARKit_straight_from_Apple_at_GDC_2018.php",
+      "LocalLinkFileName": "2018-2-12-14-straight-Apple-ARKit-games-uwayefhl.zp5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Bandai Namco to focus on creating new properties as profits slide",
+      "Link": "https://www.gamasutra.com/view/news/314518/Bandai_Namco_to_focus_on_creating_new_properties_as_profits_slide.php",
+      "LocalLinkFileName": "2018-2-12-14-properties-creating-profits-Bandai-uiletbzt.l2r.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "20",
+      "Link": "https://www.gamasutra.com/blogs/ChrisZukowski/20180206/314371/Why_people_dont_buy_your_game.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-20-wzrdch34.3up.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blog: Why people aren't buying your game",
+      "Link": "https://www.gamasutra.com/blogs/ChrisZukowski/20180206/314371/Why_people_dont_buy_your_game.php",
+      "LocalLinkFileName": "2018-2-12-14-buying-people-arent-qyuhhm3b.0c5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "6",
+      "Link": "https://www.gamasutra.com/blogs/NachoPintos/20180207/314206/Evolution_of_the_Videogames_Industry_through_its_manifestos.php#comments",
+      "LocalLinkFileName": "2018-2-12-14-6-ys13w4j1.2p1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Blog: Charting the evolution of the games industry",
+      "Link": "https://www.gamasutra.com/blogs/NachoPintos/20180207/314206/Evolution_of_the_Videogames_Industry_through_its_manifestos.php",
+      "LocalLinkFileName": "2018-2-12-14-evolution-industry-Charting-games-g1fpqras.x4v.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "ESL nabs minority stake in Indian mobile publisher Nazara",
+      "Link": "https://www.gamasutra.com/view/news/314508/ESL_nabs_minority_stake_in_Indian_mobile_publisher_Nazara.php",
+      "LocalLinkFileName": "2018-2-12-14-publisher-minority-Nazara-mobile-xjf5hnhv.run.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "[Read More]",
+      "Link": "http://www.gamasutra.com/updates",
+      "LocalLinkFileName": "2018-2-12-14-More-yi4yutmo.x0x.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Write for Gamasutra!",
+      "Link": "http://www.gamasutra.com/sso/myblog.php",
+      "LocalLinkFileName": "2018-2-12-14-Gamasutra-Write-yqmkqwgs.eq5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "From the Community",
+      "Link": "http://www.gamasutra.com/blogs/",
+      "LocalLinkFileName": "2018-2-12-14-Community-ocl1umor.jmf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Simon Carless",
+      "Link": "https://www.gamasutra.com/blogs/author/SimonCarless/185740/",
+      "LocalLinkFileName": "2018-2-12-14-Carless-Simon-imltfn4z.wzg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Tommy Thompson",
+      "Link": "https://www.gamasutra.com/blogs/author/TommyThompson/1020073/",
+      "LocalLinkFileName": "2018-2-12-14-Thompson-Tommy-mdsjsugo.lfy.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "What Indie Devs Get Wrong About Professional Networking",
+      "Link": "https://www.gamasutra.com/blogs/RachelPresser/20180212/314540/What_Indie_Devs_Get_Wrong_About_Professional_Networking.php",
+      "LocalLinkFileName": "2018-2-12-14-Professional-Networking-About-Wrong-4zxtvkrk.3ho.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Rachel Presser",
+      "Link": "https://www.gamasutra.com/blogs/author/RachelPresser/924879/",
+      "LocalLinkFileName": "2018-2-12-14-Presser-Rachel-ufgzwj2g.whz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7382787-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Pascal Luban",
+      "Link": "https://www.gamasutra.com/blogs/author/PascalLuban/136385/",
+      "LocalLinkFileName": "2018-2-12-14-Pascal-Luban-1dvs3t5f.hzn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "The Indie Developer's Guide to a Kickass Game Localization, Part I: How to Prepare Your Game for Localization",
+      "Link": "https://www.gamasutra.com/blogs/MariannaSacra/20180212/314560/The_Indie_Developers_Guide_to_a_Kickass_Game_Localization_Part_I_How_to_Prepare_Your_Game_for_Localization.php",
+      "LocalLinkFileName": "2018-2-12-14-Localization-Localization-Developers-Prepare-uqzvjtdt.udz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Marianna Sacra",
+      "Link": "https://www.gamasutra.com/blogs/author/MariannaSacra/1020662/",
+      "LocalLinkFileName": "2018-2-12-14-Marianna-Sacra-lcmioh4m.rg1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Education",
+      "Link": "https://gamecareerguide.com/",
+      "LocalLinkFileName": "2018-2-12-14-Education-y114pgch.0p5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Red Flags On The Job Hunt: Student Edition",
+      "Link": "https://gamecareerguide.com/features/1687/red_flags_on_the_job_hunt_student_.php",
+      "LocalLinkFileName": "2018-2-12-14-Edition-Student-Flags-14kc1o5j.dzk.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Game Design Challenge: Your Cheatin' Heart",
+      "Link": "https://gamecareerguide.com/features/1686/game_design_challenge_your_.php",
+      "LocalLinkFileName": "2018-2-12-14-Challenge-Cheatin-Design-Heart-xtddjf1v.hql.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "On Introspection: Why We Should All Make Time To Not Make Things",
+      "Link": "https://gamecareerguide.com/features/1685/on_introspection_why_we_should_.php",
+      "LocalLinkFileName": "2018-2-12-14-Introspection-Things-Should-l4eypp51.1pu.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Contractors",
+      "Link": "http://www.gamasutra.com/contractors/contractor_display.php",
+      "LocalLinkFileName": "2018-2-12-14-Contractors-wvgrzu52.k25.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "GameVision Studios",
+      "Link": "http://www.gamasutra.com/contractors/contractor_display.php?contractor_id=8587",
+      "LocalLinkFileName": "2018-2-12-14-GameVision-Studios-51p5zqn0.qet.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Zvky Design Studio",
+      "Link": "http://www.gamasutra.com/contractors/contractor_display.php?contractor_id=7671",
+      "LocalLinkFileName": "2018-2-12-14-Studio-Design-1khd5t14.5w4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Art Bully Productions LLC",
+      "Link": "http://www.gamasutra.com/contractors/contractor_display.php?contractor_id=7192",
+      "LocalLinkFileName": "2018-2-12-14-Productions-Bully-tsz4deax.mhg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Mad Marker Studios",
+      "Link": "http://www.gamasutra.com/contractors/contractor_display.php?contractor_id=8820",
+      "LocalLinkFileName": "2018-2-12-14-Studios-Marker-dwldbbw3.q1b.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Black Hat",
+      "Link": "http://www.blackhat.com/",
+      "LocalLinkFileName": "2018-2-12-14-Black-0abb1p2m.hng.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Content Marketing Institute",
+      "Link": "http://contentmarketinginstitute.com/",
+      "LocalLinkFileName": "2018-2-12-14-Institute-Marketing-Content-lwzgghcc.olm.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Content Marketing World",
+      "Link": "http://www.contentmarketingworld.com/",
+      "LocalLinkFileName": "2018-2-12-14-Marketing-Content-World-0un40drs.sgt.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Dark Reading",
+      "Link": "http://www.darkreading.com/",
+      "LocalLinkFileName": "2018-2-12-14-Reading-uxpdcsup.ijq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Enterprise Connect",
+      "Link": "http://www.enterpriseconnect.com/",
+      "LocalLinkFileName": "2018-2-12-14-Enterprise-Connect-3he3inka.vfy.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7392808-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "HDI",
+      "Link": "http://www.thinkhdi.com/",
+      "LocalLinkFileName": "2018-2-12-14-HDI-1pwot4zv.k0g.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "ICMI",
+      "Link": "http://www.icmi.com/",
+      "LocalLinkFileName": "2018-2-12-14-ICMI-5osrgee1.1m4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "InformationWeek",
+      "Link": "http://www.informationweek.com/",
+      "LocalLinkFileName": "2018-2-12-14-InformationWeek-eryy0gua.h1r.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "INsecurity",
+      "Link": "http://insecurity.com/",
+      "LocalLinkFileName": "2018-2-12-14-INsecurity-ek5ht4rx.0tb.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Interop ITX",
+      "Link": "http://www.interop.com/",
+      "LocalLinkFileName": "2018-2-12-14-Interop-44hhp35d.w03.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Network Computing",
+      "Link": "http://www.networkcomputing.com/",
+      "LocalLinkFileName": "2018-2-12-14-Computing-Network-btv0y1yr.l1j.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "No Jitter",
+      "Link": "http://www.nojitter.com/",
+      "LocalLinkFileName": "2018-2-12-14-Jitter-j5xjlx2k.or0.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Service Management World",
+      "Link": "http://www.smworld.com/",
+      "LocalLinkFileName": "2018-2-12-14-Management-Service-World-hwcnunm5.2q5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "VRDC",
+      "Link": "http://www.vrdconf.com/",
+      "LocalLinkFileName": "2018-2-12-14-VRDC-in3udida.egn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Content Marketing",
+      "Link": "http://tech.ubm.com/community-brands/content-marketing-2/",
+      "LocalLinkFileName": "2018-2-12-14-Marketing-Content-oxrnxnnp.fib.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Enterprise IT",
+      "Link": "http://tech.ubm.com/community-brands/enterprise-it/",
+      "LocalLinkFileName": "2018-2-12-14-Enterprise-andqa4in.45a.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Enterprise Communications",
+      "Link": "http://tech.ubm.com/community-brands/enterprise-communications/",
+      "LocalLinkFileName": "2018-2-12-14-Communications-Enterprise-jwpqi2ii.3pj.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Game Development",
+      "Link": "http://tech.ubm.com/community-brands/game-and-app-developers/",
+      "LocalLinkFileName": "2018-2-12-14-Development-xzxubkpt.5mg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Information Security",
+      "Link": "http://tech.ubm.com/community-brands/information-security/",
+      "LocalLinkFileName": "2018-2-12-14-Information-Security-iiytzc2i.plh.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "IT Services & Support",
+      "Link": "http://tech.ubm.com/community-brands/technical-service-and-support/",
+      "LocalLinkFileName": "2018-2-12-14-Services-Support-5kz3nxpe.34h.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Advertising Contacts",
+      "Link": "http://createyournextcustomer.techweb.com/contact-us/",
+      "LocalLinkFileName": "2018-2-12-14-Advertising-Contacts-nqtsfkqe.tpo.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Event Calendar",
+      "Link": "http://events.ubm.com/?company=10",
+      "LocalLinkFileName": "2018-2-12-14-Calendar-Event-35g3tfki.etg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Tech Marketing",
+      "Link": "http://createyournextcustomer.techweb.com/",
+      "LocalLinkFileName": "2018-2-12-14-Marketing-sazeiwpw.fdr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Contact Us",
+      "Link": "http://tech.ubm.com/contact-us/",
+      "LocalLinkFileName": "2018-2-12-14-Contact-ikvx2l1v.4sl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Licensing",
+      "Link": "http://wrightsmedia.com/sites/ubm/index.cfm",
+      "LocalLinkFileName": "2018-2-12-14-Licensing-hc00qxcn.ntj.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Terms of Service",
+      "Link": "http://legal.us.ubm.com/terms-of-service/",
+      "LocalLinkFileName": "2018-2-12-14-Service-Terms-bc2glce3.ein.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Privacy Statement",
+      "Link": "http://legal.us.ubm.com/privacy-policy/",
+      "LocalLinkFileName": "2018-2-12-14-Statement-Privacy-hbv5xhbk.aok.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "Tech/Programming",
+      "SiteName": "Gamasutra",
+      "LinkText": "Legal Entities",
+      "Link": "http://reg.ubmamevents.com/UBMLegalEntities",
+      "LocalLinkFileName": "2018-2-12-14-Entities-Legal-clzbckuc.yfh.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:01:56.7402815-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Skip to content",
+      "Link": "http://www.latimes.com/hp-2/#body",
+      "LocalLinkFileName": "2018-2-12-14-content-g4abky51.4cy.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Subscriber Services",
+      "Link": "http://membership.latimes.com/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Subscriber-Services-tp44nmdo.c0o.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Manage Subscription",
+      "Link": "https://myaccount2.latimes.com/index.aspx#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Subscription-Manage-gwwqpsu3.ll0.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Newsletters",
+      "Link": "http://newsletters.latimes.com/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Newsletters-g1v4rccw.qrn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "EZPay",
+      "Link": "https://myaccount2.latimes.com/login.aspx?ReturnUrl=%2fsecurepage%2fEZPay.aspx#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-EZPay-goa5ddqt.h1k.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Delivery Issue",
+      "Link": "https://myaccount2.latimes.com/login.aspx?ReturnUrl=%2fsecurepage%2fMissedPaper.aspx#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Delivery-Issue-qtvnuolp.d3p.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Subscriber Terms",
+      "Link": "http://www.tronc.com/subscriber-terms-and-conditions/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Subscriber-Terms-enjf3ibm.xub.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Local",
+      "Link": "http://www.latimes.com/local/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Local-0zse2ja2.iao.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Earthquakes",
+      "Link": "http://www.latimes.com/local/earthquakes/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Earthquakes-jgbocqiq.qzy.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Data Desk",
+      "Link": "http://www.latimes.com/local/datadesk/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Desk-33xasy33.sq2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "California",
+      "Link": "http://www.latimes.com/local/california/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-California-22wtwuio.u2n.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "California Journal",
+      "Link": "http://www.latimes.com/local/abcarian/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-California-Journal-vvponuz2.o2e.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Education",
+      "Link": "http://www.latimes.com/local/education/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Education-haadx2zv.zf4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Readers' Representative Journal",
+      "Link": "http://www.latimes.com/local/readers-rep/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Representative-Journal-Readers-xlejvuue.hhn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "L.A. Now",
+      "Link": "http://www.latimes.com/local/lanow/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Now-qe0okhap.xsv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Politics",
+      "Link": "http://www.latimes.com/politics/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Politics-sknbnbs1.u4x.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Essential Washington",
+      "Link": "http://www.latimes.com/essentialwashington/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Washington-Essential-u230kpsq.coe.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Essential Politics",
+      "Link": "http://www.latimes.com/essentialpolitics/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Essential-Politics-iz42kiax.zop.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Business",
+      "Link": "http://www.latimes.com/business/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Business-hz0t5xur.iet.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Company Town",
+      "Link": "http://www.latimes.com/business/hollywood/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Company-u1i5jvvb.n30.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Autos",
+      "Link": "http://www.latimes.com/business/autos/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Autos-lhfup2l3.m2s.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Michael Hiltzik",
+      "Link": "http://www.latimes.com/business/hiltzik/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Hiltzik-Michael-01zb4nac.fxx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Consumer Confidential",
+      "Link": "http://www.latimes.com/business/lazarus/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Confidential-Consumer-ddr0011z.u0w.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Nation",
+      "Link": "http://www.latimes.com/nation/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Nation-2m01arc1.xoc.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Nation Now",
+      "Link": "http://www.latimes.com/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Nation-sbngkfsx.cij.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Entertainment",
+      "Link": "http://www.latimes.com/entertainment/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Entertainment-mn33yffd.dmk.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Arts & Culture",
+      "Link": "http://www.latimes.com/entertainment/arts/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Culture-aagrgvm0.5k5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Hero Complex",
+      "Link": "http://www.latimes.com/entertainment/herocomplex/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Complex-1jm3n4gz.z5y.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Movies",
+      "Link": "http://www.latimes.com/entertainment/movies/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Movies-aomw4hqx.afq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Television",
+      "Link": "http://www.latimes.com/entertainment/tv/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Television-bqetvcpk.h2a.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Music",
+      "Link": "http://www.latimes.com/entertainment/music/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Music-ykgkl3ko.oiq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Gossip",
+      "Link": "http://www.latimes.com/entertainment/gossip/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Gossip-3h1ux32f.yqp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Envelope",
+      "Link": "http://www.latimes.com/entertainment/envelope/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Envelope-laqb3wvs.k52.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "TV Listings",
+      "Link": "http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=lat#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Listings-dxagsytz.4et.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Opinion",
+      "Link": "http://www.latimes.com/opinion/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Opinion-jobolkfr.olr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Op-Ed",
+      "Link": "http://www.latimes.com/opinion/op-ed/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-OpEd-jv5lcb45.zea.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Opinion L.A.",
+      "Link": "http://www.latimes.com/opinion/opinion-la/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Opinion-o50rohl2.q5f.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Editorials",
+      "Link": "http://www.latimes.com/opinion/editorials/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Editorials-4mgiquq5.3ki.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Readers React",
+      "Link": "http://www.latimes.com/opinion/readersreact/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Readers-React-dcysasrf.o3s.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4381273-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Top of the Ticket",
+      "Link": "http://www.latimes.com/opinion/topoftheticket/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Ticket-yjkeela1.z0y.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Endorsements",
+      "Link": "http://www.latimes.com/opinion/endorsements/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Endorsements-qjyfy5q4.g3s.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Food",
+      "Link": "http://www.latimes.com/food#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Food-opwd3yl2.pfl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Jonathan Gold",
+      "Link": "http://www.latimes.com/food/jonathan-gold/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Jonathan-gvodx0le.ilr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Daily Dish",
+      "Link": "http://www.latimes.com/food/dailydish/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Daily-j012cpbq.bc2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Sports",
+      "Link": "http://www.latimes.com/sports/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Sports-vkexukdq.pvb.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Dodgers",
+      "Link": "http://www.latimes.com/sports/dodgers/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Dodgers-552gdrx0.0rt.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "USC",
+      "Link": "http://www.latimes.com/sports/usc/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-USC-vki2qsrk.arp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "UCLA",
+      "Link": "http://www.latimes.com/sports/ucla/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-UCLA-1l4oiysm.tbl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "MLB",
+      "Link": "http://www.latimes.com/sports/mlb/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-MLB-2h3vfrwa.ze3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Angels",
+      "Link": "http://www.latimes.com/sports/angels/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Angels-antvfb51.kvg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Boxing & MMA",
+      "Link": "http://www.latimes.com/sports/boxing/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Boxing-zlhzwcyx.igw.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Ducks",
+      "Link": "http://www.latimes.com/sports/ducks/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Ducks-4sgx4vwc.aeo.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Clippers",
+      "Link": "http://www.latimes.com/sports/clippers/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Clippers-f0v0gkx5.b2w.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Chargers",
+      "Link": "http://www.latimes.com/sports/chargers/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Chargers-yku3ktey.whx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Lakers",
+      "Link": "http://www.latimes.com/sports/lakers/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Lakers-00j35p0n.iov.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "NBA",
+      "Link": "http://www.latimes.com/sports/nba/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-NBA-tssdbvi5.3tr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "NFL",
+      "Link": "http://www.latimes.com/sports/nfl/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-NFL-jolrep2m.nvf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Olympics",
+      "Link": "http://www.latimes.com/sports/olympics/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Olympics-psxtrurc.4qw.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Rams",
+      "Link": "http://www.latimes.com/sports/rams/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Rams-jduaf1q4.2et.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Soccer",
+      "Link": "http://www.latimes.com/sports/soccer/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Soccer-21ktwtyi.mu5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Sports Now",
+      "Link": "http://www.latimes.com/sports/sportsnow/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Sports-rrib151c.aec.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "More Sports",
+      "Link": "http://www.latimes.com/sports/more/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Sports-25gmvvt0.gdv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "High School",
+      "Link": "http://www.latimes.com/sports/highschool/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-School-1edpzecc.phv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Kings",
+      "Link": "http://www.latimes.com/sports/kings/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Kings-iea234sw.zsp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "World",
+      "Link": "http://www.latimes.com/world/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-World-vvt2rh0n.luv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Afghanistan & Pakistan",
+      "Link": "http://www.latimes.com/world/afghanistan-pakistan/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Afghanistan-Pakistan-kbrqe4zg.4xl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Africa",
+      "Link": "http://www.latimes.com/world/africa/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Africa-kocjzyt1.5qu.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Asia",
+      "Link": "http://www.latimes.com/world/asia/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Asia-wfj4ayeg.dy1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Brazil",
+      "Link": "http://www.latimes.com/world/brazil/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Brazil-y32g0abp.i3d.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Europe",
+      "Link": "http://www.latimes.com/world/europe/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Europe-ydv2txdf.olx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Mexico & The Americas",
+      "Link": "http://www.latimes.com/world/mexico-americas/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Americas-Mexico-nup1lpvj.ece.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Middle East",
+      "Link": "http://www.latimes.com/world/middleeast/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Middle-n1rfpm2x.n22.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Obituaries",
+      "Link": "http://www.latimes.com/local/obituaries/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Obituaries-dnhlmhqf.mhn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Real Estate",
+      "Link": "http://www.latimes.com/business/realestate/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Estate-n3tdqokm.scg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Hot Property",
+      "Link": "http://www.latimes.com/business/realestate/hot-property/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Property-op1uiqzf.p3x.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "California Living",
+      "Link": "http://www.latimes.com/style/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-California-Living-ccccks1c.pfs.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Fashion",
+      "Link": "http://www.latimes.com/fashion/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Fashion-cxue1h2j.nj4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Health & Wellness",
+      "Link": "http://www.latimes.com/health/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Wellness-Health-gr1n4vmw.prr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "L.A. Affairs",
+      "Link": "http://www.latimes.com/style/laaffairs/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Affairs-nwjsorlb.1po.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Pets",
+      "Link": "http://www.latimes.com/style/pets/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Pets-bqerbgx5.0g3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Home & Garden",
+      "Link": "http://www.latimes.com/home/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Garden-stkst4mr.czv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Books",
+      "Link": "http://www.latimes.com/books/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Books-2qowognv.psn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Technology",
+      "Link": "http://www.latimes.com/business/technology/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Technology-bqwmaptr.fwh.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Science",
+      "Link": "http://www.latimes.com/science/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Science-zr5ssalu.m0s.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Science Now",
+      "Link": "http://www.latimes.com/science/sciencenow/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Science-5d42vs5n.pz3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Travel",
+      "Link": "http://www.latimes.com/travel/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Travel-1pe4dtit.0ef.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Cruises",
+      "Link": "http://www.latimes.com/travel/cruises/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Cruises-1sw0vau1.5b1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Mexico & Latin America",
+      "Link": "http://www.latimes.com/travel/mexico/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-America-Mexico-Latin-nfiu1sll.hxu.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Theme Parks",
+      "Link": "http://www.latimes.com/travel/themeparks/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Parks-Theme-dcnhetjo.py5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Travel News & Deals",
+      "Link": "http://www.latimes.com/travel/deals/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Travel-Deals-kqtl23ml.ryq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Visuals",
+      "Link": "http://www.latimes.com/visuals/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Visuals-mqyr5sdk.f41.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Framework",
+      "Link": "http://www.latimes.com/visuals/framework/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Framework-dcalxndg.wik.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Graphics",
+      "Link": "http://www.latimes.com/visuals/graphics/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Graphics-fdv2mv5e.my4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Photography",
+      "Link": "http://www.latimes.com/visuals/photography/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Photography-uhfnefcc.tgc.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Video",
+      "Link": "http://www.latimes.com/visuals/video/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Video-rainy1er.a2p.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "E-Newspaper",
+      "Link": "http://enewspaper.latimes.com/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-ENewspaper-scqxdq4r.4ev.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Extras",
+      "Link": "http://www.latimes.com/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Extras-qxtixr5w.pz2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Games",
+      "Link": "http://games.latimes.com/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Games-jt4mwkts.aco.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Comics",
+      "Link": "http://www.latimes.com/style/la-comics-htmlstory.html#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Comics-3qvh3sr1.s4a.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Shop",
+      "Link": "http://www.latimes.com/shopping/#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Shop-jld4qv0l.qtd.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Los Angeles Times Archives",
+      "Link": "http://www.latimes.com/lat-archives/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Archives-Angeles-Times-zpgfawrp.z0y.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Los Angeles Times Store",
+      "Link": "http://store.latimes.com/?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Angeles-Store-Times-35ancoti.kwh.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Los Angeles Times Photos",
+      "Link": "http://store.latimes.com/photos.html?utm_campaign=evergreen&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Angeles-Photos-Times-s0slhgzv.ynv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Our Dishonest President Book",
+      "Link": "http://store.latimes.com/our-dishonest-president.html?utm_campaign=dishonest-president&utm_medium=referral&utm_source=navigation&utm_content=&utm_term=lat-shop-lp#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-President-Dishonest-qszctry1.a25.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Local Ads",
+      "Link": "http://mylocal.latimes.com/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Local-ktqqqw0t.sry.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Marketplace",
+      "Link": "http://marketplace.latimes.com/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Marketplace-ryavq2hz.v04.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Local Listings",
+      "Link": "http://local.latimes.com/search/en-US/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Listings-Local-z452r1h0.d4y.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Booking.com",
+      "Link": "http://hotels.latimes.com/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Bookingcom-xlrarsgq.ttl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4391283-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Travel Offers",
+      "Link": "http://www.latimes.com/shopping/traveloffers/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Offers-Travel-st3qa2jv.mn5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "About",
+      "Link": "http://www.latimes.com/about/la-about-us-storygallery.html#nt=primarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-About-blbtbkny.3dy.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Press Releases",
+      "Link": "http://www.latimes.com/about/pressreleases/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Releases-Press-s5qtrkvs.gje.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Giving",
+      "Link": "http://www.latimesfoundation.com/#nt=secondarynavbar",
+      "LocalLinkFileName": "2018-2-12-14-Giving-mbxkhzex.blh.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "LOCAL",
+      "Link": "http://www.latimes.com/local",
+      "LocalLinkFileName": "2018-2-12-14-LOCAL-t2ht4wda.q5s.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "POLITICS",
+      "Link": "http://www.latimes.com/politics",
+      "LocalLinkFileName": "2018-2-12-14-POLITICS-gz4irmyb.byp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "SPORTS",
+      "Link": "http://www.latimes.com/sports",
+      "LocalLinkFileName": "2018-2-12-14-SPORTS-xkehvdvj.j4t.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "ENTERTAINMENT",
+      "Link": "http://www.latimes.com/entertainment",
+      "LocalLinkFileName": "2018-2-12-14-ENTERTAINMENT-karrs3lp.rop.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "OPINION",
+      "Link": "http://www.latimes.com/opinion",
+      "LocalLinkFileName": "2018-2-12-14-OPINION-h3cl2333.jcb.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "PLACE AN AD",
+      "Link": "http://placeanad.latimes.com/",
+      "LocalLinkFileName": "2018-2-12-14-PLACE-11yvnuux.1ab.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "",
+      "Link": "http://www.latimes.com/",
+      "LocalLinkFileName": "2018-2-12-14--n0nexegh.te1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Spending Plan",
+      "Link": "http://www.latimes.com/politics/la-na-pol-trump-budget-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Spending-d0kum35m.ypa.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Rain",
+      "Link": "http://www.latimes.com/local/lanow/la-me-rain-dry-california-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Rain-ix1551k3.153.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Without a Home",
+      "Link": "http://www.latimes.com/local/lanow/la-me-ln-homeless-housing-motel-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Without-4ewmf3gz.egq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "harvey weinstein",
+      "Link": "http://www.latimes.com/business/hollywood/la-fi-ct-weinstein-company-sale-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-weinstein-harvey-rphldesu.esl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Winter Olympics",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-live-updates-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Olympics-Winter-oruf0iu4.lnq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "without a home",
+      "Link": "http://www.latimes.com/local/lanow/",
+      "LocalLinkFileName": "2018-2-12-14-without-nogvkpnf.a2t.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Capitol Journal",
+      "Link": "http://www.latimes.com/hp-2/#nt=taxonomy-article",
+      "LocalLinkFileName": "2018-2-12-14-Journal-Capitol-ufi2lemd.e3r.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Californians voted to spend billions on more water storage. But state government keeps sitting on the cash",
+      "Link": "http://www.latimes.com/politics/la-pol-ca-skelton-california-water-bond-money-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Californians-government-billions-storage-doolrh5w.tkq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Drastic cuts for State Department in White House budget",
+      "Link": "http://www.latimes.com/politics/la-na-pol-essential-washington-updates-drastic-cuts-for-state-department-in-1518456025-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Department-Drastic-budget-House-ju0x1ge1.5gq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "White House doubles down on its goal of Obamacare repeal in new budget proposal",
+      "Link": "http://www.latimes.com/politics/la-na-pol-essential-washington-updates-white-house-doubles-down-on-obamacare-1518458619-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Obamacare-proposal-doubles-budget-vdr4wxb3.b50.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "In unaccustomed turn, White House infrastructure plan praises California funding measure",
+      "Link": "http://www.latimes.com/nation/la-na-pol-trump-california-infrastructure-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-infrastructure-unaccustomed-California-measure-moelxdug.wuh.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "The water runs milky and can burn like fire. In this impoverished county, Trump’s $1.5 trillion infrastructure plan may not help",
+      "Link": "http://www.latimes.com/nation/la-na-kentucky-water-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-infrastructure-impoverished-trillion-Trumps-3zz3jfw4.av3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "State lawmakers want to restore an urban renewal and affordable housing program. But it's complicated",
+      "Link": "http://www.latimes.com/politics/la-pol-ca-urban-renewal-program-returns-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-complicated-affordable-lawmakers-program-kcxyh2cc.zgf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4401286-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Los Angeles tenant groups oppose bill that could lead to a development boom near transit",
+      "Link": "http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-los-angeles-tenant-groups-oppose-bill-1518458273-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-development-transit-Angeles-oppose-iqnkot3g.til.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "See Barack and Michelle Obama's new portraits unveiled today",
+      "Link": "http://www.latimes.com/entertainment/la-et-entertainment-news-updates-2018-see-barack-and-michelle-obama-s-new-1518456638-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-portraits-unveiled-Michelle-Obamas-lyw2udah.ed1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Police: Donald Trump Jr.'s wife exposed to white powder",
+      "Link": "http://www.latimes.com/politics/la-na-pol-vanessa-donald-trump-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-exposed-powder-Donald-Police-of3dubhf.tla.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Air Force's new stealth bomber will replace B-1s and B-2s while older B-52s keep flying, report says",
+      "Link": "http://www.latimes.com/business/la-fi-bomber-retirements-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-stealth-replace-flying-Forces-0kt4zbj5.qko.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Police investigating report of unprovoked attack on 85-year-old grandmother in Koreatown",
+      "Link": "http://www.latimes.com/local/lanow/la-me-ln-koreatown-grandmother-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-investigating-grandmother-unprovoked-Koreatown-t4pyrhto.vxe.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Thrills and spills from the Pyeongchang 2018 Winter Olympic Games",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-thrills-spills-unfurled-2018-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Pyeongchang-Olympic-Thrills-Winter-mmljaqqo.ehg.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Americans capture bronze in team event but it was Mirai Nagasu’s momentous achievement that stole the show",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-team-medal-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-achievement-Americans-momentous-capture-nln1vzov.0ed.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Chris Mazdzer's historic U.S. silver medal represents everything good about Olympics",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-mens-luge-hernandez-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-everything-represents-Olympics-historic-230okomb.te5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "American Jamie Anderson overcomes wild winds to defend her slopestyle title",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-womens-slopestyle-snowboard-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-slopestyle-overcomes-Anderson-American-wqefulhj.rz1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Monday's Winter Olympics TV schedule",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-live-updates-monday-s-winter-olympics-tv-schedule-1518389917-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-schedule-Olympics-Mondays-Winter-3ppalerp.kr5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "More norovirus cases diagnosed at Pyeongchang Olympics; total increases to 194",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-live-updates-more-norovirus-cases-diagnosed-at-1518438204-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Pyeongchang-increases-diagnosed-norovirus-l2fvy453.l1r.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "U.S. men's hockey team needs hard work, not miracles, to succeed in Olympics, coach says",
+      "Link": "http://www.latimes.com/sports/olympics/la-sp-olympics-live-updates-u-s-men-s-hockey-team-needs-hard-work-1518425231-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Olympics-miracles-succeed-hockey-uluvtf4d.onk.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Danger posed by drivers who smoke pot on 4/20 is similar to drunk drivers on Super Bowl Sunday",
+      "Link": "http://www.latimes.com/science/sciencenow/la-sci-sn-marijuana-420-crashes-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-drivers-drivers-similar-Sunday-gjvwkw1n.xlv.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "First of 2 Big Bear Lake bald eagle chicks hatches on livestream",
+      "Link": "http://www.latimes.com/local/lanow/la-me-ln-bald-eagle-hatch-big-bear-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-livestream-hatches-chicks-eagle-ojjcrgnd.bh1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "After Las Vegas massacre, Congress has failed to act on 'bump stocks.' But states and cities are taking the lead",
+      "Link": "http://www.latimes.com/nation/la-na-bumpstock-ban-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-massacre-Congress-failed-taking-cjwwtdis.zvf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "L.A. County set to build its first new freeway in 25 years, despite many misgivings",
+      "Link": "http://www.latimes.com/local/california/la-me-high-desert-freeway-20180210-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-misgivings-despite-freeway-County-54i21ziv.vpk.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Julius Randle is giving the Lakers another tough decision to make",
+      "Link": "http://www.latimes.com/sports/lakers/la-sp-lakers-report-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-decision-another-Lakers-giving-rafolnad.h4k.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "What students know that experts don't: School is all about signaling, not skill-building",
+      "Link": "http://www.latimes.com/opinion/op-ed/la-oe-caplan-education-credentials-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-skillbuilding-signaling-students-experts-nph2cgy3.rn2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Israel says its airstrikes took out half of Syria's air defenses",
+      "Link": "http://www.latimes.com/world/middleeast/la-fg-israel-iran-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-airstrikes-defenses-Syrias-Israel-otfyrwnj.knr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "They're Disneyland superfans. Why a lawsuit is alleging gangster-like tactics against one social club",
+      "Link": "http://www.latimes.com/business/la-fi-disneyland-social-clubs-20180209-story.html",
+      "LocalLinkFileName": "2018-2-12-14-gangsterlike-Disneyland-superfans-alleging-kmplk3uo.ywd.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Meet Janice Bryant Howroyd, the first African American woman to run a $1-billion business",
+      "Link": "http://www.latimes.com/business/la-fi-himi-howroyd-20180211-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-$1billion-business-American-African-id4shjq3.x5e.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Vic Damone, enduring crooner admired by Sinatra, dies at 89",
+      "Link": "http://www.latimes.com/local/obituaries/la-me-vic-damone-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-enduring-Sinatra-admired-crooner-iovwtopc.xxc.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Decathlon champs, magnet late applications, Betsy DeVos' donations: What's new in education",
+      "Link": "http://www.latimes.com/local/education/la-essential-education-updates-southern-a-new-decathlon-winner-improvement-for-1518450573-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-applications-education-donations-Decathlon-siiwfqb2.mab.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Essential Education: Police still trying to trace the gun that went off at Sal Castro",
+      "Link": "http://www.latimes.com/local/education/la-essential-education-updates-southern-california-2017-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Education-Essential-Castro-trying-cykxofzi.voz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Why do poor Americans eat so unhealthfully? Because junk food is the only indulgence they can afford",
+      "Link": "http://www.latimes.com/opinion/op-ed/la-oe-singh-food-deserts-nutritional-disparities-20180207-story.html",
+      "LocalLinkFileName": "2018-2-12-14-unhealthfully-indulgence-Americans-Because-yggio0lm.tn4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Who is Hope Hicks, anyway?",
+      "Link": "http://www.latimes.com/opinion/op-ed/la-oe-heffernan-hope-hicks-20180202-story.html",
+      "LocalLinkFileName": "2018-2-12-14-anyway-Hicks-3rasxpmu.zfx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Larry Nassar duped me. He would have duped you too. Here's how to stop the next abuser from taking his place",
+      "Link": "http://www.latimes.com/opinion/opinion-la/la-ol-obeirne-nassar-hollywood-olympics-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-taking-Nassar-abuser-place-bkzs4yy1.mcz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Microsoft is trying to kill passwords. It can't happen soon enough",
+      "Link": "http://www.latimes.com/business/technology/la-fi-tn-password-microsoft-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-passwords-Microsoft-enough-happen-qd3gjffw.4br.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4411293-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Los Angeles, Houston and the appeal of the hard-to-read city",
+      "Link": "http://www.latimes.com/entertainment/arts/la-ca-cm-building-type-new-york-times-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-hardtoread-Houston-Angeles-appeal-olres0xn.4pj.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Disneyland resort raises prices as much as 18%",
+      "Link": "http://www.latimes.com/business/la-fi-disneyland-prices-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Disneyland-prices-raises-resort-e3idps3a.4bk.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Try our eNewspaper, where every page reads exactly as it does in print.",
+      "Link": "http://enewspaper.latimes.com/",
+      "LocalLinkFileName": "2018-2-12-14-eNewspaper-exactly-print-reads-dzqn2b3a.n1i.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Put California in your inbox with our newsletter.",
+      "Link": "http://www.latimes.com/la-california-20141016-htmlstory.html#int=Display-Ad|california|House-Ad||||||marker",
+      "LocalLinkFileName": "2018-2-12-14-newsletter-California-inbox-rzj3qgka.5q3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Get Jonathan Gold's 101 Best Restaurants on your phone.",
+      "Link": "http://smarturl.it/latimesapp",
+      "LocalLinkFileName": "2018-2-12-14-Restaurants-Jonathan-phone-Golds-oynejy3m.cml.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "You deserve the truth, and we are here to fight for you.",
+      "Link": "http://www.latimes.com/93907346-132.html",
+      "LocalLinkFileName": "2018-2-12-14-deserve-fight-truth-2z4a5cu0.n3k.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Prince Harry, Meghan Markle announce wedding details",
+      "Link": "http://www.latimes.com/entertainment/la-et-entertainment-news-updates-2018-prince-harry-meghan-markle-announce-1518455247-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-announce-details-wedding-Markle-a2ixyu5v.ort.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "A Star Is Born: Arsenio Hall turns 62 today",
+      "Link": "http://www.latimes.com/entertainment/la-et-entertainment-news-updates-2018-a-star-is-born-arsenio-hall-turns-62-1518182625-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Arsenio-today-turns-ecwzl4u0.2wu.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Betty Buckley to star in national tour of 'Hello, Dolly!'",
+      "Link": "http://www.latimes.com/entertainment/la-et-entertainment-news-updates-2018-betty-buckley-to-star-in-national-tour-1518449944-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-national-Buckley-Dolly-Hello-ol02c01b.0iz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Jordan Peele, James Ivory win top prizes at Writers Guild of America Awards",
+      "Link": "http://www.latimes.com/entertainment/movies/la-et-mn-writers-guild-awards-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-America-Writers-Awards-prizes-vy5p3bzo.q2f.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Monday's TV highlights: 'DC's Legends of Tomorrow'",
+      "Link": "http://www.latimes.com/entertainment/tv/la-et-st-0212-tvhighlights-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-highlights-Tomorrow-Legends-Mondays-csopmu5t.q3v.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Russian lawmaker proposes new address for U.S. Embassy: 1 North American Dead-end",
+      "Link": "http://www.latimes.com/politics/la-na-pol-essential-washington-updates-moscow-proposes-new-address-for-u-s-1518454052-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-American-proposes-lawmaker-Deadend-wt4rqtj2.yj3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "On Middle East trip, Tillerson mum on Egypt's silencing of opposition candidates",
+      "Link": "http://www.latimes.com/politics/la-na-pol-essential-washington-updates-on-middle-east-trip-tillerson-voices-1518452550-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-candidates-opposition-silencing-Tillerson-st3vr5tz.j3u.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Letter snafu marks Wells Fargo's effort to aid customers forced to buy unneeded insurance",
+      "Link": "http://www.latimes.com/business/la-fi-wells-fargo-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-insurance-customers-unneeded-forced-fbruot2c.23r.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Broadcom has $100 billion in financing lined up for Qualcomm takeover bid",
+      "Link": "http://www.latimes.com/business/technology/la-fi-tn-broadcom-qualcomm-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-financing-takeover-Qualcomm-Broadcom-0cchi1ge.uu3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Salsa singer Marc Anthony lowers Tarzana home price in hopes of wooing a buyer",
+      "Link": "http://www.latimes.com/business/realestate/hot-property/la-fi-hotprop-marc-anthony-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Tarzana-Anthony-wooing-lowers-5n2zfhn5.yas.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Should I stay or should I go? What you need to know about financial markets today",
+      "Link": "http://www.latimes.com/business/la-fi-stock-market-correction-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-financial-markets-should-Should-zdoiyqp0.zup.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Stocks rise in early trading after their worst week in two years",
+      "Link": "http://www.latimes.com/business/la-fi-markets-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-trading-Stocks-years-worst-1gziygps.ode.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Zuma's presidency on the line as leaders of the African National Congress meet in South Africa",
+      "Link": "http://www.latimes.com/world/africa/la-fg-south-africa-zuma-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-presidency-Congress-National-African-rkdobmt4.12q.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Blackout hits northern Puerto Rico following fire, explosion",
+      "Link": "http://www.latimes.com/nation/nationnow/la-na-puerto-rico-blackout-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-explosion-following-northern-Blackout-fbzwjsu5.5hx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "South Africa's Cyril Ramaphosa lays the groundwork for his transition to power",
+      "Link": "http://www.latimes.com/world/la-fg-south-africa-ramaphosa-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-transition-groundwork-Ramaphosa-Africas-1ztox5z5.xan.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Passport documents lost? When to panic and when to stay calm. Plus a Real ID update.",
+      "Link": "http://www.latimes.com/travel/la-tr-spot-passports-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-documents-Passport-update-panic-cax1dboa.lh4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Get a Fitbit watch and 100,000 steps on a fitness vacation at Thailand resort",
+      "Link": "http://www.latimes.com/travel/la-tr-thailand-fitbit-steps-vacation-at-trisara-20180206-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Thailand-vacation-fitness-resort-2vghjiok.gk2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "In Las Vegas, it's black truffle season. Here are five restaurants to sample",
+      "Link": "http://www.latimes.com/travel/lasvegas/la-tr-las-vegas-restaurant-truffle-dishes-20180207-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-restaurants-truffle-sample-season-40kmcvsw.ts4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Disney Wonder announces more visits to San Diego, with multi-day cruises bound for Mexico",
+      "Link": "http://www.latimes.com/travel/cruises/la-tr-cruises-disney-adds-more-sailings-to-mexico-from-san-diego-20180207-story.html",
+      "LocalLinkFileName": "2018-2-12-14-announces-multiday-cruises-Mexico-vgn2joy1.dpn.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "At opening of the expanded Long Beach cruise terminal, Carnival also announces a new ship will sail from that port in 2019",
+      "Link": "http://www.latimes.com/travel/cruises/la-tr-carnival-cruise-long-beach-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-announces-expanded-terminal-Carnival-lrbxx2ec.2ji.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "The Twin Cities? They're pure poetry in winter",
+      "Link": "http://www.latimes.com/travel/la-tr-letters-minneapolis-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-winter-poetry-Theyre-Cities-prehsmdf.ti4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Girls soccer: Southern Section playoff pairings",
+      "Link": "http://www.latimes.com/sports/la-sp-high-school-sports-updates-girls-soccer-southern-section-playoff-1518459705-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-pairings-Southern-playoff-Section-1p4mutk4.4ab.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Varsity Times Insider: The latest sports news from Southern California's high school teams",
+      "Link": "http://www.latimes.com/sports/highschool/varsity-times/la-sp-high-school-sports-updates-southern-california-2017-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Californias-Southern-Insider-Varsity-31asqvbo.j0t.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4421299-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Girls water polo: City playoff results and updated pairings",
+      "Link": "http://www.latimes.com/sports/la-sp-high-school-sports-updates-girls-water-polo-city-playoff-results-1518457876-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-pairings-updated-results-playoff-3k30jt5e.kb0.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Boys soccer: Southern Section playoff pairings",
+      "Link": "http://www.latimes.com/sports/la-sp-high-school-sports-updates-boys-soccer-southern-section-playoff-1518457443-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-pairings-Southern-playoff-Section-p2l0whms.1t5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Girls soccer: City playoff pairings",
+      "Link": "http://www.latimes.com/sports/la-sp-high-school-sports-updates-girls-soccer-city-playoff-pairings-1518456166-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-pairings-playoff-soccer-Girls-aucu4zgw.ii3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Boys soccer: City playoff pairings",
+      "Link": "http://www.latimes.com/sports/la-sp-high-school-sports-updates-boys-soccer-city-playoff-pairings-1518456074-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-pairings-playoff-soccer-4yne4qb5.p4k.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "If you're not watching women's hockey, you're missing out",
+      "Link": "http://www.latimes.com/opinion/op-ed/la-oe-fleming-women-hockey-olympics-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-watching-missing-hockey-womens-m4anyrmr.1f4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "That Antarctic ozone hole the world thought it was fixing? There may be a glitch",
+      "Link": "http://www.latimes.com/opinion/editorials/la-ed-ozone-antarctic-global-warming-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Antarctic-thought-glitch-fixing-tqx2ox3d.ouz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Refugees don't drain America's economy. They revitalize it",
+      "Link": "http://www.latimes.com/opinion/op-ed/la-oe-breene-refugees-economy-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-revitalize-Americas-Refugees-economy-p2kvo5gq.j1g.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "How can L.A. build dense new housing without displacing working families? With a 'Right to Remain'",
+      "Link": "http://www.latimes.com/opinion/livable-city/la-ol-gaisford-right-to-remain-gentrification-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-displacing-families-working-without-wce2mbpe.lb1.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Every Olympic athlete in Pyeongchang should be vocal about climate change",
+      "Link": "http://www.latimes.com/opinion/op-ed/la-oe-schendler-olympics-climate-change-pyeongchang-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Pyeongchang-climate-athlete-Olympic-sfeioqn4.ade.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "For fall/winter 2018, Alexander Wang mines '80s-era corporate excess, platinum cards and all",
+      "Link": "http://www.latimes.com/fashion/la-ig-alexander-wang-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-fallwinter-corporate-Alexander-platinum-05x0lkrp.ptp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "8 hummus recipes for any occasion",
+      "Link": "http://www.latimes.com/food/dailydish/la-fo-co-hummus-recipes-20180212-story.html",
+      "LocalLinkFileName": "2018-2-12-14-occasion-recipes-hummus-jt35coyc.c2c.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "At N.Y. Fashion Week, Christian Siriano pulls out all the stops to celebrate a decade in the design business",
+      "Link": "http://www.latimes.com/fashion/la-ig-christian-siriano-10th-anniversary-20180211-story.html",
+      "LocalLinkFileName": "2018-2-12-14-Christian-celebrate-business-Fashion-btcd14am.j11.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Tom Ford, Jeremy Scott serve up a cacophony of color and a menagerie of prints at N.Y. Fashion Week",
+      "Link": "http://www.latimes.com/fashion/la-ig-tom-ford-jeremy-scott-20180210-story.html",
+      "LocalLinkFileName": "2018-2-12-14-menagerie-cacophony-Fashion-Jeremy-1lkmg2lc.1a2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Should veterans be allowed to use medical marijuana for post-combat stress? The Trump administration says no",
+      "Link": "http://www.latimes.com/style/la-lb-667-40711-la-na-military-marijuana-stress-20180207-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-administration-postcombat-marijuana-veterans-2jnym053.p24.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "The Rolling Paper",
+      "Link": "http://www.latimes.com/local/california/la-marijuana-updates-20170822-htmlstory.html",
+      "LocalLinkFileName": "2018-2-12-14-Rolling-Paper-1x4bpwye.w1c.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "About us",
+      "Link": "http://www.latimes.com/la-about-us-storygallery.html#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-About-uolkmagg.vo5.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Contact us",
+      "Link": "http://www.latimes.com/about/la-contact-us-htmlstory.html#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Contact-0lmjwqp4.2jq.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Privacy policy",
+      "Link": "http://www.tronc.com/privacy-policy/#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Privacy-policy-vyfxv0xx.iu2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Terms",
+      "Link": "http://www.tronc.com/central-terms-of-service/#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Terms-emrhnswy.mky.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Site map",
+      "Link": "http://www.latimes.com/about/la-sitemap-htmlstory.html#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Site-ekbkhfcq.rem.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Corrections",
+      "Link": "http://www.latimes.com/local/corrections/#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Corrections-yoqs3pho.yfd.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Archives",
+      "Link": "https://latimes.newspapers.com/#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Archives-uoexrhaj.qhf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Classifieds",
+      "Link": "http://classifieds.latimes.com/#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Classifieds-cqfesntl.oxt.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Find a Job",
+      "Link": "http://jobnetwork.latimes.com/#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Find-g4q15bck.drf.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "News",
+      "SiteName": "LA Times",
+      "LinkText": "Advertising",
+      "Link": "http://mediakit.latimes.com/#nt=footer#nt=footer",
+      "LocalLinkFileName": "2018-2-12-14-Advertising-3vtbnq1t.5so.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:03:31.4431306-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Matthew Sheffield",
+      "Link": "https://www.salon.com/writer/matthew-sheffield",
+      "LocalLinkFileName": "2018-2-12-14-Sheffield-Matthew-o3lps54k.dwd.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3144051-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Rachel Leah",
+      "Link": "https://www.salon.com/writer/rachel-leah",
+      "LocalLinkFileName": "2018-2-12-14-Rachel-vfbvcwzp.hji.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Matthew Rozsa",
+      "Link": "https://www.salon.com/writer/matthew_rozsa",
+      "LocalLinkFileName": "2018-2-12-14-Matthew-Rozsa-wx53qpxp.tgw.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Thom Hartmann",
+      "Link": "https://www.salon.com/writer/thom_hartmann_2",
+      "LocalLinkFileName": "2018-2-12-14-Hartmann-odmbpgxi.f3c.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Alternet",
+      "Link": "http://www.alternet.org/",
+      "LocalLinkFileName": "2018-2-12-14-Alternet-hxoed3t3.yff.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Heather Digby Parton",
+      "Link": "https://www.salon.com/writer/heather_digby_parton",
+      "LocalLinkFileName": "2018-2-12-14-Heather-Parton-Digby-ovhu0iwv.00h.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Deidre Olsen",
+      "Link": "https://www.salon.com/writer/deidre-olsen",
+      "LocalLinkFileName": "2018-2-12-14-Deidre-Olsen-mv1csdzh.j04.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Salon Marketplace",
+      "Link": "https://www.salon.com/writer/salon-marketplace",
+      "LocalLinkFileName": "2018-2-12-14-Marketplace-Salon-eyy2gxsf.xdb.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Charlie May",
+      "Link": "https://www.salon.com/writer/charlie-may",
+      "LocalLinkFileName": "2018-2-12-14-Charlie-n4qcmj0s.pww.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Chauncey DeVega",
+      "Link": "https://www.salon.com/writer/chauncey_de_vega",
+      "LocalLinkFileName": "2018-2-12-14-Chauncey-DeVega-2obmozm2.uua.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Amanda Marcotte",
+      "Link": "https://www.salon.com/writer/amanda_marcotte",
+      "LocalLinkFileName": "2018-2-12-14-Marcotte-Amanda-c1t45i25.fry.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Jeremy Binckes",
+      "Link": "https://www.salon.com/writer/jeremy-binckes",
+      "LocalLinkFileName": "2018-2-12-14-Binckes-Jeremy-z0phcdwz.pw4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3149055-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Compiled by Salon staff",
+      "Link": "https://www.salon.com/writer/compiled_by_salon_staff",
+      "LocalLinkFileName": "2018-2-12-14-Compiled-staff-Salon-llecsioy.25c.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Sarah Kleiner",
+      "Link": "https://www.salon.com/writer/sarah-kleiner",
+      "LocalLinkFileName": "2018-2-12-14-Kleiner-Sarah-mlqgtotp.wca.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "John Rennie Short",
+      "Link": "https://www.salon.com/writer/john_rennie_short",
+      "LocalLinkFileName": "2018-2-12-14-Rennie-Short-sloo3wyc.k1s.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Denis MacShane",
+      "Link": "https://www.salon.com/writer/denis-macshane",
+      "LocalLinkFileName": "2018-2-12-14-MacShane-Denis-dfopcp1t.p1k.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Ebony Slaughter-Johnson",
+      "Link": "https://www.salon.com/writer/ebony-slaughter-johnson",
+      "LocalLinkFileName": "2018-2-12-14-SlaughterJohnson-Ebony-ev3nnr2e.az4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Salon TV",
+      "Link": "https://www.salon.com/category/video",
+      "LocalLinkFileName": "2018-2-12-14-Salon-4egr2jss.2wo.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "News",
+      "Link": "https://www.salon.com/category/news",
+      "LocalLinkFileName": "2018-2-12-14-News-okkqzhfd.zgl.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Politics",
+      "Link": "https://www.salon.com/category/politics",
+      "LocalLinkFileName": "2018-2-12-14-Politics-ukxgcnib.n2e.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Entertainment",
+      "Link": "https://www.salon.com/category/entertainment",
+      "LocalLinkFileName": "2018-2-12-14-Entertainment-ddhzt3xc.wqe.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Life",
+      "Link": "https://www.salon.com/category/life",
+      "LocalLinkFileName": "2018-2-12-14-Life-mrqne30f.yua.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Innovation &amp; Science",
+      "Link": "https://www.salon.com/category/innovation",
+      "LocalLinkFileName": "2018-2-12-14-Innovation-Science-aelcmpkb.jnj.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Podcasts",
+      "Link": "https://www.salon.com/category/audio",
+      "LocalLinkFileName": "2018-2-12-14-Podcasts-dtvp5tdm.th3.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3159061-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "About",
+      "Link": "https://www.salon.com/about",
+      "LocalLinkFileName": "2018-2-12-14-About-cn0za4qk.hbr.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Home",
+      "Link": "https://www.salon.com/",
+      "LocalLinkFileName": "2018-2-12-14-Home-0takgddi.igp.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Advertising",
+      "Link": "https://www.salon.com/about/advertise/",
+      "LocalLinkFileName": "2018-2-12-14-Advertising-vjkatsnt.3gx.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Contact",
+      "Link": "https://www.salon.com/about/contact/",
+      "LocalLinkFileName": "2018-2-12-14-Contact-cxxovfas.bsz.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Corrections",
+      "Link": "https://www.salon.com/about/corrections/",
+      "LocalLinkFileName": "2018-2-12-14-Corrections-lxuecxkr.0w0.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Investor Relations",
+      "Link": "https://www.salon.com/about/ir/",
+      "LocalLinkFileName": "2018-2-12-14-Relations-Investor-tnm5ggy3.kq2.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Privacy",
+      "Link": "https://www.salon.com/about/policy/",
+      "LocalLinkFileName": "2018-2-12-14-Privacy-r25v2wkf.du4.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
+    },
+    {
+      "Category": "Opinion",
+      "SiteName": "Salon",
+      "LinkText": "Terms of Service",
+      "Link": "https://www.salon.com/about/tos/",
+      "LocalLinkFileName": "2018-2-12-14-Service-Terms-341vc1aa.lcs.html",
+      "CentileRanking": 0,
+      "RipTime": "2018-02-12T14:40:53.3164064-05:00"
     }
   ]
 }

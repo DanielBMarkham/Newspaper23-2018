@@ -1,5 +1,5 @@
 {
-  "LastRunTime": "2018-02-12T11:23:17.1051276-05:00",
+  "LastRunTime": "2018-02-12T14:40:53.3379211-05:00",
   "SitesToVisit": [
     {
       "Category": "News",
@@ -73,11 +73,11 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-02-12T11:23:17.1051276-05:00",
+      "LastVisitTime": "2018-02-12T14:40:53.3369223-05:00",
       "LastVisitLinkCount": 30,
-      "TotalVisits": 3,
-      "TotalVisitsLinksGathered": 90,
-      "LastTimeLinksWereFound": "2018-02-12T11:23:17.1051276-05:00"
+      "TotalVisits": 7,
+      "TotalVisitsLinksGathered": 210,
+      "LastTimeLinksWereFound": "2018-02-12T14:40:53.3369223-05:00"
     },
     {
       "Category": "News",
@@ -177,11 +177,11 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
-      "LastVisitLinkCount": 0,
-      "TotalVisits": 0,
-      "TotalVisitsLinksGathered": 0,
-      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
+      "LastVisitTime": "2018-02-12T14:40:53.3369223-05:00",
+      "LastVisitLinkCount": 214,
+      "TotalVisits": 3,
+      "TotalVisitsLinksGathered": 642,
+      "LastTimeLinksWereFound": "2018-02-12T14:40:53.3369223-05:00"
     },
     {
       "Category": "News",
@@ -346,11 +346,11 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-02-12T11:23:17.1051276-05:00",
+      "LastVisitTime": "2018-02-12T14:40:53.3369223-05:00",
       "LastVisitLinkCount": 156,
-      "TotalVisits": 2,
-      "TotalVisitsLinksGathered": 312,
-      "LastTimeLinksWereFound": "2018-02-12T11:23:17.1051276-05:00"
+      "TotalVisits": 6,
+      "TotalVisitsLinksGathered": 936,
+      "LastTimeLinksWereFound": "2018-02-12T14:40:53.3369223-05:00"
     },
     {
       "Category": "Opinion",
@@ -398,11 +398,11 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-02-12T11:23:17.1051276-05:00",
+      "LastVisitTime": "2018-02-12T14:40:53.3369223-05:00",
       "LastVisitLinkCount": 102,
-      "TotalVisits": 1,
-      "TotalVisitsLinksGathered": 102,
-      "LastTimeLinksWereFound": "2018-02-12T11:23:17.1051276-05:00"
+      "TotalVisits": 5,
+      "TotalVisitsLinksGathered": 510,
+      "LastTimeLinksWereFound": "2018-02-12T14:40:53.3369223-05:00"
     },
     {
       "Category": "Opinion",
@@ -411,11 +411,11 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
-      "LastVisitLinkCount": 0,
-      "TotalVisits": 0,
-      "TotalVisitsLinksGathered": 0,
-      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
+      "LastVisitTime": "2018-02-12T14:40:53.3369223-05:00",
+      "LastVisitLinkCount": 32,
+      "TotalVisits": 1,
+      "TotalVisitsLinksGathered": 32,
+      "LastTimeLinksWereFound": "2018-02-12T14:40:53.3369223-05:00"
     },
     {
       "Category": "Opinion",
@@ -502,11 +502,11 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
-      "LastVisitLinkCount": 0,
-      "TotalVisits": 0,
-      "TotalVisitsLinksGathered": 0,
-      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
+      "LastVisitTime": "2018-02-12T14:40:53.3369223-05:00",
+      "LastVisitLinkCount": 134,
+      "TotalVisits": 4,
+      "TotalVisitsLinksGathered": 536,
+      "LastTimeLinksWereFound": "2018-02-12T14:40:53.3369223-05:00"
     },
     {
       "Category": "Tech/Programming",
@@ -606,7 +606,7 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitTime": "2018-02-12T13:57:13.5792771-05:00",
       "LastVisitLinkCount": 0,
       "TotalVisits": 0,
       "TotalVisitsLinksGathered": 0,
@@ -632,7 +632,7 @@
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
       "CustomXPath": "",
-      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitTime": "2018-02-12T14:04:14.541066-05:00",
       "LastVisitLinkCount": 0,
       "TotalVisits": 0,
       "TotalVisitsLinksGathered": 0,

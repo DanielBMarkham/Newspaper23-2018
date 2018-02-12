@@ -173,9 +173,12 @@
             | :? System.Net.WebException as webex ->
                 let newTryCount=tryCount+1
                 if newTryCount<3
-                    then http url newTryCount
+                    then 
+                        printfn "Retry %d"  (newTryCount+1) |> ignore
+                        http url newTryCount
                     else ""
             | :? System.IO.IOException as iox->
+                printfn "iox Exception %s" iox.Message
                 ""
             | :? System.Exception as ex ->
                 System.Console.WriteLine("Exception in Utils.http trying to load " + url)
@@ -216,11 +219,12 @@
                     tOut.Stop()
                     tOut.Enabled<-false
                     tOut.Dispose()                    
-                    raise (new System.TimeoutException()))
+                    ())
+                    //raise (new System.TimeoutException()))
                 tOut.Start()
                 let web=new HtmlWeb()
-                web.BrowserTimeout<-TimeSpan(0,0,25)
-                web.BrowserDelay<-TimeSpan(0,0,25)                    
+                web.BrowserTimeout<-TimeSpan(0,0,50)
+                web.BrowserDelay<-TimeSpan(0,0,15)                    
                 let ret=web.LoadFromBrowser url
                 tOut.Stop()
                 tOut.Enabled<-false
@@ -228,11 +232,13 @@
                 ret
             with
             | :? System.TimeoutException as tEx->
+                printfn "TimeoutException trying to use Browser Load"
                 tOut.Stop()
                 tOut.Enabled<-false
                 tOut.Dispose()
                 new HtmlDocument()
             | :? System.Exception as ex ->
+                printfn "System Exception trying to use Browser Load - %s" ex.Message
                 tOut.Stop()
                 tOut.Enabled<-false
                 tOut.Dispose()
@@ -285,7 +291,9 @@
                             ))
                     nodesWithFixedHrefs|>Seq.toArray
         with
-            | :? System.Exception as ex ->[||]
+            | :? System.Exception as ex ->
+                printfn "System Exception finding links on a page - %s" ex.Message
+                [||]
     let downloadFile (url:System.Uri) (fileName:string) = 
         let Client = makeWebClient 
         Client.DownloadFile(url, fileName)

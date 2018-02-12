@@ -80,6 +80,11 @@
             NumberOfLinksToGather:int;
             MorePagesXPath:string;
             CustomXPath:string;
+            LastVisitTime:DateTime
+            LastVisitLinkCount:int
+            TotalVisits:int
+            TotalVisitsLinksGathered:int
+            LastTimeLinksWereFound:DateTime
         }
     let defaultSiteToVist =
         {
@@ -89,6 +94,11 @@
             NumberOfLinksToGather=30;
             MorePagesXPath=""
             CustomXPath=""
+            LastVisitTime=DateTime.MinValue
+            LastVisitLinkCount=0
+            TotalVisits=0
+            TotalVisitsLinksGathered=0
+            LastTimeLinksWereFound=DateTime.MinValue
         }
     [<NoComparison>]
     type Newspaper23Input =

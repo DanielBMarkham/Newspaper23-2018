@@ -11,19 +11,14 @@ open Newtonsoft.Json.Converters
 /// The new Main
 let doStuff (opts:Newspaper23Config) =
     // first thing to do is clean/verify input data so that it's bulletproof
-    //let inputData,inputFileContents = 
-    //    takeAFileParmAndReturnFileContentsAndDataOrDefault<Newspaper23Input> opts.InputFile.parameterValue defaultNewspaper23Input
-    let inputData = opts.InputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Input> defaultNewspaper23Input
-    //let outputData, outputFileContents =
-    //    takeAFileParmAndReturnFileContentsAndDataOrDefault<Newspaper23Output> opts.OutputFile.parameterValue defaultNewspaper23Output
+    //let inputData = opts.InputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Input> defaultNewspaper23Input
+    let sitesToProcess=getTheNextSitesToProcess opts
     let outputData = opts.OutputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Output> defaultNewspaper23Output
-    //let filteredOutputFileContents, filterdOutputData =
-    //    takeAFileParmAndReturnFileContentsAndDataOrDefault<Newspaper23Output> opts.FilteredOutputFile.parameterValue defaultFilteredNewspaper23Output
     let filteredOutputputData = opts.FilteredOutputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Output> defaultNewspaper23Output
     // then the main processing loop
     let newOutputDataAndCount = 
-        inputData.SitesToVisit 
-            |> List.fold(fun (outerAccumulatorOutputFile,index) siteToVisit->
+        sitesToProcess
+            |> Array.fold(fun (outerAccumulatorOutputFile,index) siteToVisit->
             let linkTextAndTargets=findTextLinksOnAPage siteToVisit.URLToVisit siteToVisit.CustomXPath
             // for each link, see if it already exists in the output file
             // if so, skip. Otherwise add it
@@ -65,10 +60,14 @@ let doStuff (opts:Newspaper23Config) =
     let programOutput=JsonConvert.SerializeObject(newOutputDataWithCategoryListUpdated, newSerialSettings)
     let fullOutputFileName = if opts.OutputFile.parameterValue.FileInfoOption.IsSome then opts.OutputFile.parameterValue.FileInfoOption.Value.FullName else opts.OutputFile.parameterValue.FileName
     System.IO.File.WriteAllText(fullOutputFileName,programOutput)
-    let newInputData = {inputData with LastRunTime=System.DateTime.Now}
-    let programInput=JsonConvert.SerializeObject(newInputData,newSerialSettings)
-    let fullInputFileName = if opts.InputFile.parameterValue.FileInfoOption.IsSome then opts.InputFile.parameterValue.FileInfoOption.Value.FullName else opts.InputFile.parameterValue.FileName
-    System.IO.File.WriteAllText(fullInputFileName,programInput)
+
+    //let newInputData = {inputData with LastRunTime=System.DateTime.Now}
+    //let programInput=JsonConvert.SerializeObject(newInputData,newSerialSettings)
+    //let fullInputFileName = if opts.InputFile.parameterValue.FileInfoOption.IsSome then opts.InputFile.parameterValue.FileInfoOption.Value.FullName else opts.InputFile.parameterValue.FileName
+    //System.IO.File.WriteAllText(fullInputFileName,programInput)
+    updateProcessedSite opts newOutputDataWithCategoryListUpdated
+
+
     let filteredOutputDataLinks = newOutputDataWithCategoryListUpdated.Links |> Array.filter(fun x->x.RipTime>System.DateTime.Now.AddHours((-12.0) * (float)opts.HoursRecent.parameterValue))
     let preFilteredOutput = addStatsToLinks newOutputDataWithCategoryListUpdated.Links filteredOutputDataLinks
     let finalFilteredOutputData={newOutputDataWithCategoryListUpdated with Links=preFilteredOutput}

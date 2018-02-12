@@ -1,2057 +1,553 @@
 {
   "CategoryList": [
     "News",
-    "Opinion",
-    "Tech/Programming",
-    "Science",
-    "History"
+    "Opinion"
   ],
   "SiteList": [
-    "CNN",
-    "Drudge Report",
-    "Fox News",
-    "MSNBC News",
-    "NBC News",
-    "CBS News",
-    "BBC News",
-    "Google News",
-    "Daily Mail",
-    "Washington Post",
-    "The Guardian",
-    "Wall Street Journal",
-    "New York Times",
-    "USA Today",
-    "RealClear Politics",
-    "RealClear Policy",
-    "RealClear Religion",
-    "RealClear Education",
-    "Huffington Post",
-    "Medium",
-    "QZ",
-    "RealClear Books",
-    "Daily Kos",
-    "Wonkette",
-    "Politico",
-    "Slate",
-    "TownHall",
-    "DZone",
-    "Hacker News",
-    "Reddit Programming",
-    "Reddit FSharp",
-    "Reddit Agile",
-    "RealClear Science",
-    "Quillette",
-    "The Conversation",
-    "Mosaic Science",
-    "Nautilus",
-    "BBC Science",
-    "Science Magazine",
-    "Quanta Magazine",
-    "Nature",
-    "Reddit History",
-    "Reddit Ask Historians",
-    "RealClear History",
-    "On This Day From Wikipedia",
-    "On This Day In Rock History"
+    "Yahoo News",
+    "The Atlantic",
+    "America Blog"
   ],
   "Links": [
     {
       "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Trump Tower meeting with Russians 'treasonous', Bannon says in explosive book",
-      "Link": "https://www.theguardian.com/us-news/2018/jan/03/donald-trump-russia-steve-bannon-michael-wolff",
-      "LocalLinkFileName": "2018-1-3-12-treasonous-explosive-Russians-meeting-bqewlyll.g5f.html",
+      "SiteName": "Yahoo News",
+      "LinkText": "Skip to Main Content",
+      "Link": "https://www.yahoo.com/news#Main",
+      "LocalLinkFileName": "2018-2-12-11-Content-xkccvxi4.na0.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2545163-05:00"
+      "RipTime": "2018-02-12T11:18:24.1777605-05:00"
     },
     {
       "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Russia-Trump inquiry 'FBI knew of collusion allegations during campaign'",
-      "Link": "https://www.theguardian.com/us-news/2018/jan/03/russia-trump-inquiry-fbi-knew-of-collusion-allegations-during-campaign",
-      "LocalLinkFileName": "2018-1-3-12-allegations-RussiaTrump-collusion-campaign-5upi4zjs.meh.html",
+      "SiteName": "Yahoo News",
+      "LinkText": "Now I Get It",
+      "Link": "https://www.yahoo.com/news/now-i-get-it",
+      "LocalLinkFileName": "2018-2-12-11-Get-g0lbj2xl.sio.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2555197-05:00"
+      "RipTime": "2018-02-12T11:18:24.1777605-05:00"
     },
     {
       "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Analysis Trump roars back from holiday break with typically divisive tweets",
-      "Link": "https://www.theguardian.com/us-news/2018/jan/02/donald-trump-first-day-back-tweets-christmas-holiday",
-      "LocalLinkFileName": "2018-1-3-12-typically-divisive-Analysis-holiday-bx0tii34.fbh.html",
+      "SiteName": "Yahoo News",
+      "LinkText": "Teen Set To Testify Against Man She Accused Of Rape Found Dead",
+      "Link": "https://www.yahoo.com/news/teen-set-testify-against-man-184616904.html",
+      "LocalLinkFileName": "2018-2-12-11-Accused-Against-Testify-Found-qf2udkv1.efv.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2565186-05:00"
+      "RipTime": "2018-02-12T11:18:24.1777605-05:00"
     },
     {
       "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "US Trump boasts his nuclear button is bigger than Kim Jong-un's",
-      "Link": "https://www.theguardian.com/us-news/2018/jan/03/donald-trump-boasts-nuclear-button-bigger-kim-jong-un",
-      "LocalLinkFileName": "2018-1-3-12-Jonguns-nuclear-bigger-button-ru0yswz3.5a0.html",
+      "SiteName": "Yahoo News",
+      "LinkText": "71 feared dead in Russian passenger plane crash",
+      "Link": "https://www.yahoo.com/news/russian-plane-carrying-71-people-crashes-near-moscow-132512262.html",
+      "LocalLinkFileName": "2018-2-12-11-passenger-Russian-feared-crash-13g3qgue.jze.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2595193-05:00"
+      "RipTime": "2018-02-12T11:18:24.1777605-05:00"
     },
     {
       "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Palestine  Trump threatens to cut US aid to force peace talks",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/trump-threatens-cut-aid-palestinians-peace-talks",
-      "LocalLinkFileName": "2018-1-3-12-threatens-Palestine-talks-peace-qs1jxf5l.sib.html",
+      "SiteName": "Yahoo News",
+      "LinkText": "Why Trump&#x27;s parade will lead Republicans over a cliff",
+      "Link": "https://www.yahoo.com/news/trumps-parade-will-lead-republicans-cliff-2-100004961.html",
+      "LocalLinkFileName": "2018-2-12-11-Republicans-Trumpx27s-parade-cliff-igbkzcka.kpz.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2605198-05:00"
+      "RipTime": "2018-02-12T11:18:24.1777605-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Analysis Why Trump’s funding threat is even more dangerous than Jerusalem move",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/donald-trump-moves-step-closer-destruction-middle-east-peace-process",
-      "LocalLinkFileName": "2018-1-3-12-Jerusalem-dangerous-Analysis-funding-n4kgg4p1.q3x.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2615203-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Big freeze  Snow falls in Florida as 12 die in harsh winter weather across US",
-      "Link": "https://www.theguardian.com/us-news/2018/jan/03/snow-florida-winter-weather-us",
-      "LocalLinkFileName": "2018-1-3-12-weather-Florida-across-winter-ueflzxva.b3p.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2625208-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Iran  Thousands join counter-protests after week of unrest",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/iranians-counter-protests-week-unrest",
-      "LocalLinkFileName": "2018-1-3-12-counterprotests-Thousands-unrest-after-o0p34rqi.04p.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2625208-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Music streaming  Spotify sued for $1.6bn in unpaid royalties",
-      "Link": "https://www.theguardian.com/technology/2018/jan/03/spotify-sued-for-16bn-in-unpaid-royalties",
-      "LocalLinkFileName": "2018-1-3-12-royalties-streaming-Spotify-unpaid-b3j3kc14.4u4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2625208-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Ethiopia  Country says it will free all political prisoners",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/ethiopia-says-free-all-political-prisoners",
-      "LocalLinkFileName": "2018-1-3-12-prisoners-political-Ethiopia-Country-5zj0rzn4.zku.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2635217-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Stock markets  Apple leads race to become world's first $1tn company",
-      "Link": "https://www.theguardian.com/business/2018/jan/03/apple-leads-race-to-become-world-first-1tn-dollar-company",
-      "LocalLinkFileName": "2018-1-3-12-company-markets-worlds-become-3ljraazy.f1h.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2635217-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Taj Mahal  Indians visiting historic site could be capped at 40,000 a day",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/indians-visiting-taj-mahal-cap-day",
-      "LocalLinkFileName": "2018-1-3-12-historic-visiting-Indians-capped-rgzbizjn.a2r.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2635217-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "The frontline of resistance  ACLU ready for further fights with Trump",
-      "Link": "https://www.theguardian.com/us-news/2018/jan/03/aclu-civil-rights-donald-trump",
-      "LocalLinkFileName": "2018-1-3-12-resistance-frontline-further-fights-wg1ty5lf.hu0.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2635217-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Future shock  Unearthing the most cutting-edge sci-fi movies of 2018",
-      "Link": "https://www.theguardian.com/film/2018/jan/03/cutting-edge-sci-fi-movies-2018-steven-spielberg-alex-garland",
-      "LocalLinkFileName": "2018-1-3-12-cuttingedge-Unearthing-movies-Future-oggb0bjb.dlu.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2635217-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "'Act of treason'  Fujimori pardon reopens wounds for victims of Peru's state terror",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/peru-alberto-fujimori-pardon-victims-state-terror-protests",
-      "LocalLinkFileName": "2018-1-3-12-Fujimori-victims-reopens-treason-3s4oxtbi.aug.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2635217-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Radical women and climate change  What to expect from the US art world in 2018",
-      "Link": "https://www.theguardian.com/artanddesign/2018/jan/03/us-art-2018-radical-women-climate-change",
-      "LocalLinkFileName": "2018-1-3-12-climate-Radical-expect-change-mrh1wcur.uex.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2645242-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "The Chi review  Dazzling small-screen drama avoids racial stereotypes",
-      "Link": "https://www.theguardian.com/tv-and-radio/2018/jan/03/the-chi-review-chicago-lena-waithe",
-      "LocalLinkFileName": "2018-1-3-12-stereotypes-smallscreen-Dazzling-racial-1u3myxf4.ezx.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2645242-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "‘I just want to cut it off’  The weight-loss patients who no longer fit their skin",
-      "Link": "https://www.theguardian.com/lifeandstyle/2018/jan/02/i-want-to-cut-it-off-weight-loss-patients-excess-skin",
-      "LocalLinkFileName": "2018-1-3-12-weightloss-patients-longer-their-pbkcvmem.x0r.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2655247-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Music  How Mongolia went wild for opera",
-      "Link": "https://www.theguardian.com/music/2018/jan/02/how-mongolia-went-wild-for-opera-ariunbaatar-ganbaatar",
-      "LocalLinkFileName": "2018-1-3-12-Mongolia-opera-Music-j1vy1mtm.ecp.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2655247-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "College football  Arizona fires Rich Rodriguez after investigation into sexual harassment",
-      "Link": "https://www.theguardian.com/sport/2018/jan/03/rich-rodriguez-fired-arizona-sexual-harassment",
-      "LocalLinkFileName": "2018-1-3-12-investigation-harassment-Rodriguez-football-bot5mqca.ujp.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2655247-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Why the future of the NFL may rely on fixing the concussion protocol",
-      "Link": "https://www.theguardian.com/sport/blog/2018/jan/02/nfl-concussion-protocol-fixing-tom-savage",
-      "LocalLinkFileName": "2018-1-3-12-concussion-protocol-fixing-future-hsxyakr4.2zs.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2655247-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "College football  Alabama and Georgia prevail to set up all-SEC national championship game",
-      "Link": "https://www.theguardian.com/sport/2018/jan/02/alabama-georgia-cfp-championship-game",
-      "LocalLinkFileName": "2018-1-3-12-championship-national-football-prevail-vl1czdgp.umc.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2665252-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Liverpool  Reds to demand at least £130m from Barcelona for Coutinho",
-      "Link": "https://www.theguardian.com/football/2018/jan/02/liverpool-to-demand-huge-fee-from-barcelona-for-philippe-coutinho-january-sale",
-      "LocalLinkFileName": "2018-1-3-12-Barcelona-Liverpool-Coutinho-demand-ry0jbh0z.cwu.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2665252-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Palestinian 16-year-old Ahed Tamimi is the latest child victim of Israel’s occupation",
-      "Link": "https://www.theguardian.com/commentisfree/2018/jan/02/ahed-tamimi-israel-occupation-palestinian-trauma",
-      "LocalLinkFileName": "2018-1-3-12-Palestinian-occupation-16yearold-Israels-bpmywidc.cf0.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2665252-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Greens should take a lesson from Donald Trump. Here’s why",
-      "Link": "https://www.theguardian.com/commentisfree/2018/jan/02/greens-donald-trump-males-environment-planet-macho",
-      "LocalLinkFileName": "2018-1-3-12-Donald-lesson-should-Greens-ggq1tyre.ohx.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2665252-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Coachella 2018 lineup announced  Headlined by Beyoncé and Eminem",
-      "Link": "https://www.theguardian.com/music/2018/jan/03/coachella-2018-lineup-announced-beyonce-eminem-the-weeknd",
-      "LocalLinkFileName": "2018-1-3-12-Headlined-announced-Coachella-Beyoncé-ikg24cri.m5d.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2675261-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Orrin Hatch  Utah senator to retire – leaving door open for Mitt Romney",
-      "Link": "https://www.theguardian.com/us-news/2018/jan/02/utah-senator-orrin-hatch-mitt-romney",
-      "LocalLinkFileName": "2018-1-3-12-leaving-senator-Romney-retire-2m22u2se.4tt.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2675261-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Palestinian territories  Gaza's health system close to collapse as electricity crisis threatens total blackout",
-      "Link": "https://www.theguardian.com/global-development/2018/jan/03/gaza-health-system-collapse-electricity-crisis-threatens-total-blackout",
-      "LocalLinkFileName": "2018-1-3-12-electricity-territories-Palestinian-threatens-wxqfbepa.zmy.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2675261-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "'I'm going via the wing'  Fed-up airline passenger climbs out emergency exit",
-      "Link": "https://www.theguardian.com/business/2018/jan/03/im-going-via-the-wing-fed-up-ryanair-passenger-climbs-out-emergency-exit",
-      "LocalLinkFileName": "2018-1-3-12-emergency-passenger-airline-climbs-4ugbos5p.1gt.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2675261-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "UK  Homeless man who was hailed as hero admits Manchester bombing thefts",
-      "Link": "https://www.theguardian.com/uk-news/2018/jan/03/homeless-man-hailed-as-manchester-bombing-hero-admits-thefts",
-      "LocalLinkFileName": "2018-1-3-12-Manchester-Homeless-bombing-thefts-ej31lyqr.uck.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2685266-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "MH370: search for Malaysia Airlines plane resumes as ship leaves South Africa",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/mh370-search-for-malaysia-airlines-plane-resumes-as-ship-leaves-south-africa",
-      "LocalLinkFileName": "2018-1-3-12-Airlines-Malaysia-resumes-Africa-0ier0m3h.251.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2685266-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "'Devil's Curve'  At least 30 dead in Peru after bus plunges off highway cliff",
-      "Link": "https://www.theguardian.com/world/2018/jan/02/peru-bus-accident-devils-curve-lima",
-      "LocalLinkFileName": "2018-1-3-12-highway-plunges-Devils-cliff-slnddnjl.fiu.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2685266-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Health  Humans can spot small signs of sickness at a glance, research suggests",
-      "Link": "https://www.theguardian.com/science/2018/jan/03/humans-can-spot-small-signs-of-sickness-at-a-glance-research-suggests",
-      "LocalLinkFileName": "2018-1-3-12-suggests-research-sickness-glance-ebubyqou.t4w.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2685266-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Price of a mother's love  Court orders dentist to repay cost of his upbringing",
-      "Link": "https://www.theguardian.com/world/2018/jan/03/court-orders-dentist-to-pay-mother-for-raising-him",
-      "LocalLinkFileName": "2018-1-3-12-upbringing-dentist-mothers-orders-ae02uoyv.aep.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2685266-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "UK  Crohn's disease patient in fact had Heinz sauce sachet perforating intestine",
-      "Link": "https://www.theguardian.com/uk-news/2018/jan/02/crohns-disease-patient-in-fact-had-sauce-sachet-perforating-intestine",
-      "LocalLinkFileName": "2018-1-3-12-perforating-intestine-patient-disease-2co45sin.re4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2685266-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Television  Are the 9.1 days you spent watching Game of Thrones a waste of a life?",
-      "Link": "https://www.theguardian.com/tv-and-radio/2018/jan/02/are-the-91-days-you-spent-watching-game-of-thrones-a-waste-of-a-life",
-      "LocalLinkFileName": "2018-1-3-12-Television-watching-Thrones-waste-fhl0zqge.fal.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2695276-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Of macaques and men  Do bereaved monkeys need space to grieve?",
-      "Link": "https://www.theguardian.com/science/shortcuts/2018/jan/02/macaques-bereaved-monkeys-space-grieve-zoo",
-      "LocalLinkFileName": "2018-1-3-12-bereaved-macaques-monkeys-grieve-5oydlbcm.dyq.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2695276-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Film  Breaking news: why does Hollywood gloss over the world of magazine journalism?",
-      "Link": "https://www.theguardian.com/film/filmblog/2018/jan/03/the-post-hollywood-journalism-steven-spielberg",
-      "LocalLinkFileName": "2018-1-3-12-journalism-Hollywood-magazine-Breaking-j34jt2vd.rsg.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2705281-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Africa heads in different directions – politically and economically",
-      "Link": "https://www.theguardian.com/world/2018/jan/02/africa-heads-different-directions-politically-economically",
-      "LocalLinkFileName": "2018-1-3-12-economically-politically-directions-different-xrm3uh2t.j5p.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2705281-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "The year in Nazi propaganda  Images of white supremacy in Trump's America",
-      "Link": "https://www.theguardian.com/media/2017/dec/27/the-year-in-nazi-propaganda-images-of-white-supremacy-in-trumps-america",
-      "LocalLinkFileName": "2018-1-3-12-propaganda-supremacy-America-Trumps-afl4xabk.zzn.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2705281-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Boosting survival rates for mothers and babies – in pictures",
-      "Link": "https://www.theguardian.com/global-development/gallery/2018/jan/03/congo-river-survival-mothers-babies-in-pictures-democratic-republic-congo-tshopo",
-      "LocalLinkFileName": "2018-1-3-12-pictures-survival-Boosting-mothers-l35ecfr5.wgb.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.271529-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Rick Hall  Legendary Muscle Shoals record producer, dies aged 85",
-      "Link": "https://www.theguardian.com/music/2018/jan/02/rick-hall-muscle-shoals-record-producer-dies-aged-85",
-      "LocalLinkFileName": "2018-1-3-12-Legendary-producer-record-Shoals-jcbayyxi.2h0.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.271529-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Peter Martins  New York City Ballet leader retires amid sexual misconduct investigation",
-      "Link": "https://www.theguardian.com/stage/2018/jan/02/new-york-city-ballet-peter-martins-retires-sexual-misconduct-investigation",
-      "LocalLinkFileName": "2018-1-3-12-investigation-misconduct-retires-Martins-oi0pc20t.nei.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.271529-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Peggy Cummins  Gun Crazy's iconic femme fatale, dies aged 92",
-      "Link": "https://www.theguardian.com/film/2018/jan/02/peggy-cummins-iconic-1940s-femme-fatale-gun-crazy-dies-aged-92",
-      "LocalLinkFileName": "2018-1-3-12-Cummins-fatale-iconic-Crazys-yu0mgrso.i4g.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.271529-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "The Guardian",
-      "LinkText": "Live  Storm Eleanor: power cuts and 100mph gusts – live updates",
-      "Link": "https://www.theguardian.com/uk-news/live/2018/jan/03/storm-eleanor-power-cuts-and-100mph-gusts-live-updates",
-      "LocalLinkFileName": "2018-1-3-12-updates-Eleanor-100mph-gusts-yrusu3y5.2ak.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T12:40:06.2725295-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "New Trump book: Bannon's 'treasonous' claim, Ivanka's presidential ambitions and Melania's first-lady concerns",
-      "Link": "https://www.washingtonpost.com/news/the-fix/wp/2018/01/03/new-trump-book-bannons-treasonous-claim-ivankas-presidential-ambitions-and-melanias-first-lady-concerns/",
-      "LocalLinkFileName": "2018-1-3-14-presidential-treasonous-firstlady-ambitions-l5vaz3tp.oe1.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.761014-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Trump: Bannon has 'lost his mind'",
-      "Link": "http://thehill.com/homenews/administration/367253-trump-bannon-has-lost-his-mind",
-      "LocalLinkFileName": "2018-1-3-14-Bannon-Trump-dwarioid.yrh.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.761014-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Trump says Steve Bannon 'lost his mind' when he was fired",
-      "Link": "https://www.usatoday.com/story/news/2018/01/03/bannon-book-excerpt-2016-trump-tower-meeting-treasonous/999817001/",
-      "LocalLinkFileName": "2018-1-3-14-Bannon-fired-Steve-Trump-eel3vswx.4n3.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7620168-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Donald Trump Didn't Want to Be President",
-      "Link": "http://nymag.com/daily/intelligencer/2018/01/michael-wolff-fire-and-fury-book-donald-trump.html",
-      "LocalLinkFileName": "2018-1-3-14-President-Donald-Didnt-Trump-54wh24dg.bly.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7620168-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Steve Bannon calls Trump Tower Russian meeting 'treasonous' in new book",
-      "Link": "https://www.nbcnews.com/politics/white-house/steve-bannon-calls-trump-tower-russian-meeting-treasonous-new-book-n834286",
-      "LocalLinkFileName": "2018-1-3-14-treasonous-meeting-Russian-Bannon-dkz23aua.4pk.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7620168-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Will Bannon Take Breitbart to War Against Trump?",
-      "Link": "https://www.usnews.com/opinion/thomas-jefferson-street/articles/2018-01-03/steve-bannon-goes-nuclear-on-trump-what-happens-now",
-      "LocalLinkFileName": "2018-1-3-14-Breitbart-Against-Bannon-Trump-wij2ui54.ljv.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7630196-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Under Trump, nuclear brinkmanship is the new normal",
-      "Link": "https://www.washingtonpost.com/news/worldviews/wp/2018/01/03/under-trump-the-threat-of-nuclear-war-is-the-new-normal/",
-      "LocalLinkFileName": "2018-1-3-14-brinkmanship-nuclear-normal-Trump-mpbwsmtj.dtd.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7630196-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "What it actually takes to launch a nuclear strike",
-      "Link": "http://www.cnn.com/2018/01/03/politics/trump-nuclear-football-explainer/index.html",
-      "LocalLinkFileName": "2018-1-3-14-actually-nuclear-strike-launch-kglcggra.5pc.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7630196-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Olympic cooldown can help bring North Korea to negotiating table",
-      "Link": "http://thehill.com/opinion/national-security/367233-olympic-cool-down-can-help-bring-north-korea-to-negotiating-table",
-      "LocalLinkFileName": "2018-1-3-14-negotiating-cooldown-Olympic-table-qd243dod.hgr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7630196-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "South-North Korea Border Talks Might Follow Kim Jong Un's Recent Overture",
-      "Link": "http://www.valuewalk.com/2018/01/south-north-korea-border-talks-might-follow-kim-jong-uns-recent-overture/",
-      "LocalLinkFileName": "2018-1-3-14-SouthNorth-Overture-Recent-Follow-fwq4gkq2.5po.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7640239-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "US-North Korea live updates: Trump taunts Kim Jong-un over nuclear button hours before Pyongyang reopens South ...",
-      "Link": "http://www.independent.co.uk/news/world/asia/trump-north-korea-live-updates-latest-news-us-nuclear-weapons-kim-jong-un-button-nikki-haley-hotline-a8139356.html",
-      "LocalLinkFileName": "2018-1-3-14-Pyongyang-USNorth-reopens-nuclear-sjobgkmi.aou.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7640239-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Powerful coastal storm bringing snow and ice to Florida, Georgia and South Carolina before moving north",
-      "Link": "http://abcnews.go.com/US/powerful-coastal-storm-bringing-snow-ice-florida-maine/story?id=52111473",
-      "LocalLinkFileName": "2018-1-3-14-Carolina-bringing-Powerful-Georgia-foyw5dpv.kf4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.765026-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Rare ice and snow snarl Southeast while New England braces for 'bomb cyclone'",
-      "Link": "https://www.usatoday.com/story/news/2018/01/03/rare-ice-and-snow-snarl-southeast-while-new-england-braces-bomb-cyclone/999106001/",
-      "LocalLinkFileName": "2018-1-3-14-Southeast-cyclone-England-braces-2etui2ik.smd.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.765026-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Florida sees snowfall as winter weather and cold air grips East Coast",
-      "Link": "https://www.nbcnews.com/news/us-news/florida-sees-snowfall-winter-weather-cold-air-grips-east-coast-n834236",
-      "LocalLinkFileName": "2018-1-3-14-snowfall-weather-Florida-winter-42yxflrg.xxu.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.765026-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Doug Jones is sworn in, shrinking GOP Senate majority",
-      "Link": "https://www.washingtonpost.com/powerpost/doug-jones-expected-to-take-senate-oath-on-wednesday-shrinking-gop-majority/2018/01/03/b77c1d40-f094-11e7-b3bf-ab90a706e175_story.html",
-      "LocalLinkFileName": "2018-1-3-14-shrinking-majority-Senate-sworn-021jedso.1jl.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.765026-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Two senators sworn into office amid #MeToo movement",
-      "Link": "http://www.cnn.com/2018/01/03/politics/metoo-era-congress-new-senators/index.html",
-      "LocalLinkFileName": "2018-1-3-14-movement-senators-office-MeToo-3pfkkdbl.4yu.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.765026-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Senate swears in new Democrats Doug Jones, Tina Smith as budget, immigration talks intensify",
-      "Link": "http://www.latimes.com/politics/la-na-pol-congress-budget-talks-20180103-story.html",
-      "LocalLinkFileName": "2018-1-3-14-immigration-intensify-Democrats-budget-0vxzoerj.5up.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.765026-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Winners and losers from 2017, the year in politics",
-      "Link": "http://www.chicagotribune.com/news/nationworld/politics/ct-politics-winners-and-losers-20180101-story.html",
-      "LocalLinkFileName": "2018-1-3-14-politics-Winners-losers-ro0uobyx.aot.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.765026-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Grassley open to public testimony from Fusion GPS leaders, spokesman says",
-      "Link": "https://www.politico.com/story/2018/01/03/chuck-grassley-fusion-gps-322076",
-      "LocalLinkFileName": "2018-1-3-14-spokesman-testimony-Grassley-leaders-hc2cmgnm.1p4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7660282-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Firm That Contracted Steele Dossier Says It Was 'Shocked' By Findings on Trump",
-      "Link": "https://www.npr.org/sections/thetwo-way/2018/01/03/575259858/firm-that-contracted-steele-dossier-says-it-was-shocked-by-findings-on-trump",
-      "LocalLinkFileName": "2018-1-3-14-Contracted-Findings-Shocked-Dossier-w50o5lg0.fdo.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7660282-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Too Convenient' — Republicans Question NYT's Russia Probe Origin Story",
-      "Link": "http://dailycaller.com/2018/01/02/too-convenient-republicans-question-nyts-russia-probe-origin-story/",
-      "LocalLinkFileName": "2018-1-3-14-Republicans-Convenient-Question-Origin-mj1cu10j.nfv.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7660282-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The Case for Trump Campaign Collusion",
-      "Link": "https://www.rollingstone.com/politics/features/the-case-for-trump-campaign-collusion-w514874",
-      "LocalLinkFileName": "2018-1-3-14-Collusion-Campaign-Trump-c1ocvo0d.3ie.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7660282-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Powerball, Mega Millions jackpots grow again, top $870M",
-      "Link": "http://www.ajc.com/news/local/powerball-mega-millions-jackpots-grow-again-top-870m/AQQta8IaZxUiF5MiiLT29N/",
-      "LocalLinkFileName": "2018-1-3-14-Powerball-jackpots-Millions-$870M-gsiyybnp.wc2.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7660282-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Despite the protests, little will change in Iran",
-      "Link": "http://thehill.com/opinion/international/367202-despite-the-protests-little-will-change-in-iran",
-      "LocalLinkFileName": "2018-1-3-14-protests-Despite-change-little-fxdjzemm.o31.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7660282-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Iran Stages Pro-Government Rallies After Days of Unrest",
-      "Link": "https://www.nytimes.com/2018/01/03/world/middleeast/iran-protests.html",
-      "LocalLinkFileName": "2018-1-3-14-ProGovernment-Rallies-Unrest-Stages-3xz0tm2n.u3v.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7660282-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Pro-Government Supporters Take To Iran's Streets In Wake Of Antigovernment Protests",
-      "Link": "http://www.payvand.com/news/18/jan/1007.html",
-      "LocalLinkFileName": "2018-1-3-14-Antigovernment-ProGovernment-Supporters-Protests-z51hg4go.mwy.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7670314-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "LIVE BLOG: Iran Protests",
-      "Link": "https://www.voanews.com/a/live-blog-iran-protests-jan-2/4190253.html",
-      "LocalLinkFileName": "2018-1-3-14-Protests-jx01eox5.cje.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7670314-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Joshua Boyle, Canadian hostage in Afghanistan, arrested and faces list of charges in Ottawa",
-      "Link": "https://www.thestar.com/news/canada/2018/01/02/joshua-boyle-canadian-hostage-in-afghanistan-arrested-and-faces-list-of-charges-in-ottawa.html",
-      "LocalLinkFileName": "2018-1-3-14-Afghanistan-arrested-Canadian-charges-uhjban4s.2l0.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7670314-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Joshua Boyle, former Canadian hostage, appears in court on 15 criminal charges",
-      "Link": "http://www.cbc.ca/news/canada/ottawa/joshua-boyle-ottawa-charges-court-appearance-1.4471052",
-      "LocalLinkFileName": "2018-1-3-14-criminal-Canadian-charges-appears-3xuszup2.3sl.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7670314-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "BONOKOSKI: The curious case of Joshua Boyle and Justin Trudeau",
-      "Link": "http://torontosun.com/opinion/columnists/bonokoski-the-curious-case-of-joshua-boyle-and-justin-trudeau",
-      "LocalLinkFileName": "2018-1-3-14-BONOKOSKI-Trudeau-curious-Justin-4zhorodr.xyr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7670314-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Iran deploys Revolutionary Guards to quell “sedition” in protest hotbeds",
-      "Link": "https://www.thepeninsulaqatar.com/article/03/01/2018/Iran-deploys-Revolutionary-Guards-to-quell-“sedition”-in-protest-hotbeds",
-      "LocalLinkFileName": "2018-1-3-14-Revolutionary-sedition-hotbeds-protest-sacp34d5.mjf.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7670314-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "UN chief deplores loss of life in Iran",
-      "Link": "http://www.trtworld.com/mea/un-chief-deplores-loss-of-life-in-iran-13882",
-      "LocalLinkFileName": "2018-1-3-14-deplores-chief-jij4ccv0.yhz.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "It's Now Illegal For Men To Make More Money Than Woman For the First Time Ever",
-      "Link": "http://www.newsweek.com/iceland-becomes-first-country-approve-equal-pay-law-769418",
-      "LocalLinkFileName": "2018-1-3-14-Illegal-First-Woman-Money-fqizkmbm.up1.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The Global Gender Gap Report 2017 - www3.weforum.org - World Economic Forum",
-      "Link": "http://www3.weforum.org/docs/WEF_GGGR_2017.pdf",
-      "LocalLinkFileName": "2018-1-3-14-www3weforumorg-Economic-Report-Gender-sjh5y0od.2za.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Follow Iceland and make it illegal to pay men more than women: experts",
-      "Link": "https://www.reuters.com/article/us-women-government-pay/follow-iceland-and-make-it-illegal-to-pay-men-more-than-women-experts-idUSKBN1ES16U",
-      "LocalLinkFileName": "2018-1-3-14-experts-illegal-Iceland-Follow-knumt2wr.dqx.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Women of Iceland are now required to earn equal pay to men",
-      "Link": "https://www.cbsnews.com/news/women-of-iceland-are-now-required-to-earn-equal-pay-to-men/",
-      "LocalLinkFileName": "2018-1-3-14-required-Iceland-equal-Women-pjupra5z.pfk.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "We must follow the example of our... - U.S. Senator Bernie Sanders | Facebook",
-      "Link": "https://www.facebook.com/senatorsanders/posts/10156636461552908",
-      "LocalLinkFileName": "2018-1-3-14-Facebook-Sanders-Senator-example-qlxpnnta.ac3.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Trump Dossier Authors Rip Republicans for Conducting 'Fake Investigations' into Russia Collusion",
-      "Link": "https://www.alternet.org/news-amp-politics/trump-dossier-authors-rip-republicans-conducting-fake-investigations-russia",
-      "LocalLinkFileName": "2018-1-3-14-Investigations-Republicans-Conducting-Collusion-jrmhz3e3.sqm.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The Private Prophet: Mormon Church President Thomas Monson Dies At 90",
-      "Link": "https://www.npr.org/2018/01/03/575270897/the-private-prophet-mormon-church-president-thomas-monson-dies-at-90",
-      "LocalLinkFileName": "2018-1-3-14-President-Prophet-Private-Monson-ijydrl0i.tv2.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Mormon church President Thomas S. Monson — known for private visits to the needy and public declarations of faith ...",
-      "Link": "http://www.sltrib.com/religion/local/2018/01/03/mormon-church-president-thomas-s-monson-dies-at-90/",
-      "LocalLinkFileName": "2018-1-3-14-declarations-President-private-visits-dnp3qwau.rnv.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Watch: Remember the time President Monson surprised Jerry Sloan during a Utah Jazz timeout?",
-      "Link": "https://www.deseretnews.com/article/865694649/Watch-Remember-the-time-President-Monson-surprised-Jerry-Sloan-during-a-Utah-Jazz-timeout.html",
-      "LocalLinkFileName": "2018-1-3-14-surprised-President-Remember-timeout-g0melucx.ln5.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7680332-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Thomas Monson, Mormon Church President, Dies at 90",
-      "Link": "https://www.usnews.com/news/national-news/articles/2018-01-03/thomas-monson-mormon-church-president-dies-at-90",
-      "LocalLinkFileName": "2018-1-3-14-President-Church-Mormon-Monson-czybz1l3.a2e.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "LDS Church President Thomas S. Monson Dead at 90",
-      "Link": "https://www.cityweekly.net/BuzzBlog/archives/2018/01/03/lds-church-president-thomas-s-monson-dead-at-90",
-      "LocalLinkFileName": "2018-1-3-14-President-Monson-Thomas-Church-ojy03tqa.vmn.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Texas woman, 19, who killed New Year's Eve date planned to steal his guns, prosecutors say",
-      "Link": "http://www.foxnews.com/us/2018/01/03/texas-woman-19-who-killed-new-years-eve-date-planned-to-steal-his-guns-prosecutors-say.html",
-      "LocalLinkFileName": "2018-1-3-14-prosecutors-planned-killed-steal-v2ubnycy.l3t.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Teen Charged With Murdering Her New Year's Eve Date",
-      "Link": "https://www.thedailybeast.com/teen-charged-with-murdering-her-new-years-eve-date",
-      "LocalLinkFileName": "2018-1-3-14-Murdering-Charged-Years-por0macf.1lo.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Teen accused of killing her New Year's Eve date in botched gun theft",
-      "Link": "https://nypost.com/2018/01/03/teen-accused-of-killing-her-new-years-eve-date-in-botched-gun-theft/",
-      "LocalLinkFileName": "2018-1-3-14-botched-killing-accused-theft-lcdnubwa.iky.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Teen claims self-defense after fatally shooting beau who was trying to recover guns she allegedly stole from him",
-      "Link": "http://www.nydailynews.com/news/crime/teen-accused-stealing-guns-beau-killing-article-1.3735101",
-      "LocalLinkFileName": "2018-1-3-14-selfdefense-allegedly-shooting-fatally-wyxqphgw.gj2.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "19-year-old woman is accused of killing her NYE date in Baytown",
-      "Link": "http://abc13.com/19-year-old-woman-is-accused-of-killing-her-nye-date-in-baytown/2850502/",
-      "LocalLinkFileName": "2018-1-3-14-19yearold-Baytown-killing-accused-kqfcu4l4.vn5.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "19-year-old Baytown woman accused in man's murder on NYE",
-      "Link": "https://www.chron.com/neighborhood/deerpark/news/article/19-year-old-Baytown-woman-accused-in-man-s-murder-12466966.php",
-      "LocalLinkFileName": "2018-1-3-14-19yearold-accused-Baytown-murder-ti3lhdwh.py4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Frozen Niagara Falls stuns visitors who dare to brave bitter cold",
-      "Link": "https://www.nbcnews.com/slideshow/frozen-niagara-falls-stuns-visitors-who-dare-brave-bitter-cold-n834276",
-      "LocalLinkFileName": "2018-1-3-14-visitors-Niagara-bitter-Frozen-21shgrex.dp2.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7690356-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Deep freeze across the US",
-      "Link": "https://www.cnbc.com/2018/01/03/deep-freeze-across-the-us.html",
-      "LocalLinkFileName": "2018-1-3-14-across-freeze-asiedu2r.2hb.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Deep freeze grips parts of US",
-      "Link": "http://www.latimes.com/visuals/photography/la-na-deep-freeze-grips-us-unfurled-2018-htmlstory.html",
-      "LocalLinkFileName": "2018-1-3-14-freeze-parts-grips-y4ndkqhs.l4f.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "US blocks Alibaba affiliate Ant Financial's $1.2B bid for Moneygram",
-      "Link": "https://www.usatoday.com/story/tech/news/2018/01/03/u-s-blocks-alibaba-affiliate-ant-financials-1-2-b-bid-moneygram/999126001/",
-      "LocalLinkFileName": "2018-1-3-14-Financials-Moneygram-affiliate-Alibaba-oeunlyet.pjr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "MoneyGram And Ant Financial Announce Termination Of Amended Merger Agreement",
-      "Link": "https://www.prnewswire.com/news-releases/moneygram-and-ant-financial-announce-termination-of-amended-merger-agreement-300576618.html",
-      "LocalLinkFileName": "2018-1-3-14-Termination-Agreement-Financial-MoneyGram-v2fyzax0.4cr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "US blocks sale of Moneygram to Chinese firm",
-      "Link": "http://thehill.com/policy/finance/367243-us-blocks-sale-of-moneygram-to-alibaba-subsidiary",
-      "LocalLinkFileName": "2018-1-3-14-Moneygram-Chinese-blocks-mugu2c30.cg0.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Stocks making the biggest moves premarket: BABA, IBM, AXP, ALXN, AAL, LUV &amp; more",
-      "Link": "https://www.cnbc.com/2018/01/03/stocks-making-the-biggest-moves-premarket-baba-ibm-axp-alxn-aal-luv-more.html",
-      "LocalLinkFileName": "2018-1-3-14-premarket-biggest-making-Stocks-wizxuqmf.ta2.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Time for Jack Ma to Step Up",
-      "Link": "https://www.bloomberg.com/gadfly/articles/2018-01-03/time-for-jack-ma-to-step-up",
-      "LocalLinkFileName": "2018-1-3-14-Step-craxsdv3.0g4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "US blocks MoneyGram sale to China's Ant Financial on national security concerns",
-      "Link": "http://www.stltoday.com/business/local/u-s-blocks-moneygram-sale-to-china-s-ant-financial/article_dca663f3-71a9-5bf9-80ed-9f2ad84f8f71.html",
-      "LocalLinkFileName": "2018-1-3-14-Financial-MoneyGram-concerns-security-4nnckfg2.zds.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Ripple Climbs Past $3, Hits All-New High",
-      "Link": "https://www.forbes.com/sites/cbovaird/2018/01/03/ripple-climbs-past-3-hits-all-new-high/",
-      "LocalLinkFileName": "2018-1-3-14-AllNew-Climbs-Ripple-xifgqt33.1wp.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Bitcoin may be king, but Ripple dark horse in crypto race",
-      "Link": "https://www.reuters.com/article/us-cryptocurrency-2017-factbox/bitcoin-may-be-king-but-ripple-dark-horse-in-crypto-race-idUSKBN1ES1PT",
-      "LocalLinkFileName": "2018-1-3-14-Bitcoin-crypto-Ripple-horse-ff2p2vdj.z2o.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Missed the Bitcoin boom? Check out these five rising cryptocoins",
-      "Link": "https://www.nbcnews.com/tech/innovation/missed-bitcoin-boom-check-out-these-five-rising-cryptocoins-n834356",
-      "LocalLinkFileName": "2018-1-3-14-cryptocoins-Bitcoin-rising-Missed-hor3yepe.3oc.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7700388-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Tax cuts pushed Fed to raise economic forecast, meeting minutes show",
-      "Link": "https://www.cnbc.com/2018/01/03/fomc-minutes-tax-cuts-pushed-fed-to-raise-economic-forecast.html",
-      "LocalLinkFileName": "2018-1-3-14-forecast-economic-minutes-meeting-brnb0fpj.nrr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Most Fed Officials Backed Continued Gradual Rate Increases",
-      "Link": "https://www.bloomberg.com/news/articles/2018-01-03/most-fed-officials-backed-continued-gradual-rate-hikes-jbzfgi77",
-      "LocalLinkFileName": "2018-1-3-14-Increases-Continued-Officials-Gradual-lfkc0n3p.wfp.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The Fed says it could speed up rate hikes because of Trump's tax cuts",
-      "Link": "http://www.businessinsider.com/fed-meeting-minutes-december-2017-2018-1",
-      "LocalLinkFileName": "2018-1-3-14-because-Trumps-hikes-speed-jskdljzt.pld.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Technology, energy help stocks sustain strong start to 2018",
-      "Link": "http://www.chicagotribune.com/business/sns-bc-financial-markets-20180103-story.html",
-      "LocalLinkFileName": "2018-1-3-14-Technology-sustain-strong-stocks-yt2wk0sn.l3s.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Dominion Energy Inc. - D - Stock Price Today - Zacks",
-      "Link": "https://www.zacks.com/stock/quote/D",
-      "LocalLinkFileName": "2018-1-3-14-Dominion-Energy-Zacks-Today-pcw0xegs.xtp.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Technology stocks lead US indexes toward more record highs",
-      "Link": "http://www.latimes.com/business/la-fi-markets-20180103-story.html",
-      "LocalLinkFileName": "2018-1-3-14-Technology-indexes-record-toward-r5a1h4wd.fhp.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Dominion Aims to Clean Up a Nuclear Disaster",
-      "Link": "https://www.bloomberg.com/gadfly/articles/2018-01-03/dominion-scana-deal-cleaning-up-a-nuclear-disaster",
-      "LocalLinkFileName": "2018-1-3-14-Disaster-Dominion-Nuclear-Clean-1hjb0utl.5wd.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "A major kernel vulnerability is going to slow down all Intel processors",
-      "Link": "https://techcrunch.com/2018/01/03/a-major-kernel-vulnerability-is-going-to-slow-down-all-intel-processors-2/",
-      "LocalLinkFileName": "2018-1-3-14-vulnerability-processors-kernel-Intel-p0ax1fyd.mgl.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7710413-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Intel CPU bug means your PC is soon going to be significantly slower",
-      "Link": "https://www.digitaltrends.com/computing/intel-cpus-suffer-bug-requiring-performance-reducing-fix/",
-      "LocalLinkFileName": "2018-1-3-14-significantly-slower-going-means-m225wgrq.rku.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "LKML: Tom Lendacky: [PATCH] x86/cpu, x86/pti: Do not enable PTI on AMD processors",
-      "Link": "https://lkml.org/lkml/2017/12/27/2",
-      "LocalLinkFileName": "2018-1-3-14-processors-Lendacky-enable-x86pti-1xhy0guz.c2s.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Jan Schaumann on Twitter: \"It's cool when Amazon emails you to let you know about an apparent undisclosed critical ...",
-      "Link": "https://twitter.com/jschauma/status/941447173245370368",
-      "LocalLinkFileName": "2018-1-3-14-undisclosed-Schaumann-apparent-critical-aough1k1.3v5.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Does Climate Change Cause More War?",
+      "Link": "https://www.theatlantic.com/science/archive/2018/02/does-climate-change-cause-more-war/553040/",
+      "LocalLinkFileName": "2018-2-12-11-Climate-Change-Cause-g2h1adve.qii.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Intel processors' design flaw may lead to huge computer slowdowns",
-      "Link": "https://www.consumeraffairs.com/news/intel-processors-design-flaw-may-lead-to-huge-computer-slowdowns-010318.html",
-      "LocalLinkFileName": "2018-1-3-14-processors-slowdowns-computer-design-3aew3esg.kzy.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Hisense's 2018 smart TVs are getting Amazon Alexa",
-      "Link": "https://www.theverge.com/circuitbreaker/2018/1/3/16845600/hisense-2018-smart-tv-amazon-alexa-smart-assistant-ces-2018",
-      "LocalLinkFileName": "2018-1-3-14-Hisenses-getting-Amazon-Alexa-2rbdhmci.e0l.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Amazon has big plans for Alexa ads in 2018; it's discussing options with P&amp;G, Clorox and others",
-      "Link": "https://www.cnbc.com/2018/01/02/amazon-alexa-is-opening-up-to-more-sponsored-product-ads.html",
-      "LocalLinkFileName": "2018-1-3-14-discussing-options-others-Amazon-223fmuj3.yk4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Amazon Echo vs. Google Home: How Competing Price Cuts Dominated the Holiday Season",
-      "Link": "http://fortune.com/2018/01/03/amazon-echo-google-home-prices/",
-      "LocalLinkFileName": "2018-1-3-14-Dominated-Competing-Holiday-Season-tmn2yl02.owx.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Select Hisense Smart TVs add Amazon Alexa for 2018",
-      "Link": "https://www.prnewswire.com/news-releases/select-hisense-smart-tvs-add-amazon-alexa-for-2018-300577045.html",
-      "LocalLinkFileName": "2018-1-3-14-Hisense-Amazon-Select-Alexa-heftwedy.tz4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Microsoft and Amazon Miss Integration Deadline for Cortana and Alexa",
-      "Link": "https://www.thurrott.com/cloud/microsoft-consumer-services/149359/microsoft-amazon-miss-integration-deadline-cortana-alexa",
-      "LocalLinkFileName": "2018-1-3-14-Integration-Microsoft-Deadline-Cortana-rdhplcav.wlb.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "12 questions that CES 2018 needs to answer",
-      "Link": "https://www.cnet.com/news/12-questions-that-ces-2018-needs-to-answer/",
-      "LocalLinkFileName": "2018-1-3-14-questions-answer-needs-zg3q1crp.loo.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7720438-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Roku to power smart speakers, sound bars and whole-home audio",
-      "Link": "https://www.cnet.com/news/roku-to-power-smart-speakers-soundbars-and-whole-home-audio/",
-      "LocalLinkFileName": "2018-1-3-14-wholehome-speakers-audio-sound-gkxmd2bs.yhx.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Roku Unveils Whole Home Entertainment Licensing Program to Enable OEM Brands to Build Audio Devices for Roku ...",
-      "Link": "http://newsroom.roku.com/press-release/company-usa/roku-unveils-whole-home-entertainment-licensing-program-enable-oem-brands",
-      "LocalLinkFileName": "2018-1-3-14-Entertainment-Licensing-Program-Unveils-vpb3xnwo.wox.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Roku is developing a new voice assistant and will license its OS to smart speaker makers",
-      "Link": "https://www.theverge.com/2018/1/3/16842862/roku-connect-os-smart-speakers-soundbar-tv-voice-assistant-ces-2018",
-      "LocalLinkFileName": "2018-1-3-14-developing-assistant-speaker-license-cxb200wp.0ed.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Roku Entertainment Assistant is Roku's media-focused answer to Alexa, Siri",
-      "Link": "https://arstechnica.com/gadgets/2018/01/roku-entertainment-assistant-is-rokus-media-focused-answer-to-alexa-siri/",
-      "LocalLinkFileName": "2018-1-3-14-Entertainment-mediafocused-Assistant-answer-azchw4p2.w3q.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "How to Get Your iPhone's Battery Replaced at Apple Store or Apple Authorized Service Provider",
-      "Link": "https://www.macrumors.com/2018/01/03/how-to-get-29-dollar-iphone-battery-replacement/",
-      "LocalLinkFileName": "2018-1-3-14-Authorized-Provider-Replaced-Service-5wogvvya.tmc.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Apple's battery controversy could cost the company over $10 billion in lost iPhone sales",
-      "Link": "http://www.businessinsider.com/apple-battery-controversy-10-billion-lost-iphone-sales-2018-1",
-      "LocalLinkFileName": "2018-1-3-14-controversy-billion-company-battery-etrim4r4.lnf.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "iPhone battery health: How to check it on your own",
-      "Link": "https://www.cnet.com/how-to/iphone-battery-health-how-to-check-it-on-your-own/",
-      "LocalLinkFileName": "2018-1-3-14-battery-health-iPhone-check-s4s124k5.dsl.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "How to Tell if You Need a New iPhone Battery",
-      "Link": "https://www.pcmag.com/article/358246/how-to-tell-if-you-need-a-new-iphone-battery",
-      "LocalLinkFileName": "2018-1-3-14-Battery-iPhone-gtwf5bvc.lvr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Chip Gaines and Joanna Gaines' Love Story Beyond Fixer Upper",
-      "Link": "http://www.eonline.com/news/903330/chip-gaines-and-joanna-gaines-love-story-beyond-fixer-upper",
-      "LocalLinkFileName": "2018-1-3-14-Beyond-Gaines-Joanna-Gaines-winetzvy.gd5.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Chip Gaines on Twitter: \"Hint #3 You might recall a few months back.. the ever amazing, ever romantic ...",
-      "Link": "https://twitter.com/chipgaines/status/948389631321657345",
-      "LocalLinkFileName": "2018-1-3-14-romantic-amazing-Twitter-months-rfb0ilzr.gi3.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Have Chip and Joanna Been Dropping Hints for Months? Everything They've Said About Baby #5",
-      "Link": "http://people.com/home/everything-fixer-upper-chip-and-joanna-gaines-have-said-about-baby-number-five/",
-      "LocalLinkFileName": "2018-1-3-14-Everything-Dropping-Theyve-Months-px1ywcjl.dm0.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7730463-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Pregnant 'Fixer Upper' Star Joanna Gaines Shares Sonogram of Baby No. 5",
-      "Link": "http://www.etonline.com/pregnant-fixer-upper-star-joanna-gaines-shares-sonogram-baby-no-5-93446",
-      "LocalLinkFileName": "2018-1-3-14-Sonogram-Pregnant-Shares-Gaines-bhr4bjnw.chr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7740502-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Chip Gaines on Instagram: “Gaines party of 7.. (If you're still confused.. WE ARE PREGNANT) @joannagaines ...",
-      "Link": "https://www.instagram.com/p/BdeL8apDocP/?taken-by=chipgaines",
-      "LocalLinkFileName": "2018-1-3-14-joannagaines-Instagram-PREGNANT-confused-piyo0mgq.rm4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7740502-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Fixer Upper' star Chip Gaines wants to 'make some more babies' with Joanna",
-      "Link": "http://abc13.com/entertainment/fixer-upper-star-wants-to-make-some-more-babies/2580941/",
-      "LocalLinkFileName": "2018-1-3-14-Joanna-babies-Gaines-wants-4wacdaaj.3wr.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7740502-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Hoda Kotb gets Matt Lauer's job, but only a fraction of his or Megyn Kelly's NBC paychecks",
-      "Link": "http://www.foxnews.com/entertainment/2018/01/03/hoda-kotb-making-18-million-less-than-matt-lauer-report-says.html",
-      "LocalLinkFileName": "2018-1-3-14-paychecks-fraction-Kellys-Lauers-itszjbpo.nvn.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7740502-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Hoda Kotb's 'Today' salary won't even compare to Lauer's",
-      "Link": "https://pagesix.com/2018/01/02/hoda-kotbs-today-salary-wont-even-compare-to-lauers/",
-      "LocalLinkFileName": "2018-1-3-14-compare-Lauers-salary-Today-2c2kfkkf.rdg.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Hoda Kotb's 'Today' Show Salary Is Reportedly $18 Million Less Than Matt Lauer's",
-      "Link": "http://www.etonline.com/hoda-kotbs-today-show-salary-reportedly-18-million-less-matt-lauers-93453",
-      "LocalLinkFileName": "2018-1-3-14-Reportedly-Million-Lauers-Salary-45dr1vjy.ycm.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Hoda Kotb's 'Today' Salary Far Less Than Matt Lauer's",
-      "Link": "https://www.hollywoodreporter.com/news/hoda-kotbs-today-salary-far-matt-lauers-1071199",
-      "LocalLinkFileName": "2018-1-3-14-Lauers-Salary-Today-Kotbs-gi52mjme.fw2.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Dear God, Netflix Really Is Giving Bright a Sequel",
-      "Link": "https://www.vanityfair.com/hollywood/2018/01/bright-netflix-sequel",
-      "LocalLinkFileName": "2018-1-3-14-Netflix-Sequel-Bright-Giving-gshz0dmu.rpu.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Bright' Sequel Officially a Go at Netflix",
-      "Link": "https://www.hollywoodreporter.com/heat-vision/bright-sequel-will-smith-david-ayer-expected-return-netflix-movie-1071188",
-      "LocalLinkFileName": "2018-1-3-14-Officially-Netflix-Sequel-Bright-44hytug2.os1.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Bright': Is Will Smith's Character a Bright?",
-      "Link": "http://comicbook.com/movies/2018/01/03/bright-movie-2-ward-jakoby-magic-powers-jirak/",
-      "LocalLinkFileName": "2018-1-3-14-Character-Bright-Smiths-Bright-vrnf2s2v.ro2.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Bright | Leaked Orc Auditions Confirm Sequel Rumors | Netflix",
-      "Link": "https://www.youtube.com/watch?v=WoFqmF9GHWg",
-      "LocalLinkFileName": "2018-1-3-14-Auditions-Netflix-Confirm-Rumors-vuhp0wvo.h5n.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Wixen's $1.6 Billion Spotify Lawsuit: What You Need to Know",
-      "Link": "https://www.rollingstone.com/music/lists/wixens-16-billion-spotify-lawsuit-what-you-need-to-know-w514878",
-      "LocalLinkFileName": "2018-1-3-14-Lawsuit-Spotify-Billion-Wixens-lh54ik0n.gti.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Spotify Hit With $1.6 Billion Lawsuit From Music Publisher – Variety",
-      "Link": "http://variety.com/2018/biz/news/spotify-hit-with-1-6-billion-lawsuit-from-publisher-representing-tom-petty-neil-young-others-1202651199/",
-      "LocalLinkFileName": "2018-1-3-14-Publisher-Variety-Lawsuit-Billion-sjp5t0hb.pk1.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.775052-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Spotify hit with $1.6 billion copyright infringement lawsuit",
-      "Link": "http://abcnews.go.com/Entertainment/spotify-hit-16-billion-copyright-infringement-lawsuit/story?id=52104636",
-      "LocalLinkFileName": "2018-1-3-14-infringement-copyright-lawsuit-billion-cfgjvdws.zsi.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Spotify Files Confidentially for Its IPO: Reports",
-      "Link": "https://www.billboard.com/articles/business/8085943/spotify-ipo-sec-filing-new-york-stock-exchange",
-      "LocalLinkFileName": "2018-1-3-14-Confidentially-Reports-Spotify-Files-w5skvk3v.i0g.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Wixen | Copyright | License - Scribd",
-      "Link": "https://www.scribd.com/document/368270996/Wixen",
-      "LocalLinkFileName": "2018-1-3-14-Copyright-License-Scribd-Wixen-xqymknfg.hen.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Spotify Hit With $1.6 Billion Copyright Lawsuit Over Tom Petty, Weezer, Neil Young Songs",
-      "Link": "https://www.hollywoodreporter.com/thr-esq/spotify-hit-16-billion-copyright-lawsuit-tom-petty-weezer-neil-young-songs-1070960",
-      "LocalLinkFileName": "2018-1-3-14-Copyright-Lawsuit-Billion-Spotify-k1e1yvw3.lmc.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Exclusive: Spotify files for its IPO",
-      "Link": "https://www.axios.com/exclusive-spotify-files-for-its-ipo-2522109160.html",
-      "LocalLinkFileName": "2018-1-3-14-Exclusive-Spotify-files-vozu3rpf.lvd.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Cleveland Cavaliers vs. Boston Celtics odds: Picks from expert who's 11-5 on Celtics games",
-      "Link": "https://www.cbssports.com/nba/news/cleveland-cavaliers-vs-boston-celtics-odds-picks-from-expert-whos-11-5-on-celtics-games/",
-      "LocalLinkFileName": "2018-1-3-14-Cavaliers-Cleveland-Celtics-Celtics-topbtd4q.1rq.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The NBA Will Have to Wait for Cavs-Celtics to Reach Its Potential",
-      "Link": "https://www.si.com/nba/2018/01/03/isaiah-thomas-injury-cavaliers-celtics-rivalry-lebron-james-kyrie-irving",
-      "LocalLinkFileName": "2018-1-3-14-CavsCeltics-Potential-Reach-ahazbbjc.cgi.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Hall of Fame finalists: Ray Lewis a lock, but who else will get in?",
-      "Link": "http://www.nfl.com/news/story/0ap3000000902121/article/hall-of-fame-finalists-ray-lewis-a-lock-but-who-else-will-get-in",
-      "LocalLinkFileName": "2018-1-3-14-finalists-Lewis-hoh1oj1y.h5e.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Pacers send Anigbogu back to Mad Ants",
-      "Link": "https://www.foxsports.com/indiana/story/indiana-pacers-send-ike-anigbogu-back-to-fort-wayne-mad-ants-010318",
-      "LocalLinkFileName": "2018-1-3-14-Anigbogu-Pacers-esbbm0jj.mce.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Randy Moss, Terrell Owens, Ray Lewis Headline 2018 NFL Hall of Fame Finalists",
-      "Link": "http://bleacherreport.com/articles/2752123-randy-moss-terrell-owens-ray-lewis-headline-2018-nfl-hall-of-fame-finalists",
-      "LocalLinkFileName": "2018-1-3-14-Finalists-Headline-Terrell-Lewis-batb25ks.piu.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7760548-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "John Lynch, Bobby Beathard to be considered for Pro Football Hall of Fame",
-      "Link": "http://www.sandiegouniontribune.com/sports/columnists/kevin-acee/sd-sp-hall-of-fame-lynch-beathard-0103-story.html",
-      "LocalLinkFileName": "2018-1-3-14-considered-Football-Beathard-Bobby-dzuazju3.xj4.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Why Brian Urlacher should be a first-ballot Hall of Famer",
-      "Link": "http://www.chicagotribune.com/sports/football/bears/ct-spt-bears-brian-urlacher-hall-biggs-20170102-story.html",
-      "LocalLinkFileName": "2018-1-3-14-firstballot-Urlacher-should-Famer-jptyqn1z.dgl.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Mike Freeman's 10-Point Stance: Raiders Get Their Man but Lose Their Soul",
-      "Link": "http://bleacherreport.com/articles/2751783-mike-freemans-10-point-stance-raiders-get-their-man-but-lose-their-soul",
-      "LocalLinkFileName": "2018-1-3-14-Freemans-Raiders-10Point-Stance-xyjtm3pq.t0e.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Raiders showing Rooney Rule now almost a mannequin in a scrimmage",
-      "Link": "https://sports.yahoo.com/raiders-showing-rooney-rule-now-171527000.html",
-      "LocalLinkFileName": "2018-1-3-14-scrimmage-mannequin-showing-Raiders-e2kot12p.ato.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Gruden: There's 'good chance' he'll return as Raiders coach",
-      "Link": "http://www.therepublic.com/2018/01/03/fbn-raiders-gruden-2/",
-      "LocalLinkFileName": "2018-1-3-14-Raiders-return-chance-Theres-50io0fzl.r20.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Rich Rodriguez Fired as Arizona HC Amid Sexual Harassment Allegations",
-      "Link": "http://bleacherreport.com/articles/2729220-rich-rodriguez-fired-as-arizona-hc-amid-sexual-harassment-allegations",
-      "LocalLinkFileName": "2018-1-3-14-Allegations-Harassment-Rodriguez-Arizona-nr3clooy.udj.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Samir on Twitter: \"My son singing \"Remember Me\" from the movie \"Coco\" to his baby sister, Ava, who we lost this past ...",
-      "Link": "https://twitter.com/SAM1R/status/947291512303489024",
-      "LocalLinkFileName": "2018-1-3-14-Remember-Twitter-singing-sister-fxxb1kwg.v1h.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Arizona needs to release early signees from letters of intent after Rich Rodriguez firing",
-      "Link": "https://www.cbssports.com/college-football/news/arizona-needs-to-release-early-signees-from-letters-of-intent-after-rich-rodriguez-firing/",
-      "LocalLinkFileName": "2018-1-3-14-Rodriguez-letters-signees-release-oqil151l.2wg.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Arizona weighs whether to fire football coach Rich Rodriguez",
-      "Link": "https://www.usatoday.com/story/sports/ncaaf/pac12/2018/01/02/arizona-weighs-whether-fire-football-coach-rich-rodriguez/996856001/",
-      "LocalLinkFileName": "2018-1-3-14-Rodriguez-football-whether-Arizona-e4ec32nu.0kf.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Benjamin Bratt - Remember Me (Ernesto de la Cruz) (From \"Coco\"/Audio Only)",
-      "Link": "https://www.youtube.com/watch?v=nsx0pvgls4E",
-      "LocalLinkFileName": "2018-1-3-14-CocoAudio-Remember-Benjamin-Ernesto-roqeei3l.uqs.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "At Veterans' Homes, Aid-in-Dying Isn't an Option",
+      "Link": "https://www.theatlantic.com/health/archive/2018/02/aid-in-dying-veterans-homes/552974/",
+      "LocalLinkFileName": "2018-2-12-11-AidinDying-Veterans-Option-Homes-tfm4ety0.cdw.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.777057-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "8:35 pm Rich Rodriguez fired after $7.5M notice of claim",
-      "Link": "http://tucson.com/sports/arizonawildcats/football/university-of-arizona-fires-rich-rodriguez-following-hostile-workplace-claim/article_a5da70da-f02d-11e7-a7f8-17b0f5c5ce06.html",
-      "LocalLinkFileName": "2018-1-3-14-Rodriguez-notice-claim-after-u3dskkpv.z2v.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Photos of the Week: Moving a Tyrannosaurus, Philadelphia Victorious, a Drive to Mars",
+      "Link": "https://www.theatlantic.com/photo/2018/02/photos-of-the-week-moving-a-tyrannosaurus-philadelphia-victorious-a-drive-to-mars/552956/",
+      "LocalLinkFileName": "2018-2-12-11-Tyrannosaurus-Philadelphia-Victorious-Moving-ydbd044r.pnm.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Chocolate To Go Extinct By 2050, But Scientists Are Here To Save The Day",
-      "Link": "http://www.techtimes.com/articles/217860/20180102/chocolate-to-go-extinct-by-2050-but-scientists-are-here-to-save-the-day.htm",
-      "LocalLinkFileName": "2018-1-3-14-Scientists-Chocolate-Extinct-tl2pcefc.4ln.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Fire Sermon Is a Profoundly Strange Meditation on Desire",
+      "Link": "https://www.theatlantic.com/magazine/archive/2018/03/fire-sermon-jamie-quatro-review/550898/",
+      "LocalLinkFileName": "2018-2-12-11-Meditation-Profoundly-Strange-Desire-xxb3eyh5.2uh.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Chocolate Might Be Extinct By 2050",
-      "Link": "https://www.immortal.org/36115/chocolate-might-extinct-2050/",
-      "LocalLinkFileName": "2018-1-3-14-Chocolate-Extinct-Might-o1u4crhi.vxb.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Urban Foxes and Coyotes Learn to Make Nice",
+      "Link": "https://www.theatlantic.com/science/archive/2018/02/urban-foxes-and-coyotes-learn-to-make-nice/552995/",
+      "LocalLinkFileName": "2018-2-12-11-Coyotes-Learn-Foxes-Urban-jdea2zz3.tme.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Devastating' impact of climate change on cocoa can't be ignored, says Rainforest Alliance",
-      "Link": "https://www.confectionerynews.com/Article/2015/12/21/Climate-change-Impact-on-cocoa-production-devastating",
-      "LocalLinkFileName": "2018-1-3-14-Devastating-Rainforest-Alliance-ignored-abdxpmrz.tuh.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "'The Best Cab Ride of My Life'",
+      "Link": "https://www.theatlantic.com/video/index/552302/cab-elvis-seattle/",
+      "LocalLinkFileName": "2018-2-12-11-Life-vr1fce4j.phe.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "How climate change could rob the world of chocolate",
-      "Link": "http://www.financialexpress.com/opinion/how-climate-change-could-rob-the-world-of-chocolate/999433/",
-      "LocalLinkFileName": "2018-1-3-14-chocolate-climate-change-world-ka15v3p3.4jm.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "An Urban Legend Is Born",
+      "Link": "https://www.theatlantic.com/video/index/551975/twisted-film-niagara/",
+      "LocalLinkFileName": "2018-2-12-11-Legend-Urban-cedgadsv.rdf.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Research reveals evidence of new population of ancient Native Americans",
-      "Link": "https://www.eurekalert.org/pub_releases/2018-01/uoaf-rre010218.php",
-      "LocalLinkFileName": "2018-1-3-14-population-Americans-evidence-Research-4rxi3hiv.1ix.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "The Naked Mole Rat Is One of the Weirdest Creatures Out There",
+      "Link": "https://www.theatlantic.com/video/index/551627/animalism-the-naked-mole-rat/",
+      "LocalLinkFileName": "2018-2-12-11-Creatures-Weirdest-There-Naked-dwzy2d1b.xpj.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "What the ancient DNA discovery tells us about Native American ancestry",
-      "Link": "https://www.theguardian.com/science/2018/jan/03/what-the-ancient-dna-discovery-tells-us-about-native-american-ancestry",
-      "LocalLinkFileName": "2018-1-3-14-discovery-ancestry-American-ancient-5dncxkov.syo.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "In 100 Texts, the Story of Love, Heartbreak, and an Unplanned Baby",
+      "Link": "https://www.theatlantic.com/video/index/551426/160-characters/",
+      "LocalLinkFileName": "2018-2-12-11-Heartbreak-Unplanned-Story-Texts-tb2cly3d.yjx.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "A Previously Unknown Group of Ancient Native Americans Was Just Revealed",
-      "Link": "https://www.seeker.com/history/ancient-infant-dna-sheds-light-on-native-american-ancestors",
-      "LocalLinkFileName": "2018-1-3-14-Previously-Americans-Revealed-Ancient-p04m0djy.oz2.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "The Hollowing Out of the State Department Continues",
+      "Link": "https://www.theatlantic.com/international/archive/2018/02/tillerson-trump-state-foreign-service/553034/",
+      "LocalLinkFileName": "2018-2-12-11-Department-Continues-Hollowing-State-cm3upwpl.yfj.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7780598-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The strangest star in the sky finally has an explanation for its flicker",
-      "Link": "https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/03/the-strangest-star-in-the-sky-finally-has-an-explanation-for-its-flicker/",
-      "LocalLinkFileName": "2018-1-3-14-explanation-strangest-flicker-finally-442503oj.aok.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "A Dangerous Immigration Crackdown in West Africa",
+      "Link": "https://www.theatlantic.com/international/archive/2018/02/niger-europe-migrants-jihad-africa/553019/",
+      "LocalLinkFileName": "2018-2-12-11-Immigration-Crackdown-Dangerous-Africa-ydaz2p4h.zew.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The most mysterious star in the Galaxy by Tabetha Boyajian — Kickstarter",
-      "Link": "https://www.kickstarter.com/projects/608159144/the-most-mysterious-star-in-the-galaxy",
-      "LocalLinkFileName": "2018-1-3-14-Kickstarter-mysterious-Boyajian-Tabetha-bt3rj1ft.gnt.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "The Jet Engine is a Futuristic Technology Stuck in the Past",
+      "Link": "https://www.theatlantic.com/technology/archive/2018/02/engine-failure/552959/",
+      "LocalLinkFileName": "2018-2-12-11-Technology-Futuristic-Engine-Stuck-czpg1tmx.f4p.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "No Alien Megastructure: Star's Weird Dimming Likely Caused by Dust",
-      "Link": "https://www.space.com/39263-alien-megastructure-tabbys-star-dust.html",
-      "LocalLinkFileName": "2018-1-3-14-Megastructure-Dimming-Caused-Likely-okzljter.enc.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "A Better Way to Look at Most Every Political Issue",
+      "Link": "https://www.theatlantic.com/politics/archive/2018/02/a-better-way-to-look-at-most-every-political-issue/552752/",
+      "LocalLinkFileName": "2018-2-12-11-Political-Better-Issue-Every-s5lxatpb.ea4.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Researchers say aliens aren't causing Tabby's Star to dim after all",
-      "Link": "https://www.engadget.com/2018/01/03/aliens-arent-causing-tabbys-star-dim/",
-      "LocalLinkFileName": "2018-1-3-14-Researchers-causing-Tabbys-aliens-pk5nrlpe.xng.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Echoes of the Mommy Wars in #MeToo",
+      "Link": "https://www.theatlantic.com/politics/archive/2018/02/echoes-of-the-mommy-wars-in-metoo/552830/",
+      "LocalLinkFileName": "2018-2-12-11-Echoes-MeToo-Mommy-0sgbxgao.sd0.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "New data debunks alien megastructure theory on the 'most mysterious star in the universe'",
-      "Link": "https://www.eurekalert.org/pub_releases/2018-01/lsu-ndd122417.php",
-      "LocalLinkFileName": "2018-1-3-14-megastructure-mysterious-universe-debunks-ivnakebg.sqr.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "When the Islamic State Came to Libya",
+      "Link": "https://www.theatlantic.com/international/archive/2018/02/isis-libya-hiftar-al-qaeda-syria/552419/",
+      "LocalLinkFileName": "2018-2-12-11-Islamic-Libya-State-rkwixrhk.oip.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "New Results Quash 'Alien Megastructure' Theory of Mysterious Dimming Star",
-      "Link": "https://gizmodo.com/new-results-quash-alien-megastructure-theory-of-myste-1821734317",
-      "LocalLinkFileName": "2018-1-3-14-Megastructure-Mysterious-Dimming-Results-se3bvuci.epk.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "A GIF Guide to Figure Skaters' Jumps at the Olympics",
+      "Link": "https://www.theatlantic.com/entertainment/archive/2014/02/gif-guide-figure-skaters-jumps-olympics/357723/",
+      "LocalLinkFileName": "2018-2-12-11-Olympics-Skaters-Figure-Jumps-a2kejlhv.0cd.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6403415-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Record-Breaking 2000 New Asteroids Approached Earth in 2017 and Astronomers Expect to Spot Even More in 2018",
-      "Link": "http://www.newsweek.com/record-breaking-2000-new-asteroids-approached-earth-2017-and-astronomers-769236",
-      "LocalLinkFileName": "2018-1-3-14-RecordBreaking-Astronomers-Approached-Asteroids-ixa1e2t3.yft.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "The Atlantic Daily: ‘Maybe It’s an Opportunity’",
+      "Link": "https://www.theatlantic.com/newsletters/archive/2018/02/the-atlantic-daily-february-9-2018/552950/",
+      "LocalLinkFileName": "2018-2-12-11-Opportunity-Atlantic-Maybe-Daily-w0elooiu.mno.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Lorry-sized asteroid that Nasa only spotted six days ago is set to make a 'close' approach with Earth in HOURS",
-      "Link": "http://www.dailymail.co.uk/sciencetech/article-5228513/Asteroid-set-make-close-approach-Earth-HOURS.html",
-      "LocalLinkFileName": "2018-1-3-14-Lorrysized-asteroid-approach-spotted-w3iaqqp1.ma5.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "A Scandal That Exposes the White House’s ‘Adults’",
+      "Link": "https://www.theatlantic.com/politics/archive/2018/02/new-kids-on-the-block/552911/",
+      "LocalLinkFileName": "2018-2-12-11-Exposes-Scandal-Adults-Houses-cnetxorx.pac.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "How far is the Earth from the moon? Take a look yourself",
-      "Link": "https://qz.com/1170202/how-far-is-the-earth-from-the-moon-nasa-spacecraft-captures-the-true-distance/",
-      "LocalLinkFileName": "2018-1-3-14-yourself-Earth-jclbygsw.joo.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Waymo vs. Uber Fizzles Just as It Was Getting Good",
+      "Link": "https://www.theatlantic.com/technology/archive/2018/02/waymo-and-uber-settle-huge-self-driving-car-case/552992/",
+      "LocalLinkFileName": "2018-2-12-11-Getting-Fizzles-Waymo-4nypbnzr.qyx.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Image: From the Earth, moon and beyond",
-      "Link": "https://phys.org/news/2018-01-image-earth-moon.html",
-      "LocalLinkFileName": "2018-1-3-14-beyond-Earth-Image-fuecal4s.q5o.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Episode 31: From 'I, Tonya' to 'Cat Person,' Is 'Based On a True Story' Better?",
+      "Link": "https://www.theatlantic.com/podcasts/radio-atlantic/",
+      "LocalLinkFileName": "2018-2-12-11-Episode-Better-Person-Story-obs0mmhf.m5i.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7790623-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The best (and worst) diet plans for 2018",
-      "Link": "https://www.cbsnews.com/news/best-diet-plans-for-2018-mediterranean-dash-diets/",
-      "LocalLinkFileName": "2018-1-3-14-plans-worst-kw1reivs.1to.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Trump Finally Comments on the Stock Slump—by Arguing With It",
+      "Link": "https://www.theatlantic.com/business/archive/2018/02/trump-markets-dow/552683/",
+      "LocalLinkFileName": "2018-2-12-11-Comments-Arguing-Slumpby-Finally-g0ewst42.rvj.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "How Can I Lose Weight? Best Diets: Improve Your Health | US News - US News Health - US News &amp; World Report",
-      "Link": "https://health.usnews.com/best-diet",
-      "LocalLinkFileName": "2018-1-3-14-Improve-Report-Weight-Health-1vwxexcr.ezm.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "A Handheld DNA Scanner Could Crack Down on Wildlife Identity Theft",
+      "Link": "https://www.theatlantic.com/technology/archive/2018/02/conservation-tech/552779/",
+      "LocalLinkFileName": "2018-2-12-11-Identity-Wildlife-Handheld-Scanner-qezhejgg.401.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Mediterranean, DASH Top Best Diets List",
-      "Link": "https://www.webmd.com/diet/news/20180103/mediterranean-dash-top-best-diets-list",
-      "LocalLinkFileName": "2018-1-3-14-Mediterranean-Diets-mrtgjdc1.t30.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "The Man Who Saw Inside Himself",
+      "Link": "https://www.theatlantic.com/magazine/archive/2018/03/larry-smarr-the-man-who-saw-inside-himself/550883/",
+      "LocalLinkFileName": "2018-2-12-11-Himself-Inside-nwobfbb2.dmw.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "From Vegan To 'Keto' And Mediterranean: Experts Rank 2018's Best Diets",
-      "Link": "https://www.npr.org/sections/thesalt/2018/01/03/575181390/from-vegan-to-keto-and-mediterranean-experts-rank-2018s-best-diets",
-      "LocalLinkFileName": "2018-1-3-14-Mediterranean-Experts-Diets-2018s-umdrqn3r.3rr.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "The CDC Is About to Fall Off a Funding Cliff",
+      "Link": "https://www.theatlantic.com/health/archive/2018/02/cdc-funding-pandemics/552224/",
+      "LocalLinkFileName": "2018-2-12-11-Funding-Cliff-About-kwidw1ep.12n.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "US News Reveals Best Diets Rankings for 2018",
-      "Link": "https://www.usnews.com/info/blogs/press-room/articles/2018-01-03/us-news-reveals-best-diets-rankings-for-2018",
-      "LocalLinkFileName": "2018-1-3-14-Rankings-Reveals-Diets-t4oftc13.kir.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "A Math Class That Makes Tax Season Easier",
+      "Link": "https://www.theatlantic.com/education/archive/2018/02/a-math-class-that-makes-tax-season-easier/552863/",
+      "LocalLinkFileName": "2018-2-12-11-Easier-Season-Makes-Class-k2vcedfk.rtw.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Gene therapy for inherited blindness sets precedent: $850000 price tag",
-      "Link": "https://www.washingtonpost.com/news/wonk/wp/2018/01/03/gene-therapy-for-inherited-blindness-sets-precedent-an-850000-price-tag/",
-      "LocalLinkFileName": "2018-1-3-14-precedent-blindness-inherited-$850000-w1b2d5ho.wox.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "How to Parent an Olympic Athlete",
+      "Link": "https://www.theatlantic.com/education/archive/2018/02/how-to-parent-an-olympic-athlete/552743/",
+      "LocalLinkFileName": "2018-2-12-11-Athlete-Olympic-Parent-jlp5rcew.vot.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "A US drugmaker offers to cure rare blindness for $850000",
-      "Link": "https://www.cnbc.com/2018/01/03/spark-therapeutics-luxturna-gene-therapy-will-cost-about-850000.html",
-      "LocalLinkFileName": "2018-1-3-14-blindness-drugmaker-$850000-offers-lrtduuoi.jlm.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "After Four Months, Much of Puerto Rico Still Dark and Damaged",
+      "Link": "https://www.theatlantic.com/photo/2018/01/after-four-months-much-of-puerto-rico-still-dark-and-damaged/551756/",
+      "LocalLinkFileName": "2018-2-12-11-Damaged-Puerto-Months-Still-fquxsecf.5et.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Gene Therapy Cure For Blindness Will Cost $850K",
-      "Link": "http://denver.cbslocal.com/2018/01/03/gene-therapy-blindness-price/",
-      "LocalLinkFileName": "2018-1-3-14-Blindness-Therapy-$850K-4xknnmfn.vzh.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Conservation in Nebraska: 'Our Hope Is For People to Think of This as Not Just Flyover Country'",
+      "Link": "https://www.theatlantic.com/notes/2017/12/conservation-in-nebraska-our-hope-is-for-people-to-think-of-this-as-not-just-flyover-country/549284/",
+      "LocalLinkFileName": "2018-2-12-11-Conservation-Nebraska-Flyover-Country-cmhg3tlh.jhb.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6413414-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Price of new genetic therapy for blindness set at $850K",
-      "Link": "http://thehill.com/policy/healthcare/367257-price-of-new-genetic-therapy-for-blindness-set",
-      "LocalLinkFileName": "2018-1-3-14-blindness-therapy-genetic-$850K-azlgfrht.4d5.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Letter: Discussions of American Citizenship and Belonging Must Include Native Populations",
+      "Link": "https://www.theatlantic.com/letters/archive/2018/02/letters-radio-atlantic-who-gets-to-be-american/551897/",
+      "LocalLinkFileName": "2018-2-12-11-Populations-Citizenship-Discussions-Belonging-ygcenevh.vmn.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6423432-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Trendy 'Raw Water' Can Reportedly Give You Hepatitis, Other Diseases",
-      "Link": "http://denver.cbslocal.com/2018/01/03/raw-water-health-diseases/",
-      "LocalLinkFileName": "2018-1-3-14-Reportedly-Hepatitis-Diseases-Trendy-i2rlv4ax.lsg.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Pale’ocracy and Other Names for This Era",
+      "Link": "https://www.theatlantic.com/notes/2018/02/paleocracy-and-other-names-for-this-era/552470/",
+      "LocalLinkFileName": "2018-2-12-11-Paleocracy-Names-Other-uieezfhz.fts.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6423432-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Food-safety expert warns latest bizarre Silicon Valley $60 'raw water' trend could quickly turn deadly",
-      "Link": "http://www.businessinsider.com/silicon-valleys-raw-water-trend-could-turn-deadly-2018-1",
-      "LocalLinkFileName": "2018-1-3-14-Foodsafety-quickly-Silicon-bizarre-nvmkvma5.izq.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "On the Proper Name for the Trump Era: ‘Democracide’, ‘Ochlocracy’, or Something Else",
+      "Link": "https://www.theatlantic.com/notes/2018/02/on-the-proper-name-for-the-trump-era-democracide-ochlocracy-or-something-else/552401/",
+      "LocalLinkFileName": "2018-2-12-11-Democracide-Ochlocracy-Something-Proper-bttc15tj.uwf.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7800652-05:00"
+      "RipTime": "2018-02-12T11:21:06.6423432-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "What is the 'raw water' trend? It could kill you, health experts say",
-      "Link": "http://www.wfaa.com/news/nation-world/what-is-the-raw-water-trend-it-could-kill-you-health-experts-say/504500923",
-      "LocalLinkFileName": "2018-1-3-14-experts-health-could-trend-o44f24ek.ecf.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "A Note on ‘Notes’",
+      "Link": "https://www.theatlantic.com/notes/2018/02/a-note-on-notes/552281/",
+      "LocalLinkFileName": "2018-2-12-11-Notes-c0wbnl52.n20.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7810684-05:00"
+      "RipTime": "2018-02-12T11:21:06.6423432-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Unfiltered Fervor: The Rush to Get Off the Water Grid",
-      "Link": "https://www.nytimes.com/2017/12/29/dining/raw-water-unfiltered.html?_r=0",
-      "LocalLinkFileName": "2018-1-3-14-Unfiltered-Fervor-Water-yok2u14f.omp.html",
+      "Category": "Opinion",
+      "SiteName": "The Atlantic",
+      "LinkText": "Send a News Tip",
+      "Link": "https://www.theatlantic.com/tips/",
+      "LocalLinkFileName": "2018-2-12-11-News-0ein12df.tjv.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7810684-05:00"
+      "RipTime": "2018-02-12T11:21:06.6423432-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Woman thought she had Crohn's disease, but had Heinz packet in stomach",
-      "Link": "http://www.foxnews.com/food-drink/2018/01/03/woman-thought-had-crohns-disease-but-had-heinz-packet-in-stomach.html",
-      "LocalLinkFileName": "2018-1-3-14-stomach-disease-thought-packet-lvuvnfhi.mdl.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Dr. Mark Thoma, MD",
+      "Link": "http://americablog.com/author/mark-thoma",
+      "LocalLinkFileName": "2018-2-12-11-Thoma-frsbqfwx.qmv.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7810684-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Crohn'z meanz Heinz': foreign body inflammatory mass mimicking Crohn's disease - BMJ Press Releases",
-      "Link": "http://press.psprings.co.uk/bcr/december/bcr009603.pdf",
-      "LocalLinkFileName": "2018-1-3-14-inflammatory-mimicking-Releases-disease-wq41fls2.mcm.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Even Trump&#8217;s hair is a lie",
+      "Link": "http://americablog.com/2018/02/even-trumps-hair-lie.html",
+      "LocalLinkFileName": "2018-2-12-11-Trump8217s-uraph0dp.xtd.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7810684-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Woman diagnosed with Crohn's disease actually had ketchup packets in her intestine",
-      "Link": "https://nypost.com/2018/01/03/woman-diagnosed-with-crohns-disease-actually-had-ketchup-packets-in-her-intestine/",
-      "LocalLinkFileName": "2018-1-3-14-intestine-diagnosed-actually-packets-oyrd40im.ctj.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "So George Papadopoulos was just some drunk. Right.",
+      "Link": "http://americablog.com/2018/02/o-george-papadopoulos-just-drunk-right.html",
+      "LocalLinkFileName": "2018-2-12-11-Papadopoulos-George-Right-drunk-yvibxkes.540.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7810684-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Woman's 6-year battle with \"Crohn's disease\" was really a ketchup packet stuck in her intestine",
-      "Link": "https://boingboing.net/2018/01/03/womans-crohns-disease.html",
-      "LocalLinkFileName": "2018-1-3-14-intestine-ketchup-disease-packet-cogktl0s.vvk.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "The State of the Union is stormy",
+      "Link": "http://americablog.com/2018/02/state-union-stormy.html",
+      "LocalLinkFileName": "2018-2-12-11-stormy-Union-State-isgpetcf.cxu.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7810684-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Woman diagnosed with Crohn's Disease actually had ketchup packet in her intestine for six years",
-      "Link": "http://www.nydailynews.com/news/world/woman-ketchup-packet-intestine-6-years-article-1.3734957",
-      "LocalLinkFileName": "2018-1-3-14-intestine-diagnosed-actually-ketchup-yj4iance.iyx.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Breaking: House GOP declares war on the FBI",
+      "Link": "http://americablog.com/2018/01/breaking-house-gop-declares-war-fbi.html",
+      "LocalLinkFileName": "2018-2-12-11-declares-Breaking-House-3k3tqqyz.sof.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7810684-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Lost, Redding man allegedly asked cops for directions to his drug deal",
-      "Link": "http://www.sacbee.com/news/local/article192539404.html",
-      "LocalLinkFileName": "2018-1-3-14-directions-allegedly-Redding-asked-1v4i0rru.w4s.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "GOP finance chair Steve Wynn accused of sexual abuse",
+      "Link": "http://americablog.com/2018/01/gop-finance-chair-steve-wynn-accused-sexual-abuse.html",
+      "LocalLinkFileName": "2018-2-12-11-accused-finance-sexual-abuse-jrtbcbmm.bdl.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7820712-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Another big year for Palomar fuels increase in housing starts in Redding",
-      "Link": "http://www.redding.com/story/news/local/2018/01/02/another-big-year-palomar-fuels-increase-housing-starts-redding/996022001/",
-      "LocalLinkFileName": "2018-1-3-14-increase-Redding-housing-Palomar-d1kr1see.1u2.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Little lust on the prairie",
+      "Link": "http://americablog.com/2018/01/little-lust-prairie.html",
+      "LocalLinkFileName": "2018-2-12-11-prairie-Little-lc4tivaj.gio.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7820712-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Story of Walmart employees operating meth lab in store is made up",
-      "Link": "http://www.politifact.com/punditfact/statements/2018/jan/02/ufconly/fake-news-walmart-employees-operating-meth-lab-sto/",
-      "LocalLinkFileName": "2018-1-3-14-operating-employees-Walmart-store-ngkkbtdq.mrf.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Playing fetch with sea lions at the Smithsonian&#8217;s National Zoo in Washington, DC (video)",
+      "Link": "http://americablog.com/2018/01/playing-fetch-seals-smithsonians-national-zoo-washington-dc-video.html",
+      "LocalLinkFileName": "2018-2-12-11-Smithsonian8217s-Washington-National-Playing-wukm40a4.agp.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7820712-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Fact check: Nikki Haley says Americans favor moving US embassy to Jerusalem",
-      "Link": "https://www.cbsnews.com/news/moving-us-embassy-to-jerusalem-nikki-haley-fact-check/",
-      "LocalLinkFileName": "2018-1-3-14-Jerusalem-Americans-embassy-moving-5ne5tx3t.kzm.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "2017 Year in Review",
+      "Link": "http://americablog.com/2018/01/2017-year-review.html",
+      "LocalLinkFileName": "2018-2-12-11-Review-iiuibs0y.j3b.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7820712-05:00"
+      "RipTime": "2018-02-12T11:23:17.0901176-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Trump's False claim Dianne Feinstein said 'there is no collusion'",
-      "Link": "http://www.politifact.com/california/statements/2018/jan/02/donald-trump/trumps-false-claim-dianne-feinstein-said-there-no-/",
-      "LocalLinkFileName": "2018-1-3-14-collusion-Feinstein-Dianne-Trumps-wnqyleq2.x3p.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Trump claims to have most effective administration since Truman. It&#8217;s another huge lie.",
+      "Link": "http://americablog.com/2017/12/trump-claims-effective-administration-since-truman-another-huge-lie.html",
+      "LocalLinkFileName": "2018-2-12-11-administration-effective-another-It8217s-wxjkuvsq.o0r.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7820712-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Did Donald Trump Say It Was 'Low Class' for Mike Pence to Bring Pets to Washington?",
-      "Link": "https://www.snopes.com/did-trump-say-low-class-pets/",
-      "LocalLinkFileName": "2018-1-3-14-Washington-Donald-Bring-Pence-ipqwk0cn.lzu.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Subscribe to our new podcast",
+      "Link": "https://itunes.apple.com/us/podcast/unpresidented-podcast-empowering-the-resistance/id1273397009",
+      "LocalLinkFileName": "2018-2-12-11-Subscribe-podcast-r1xbyix3.spf.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7820712-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Kourtney Kardashian NOT Pregnant, A Year After False Claim",
-      "Link": "https://www.gossipcop.com/kourtney-kardashian-not-pregnant-a-year-after-false-claim/",
-      "LocalLinkFileName": "2018-1-3-14-Kardashian-Pregnant-Kourtney-Claim-yzubhd2s.sxs.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Marines want to leave Iraq",
+      "Link": "http://americablog.com/2007/10/marines-want-to-leave-iraq.html",
+      "LocalLinkFileName": "2018-2-12-11-Marines-leave-h0m2gl4u.qek.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Nvidia Revs Engine On Multibillion-Dollar Market Opportunity (NVDA)",
-      "Link": "http://wallstreetpit.com/114442-nvidia-nvda-revs-engine-multibillion-dollar-market-opportunity/?google_editors_picks=true",
-      "LocalLinkFileName": "2018-1-3-14-MultibillionDollar-Opportunity-Market-Engine-c4fm4zb1.k0b.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "This is why I harp on people who use the word &#8216;homosexual&#8217;",
+      "Link": "http://americablog.com/2010/02/this-is-why-i-harp-on-people-who-use-the-word-homosexual.html",
+      "LocalLinkFileName": "2018-2-12-11-8216homosexual8217-people-cn0vdhzq.0sa.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Pentagon Video Suggests We May Not Be Alone In The Universe",
-      "Link": "http://wallstreetpit.com/114444-pentagon-video-suggests-not-alone-universe/?google_editors_picks=true",
-      "LocalLinkFileName": "2018-1-3-14-Universe-Suggests-Pentagon-Alone-od31ur4o.0c5.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Famed Italian pasta maker Barilla: Gays can eat someone else&#8217;s pasta",
+      "Link": "http://americablog.com/2013/09/pasta-barilla-gays-can-eat-someone-elses-pasta.html",
+      "LocalLinkFileName": "2018-2-12-11-else8217s-someone-Barilla-Italian-ykg3s0m1.05o.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Scientists Develop A Graphene-Based Battery That Charges 5 Times Faster",
-      "Link": "http://wallstreetpit.com/114419-graphene-smartphone-battery/?google_editors_picks=true",
-      "LocalLinkFileName": "2018-1-3-14-GrapheneBased-Scientists-Charges-Battery-q2wgyime.d12.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Is it time to clip American Airlines&#8217; wings?",
+      "Link": "http://americablog.com/2012/10/is-it-time-to-clip-american-airlines-wings.html",
+      "LocalLinkFileName": "2018-2-12-11-Airlines8217-American-wings-vp0xfcwa.vdc.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "SpaceX, One of NASA's True Bargains of the 21st Century",
-      "Link": "http://wallstreetpit.com/114429-spacex-nasa-true-bargains/?google_editors_picks=true",
-      "LocalLinkFileName": "2018-1-3-14-Bargains-Century-SpaceX-NASAs-byu0ztcw.4av.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Mr. Mugwump: Well the dems will have their day of reckoning thi...",
+      "Link": "http://americablog.com/2018/01/shutdown-victory-defeat.html#comment-2180301",
+      "LocalLinkFileName": "2018-2-12-11-reckoning-Mugwump-their-ma3eoomx.hup.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The Best, Worst, and Most Unforgettable Movie Moments of 2017",
-      "Link": "https://io9.gizmodo.com/the-best-worst-and-most-unforgettable-movie-moments-o-1821403540",
-      "LocalLinkFileName": "2018-1-3-14-Unforgettable-Moments-Movie-Worst-hkfzzmrr.uxc.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "MoonDragon: Is she worried that Hope Hicks has poached her sty...",
+      "Link": "http://americablog.com/2018/02/state-union-stormy.html#comment-2180299",
+      "LocalLinkFileName": "2018-2-12-11-MoonDragon-poached-worried-Hicks-pq4ltw2p.uoz.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "5 Tips for Getting the Best TV",
-      "Link": "https://www.consumerreports.org/lcd-led-oled-tvs/tips-for-getting-the-best-tv/",
-      "LocalLinkFileName": "2018-1-3-14-Getting-qfuhnrx0.sck.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "brel1: Just another media stunt by the Trumps. They just ...",
+      "Link": "http://americablog.com/2018/02/state-union-stormy.html#comment-2180298",
+      "LocalLinkFileName": "2018-2-12-11-another-Trumps-stunt-media-ilqfike5.wow.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Mob Boss' Nikki Haley Pushes MSNBC's Joe Scarborough to His Breaking Point (Video)",
-      "Link": "https://www.westernjournal.com/mob-boss-nikki-haley-pushes-msnbcs-joe-scarborough-to-his-breaking-point-video/",
-      "LocalLinkFileName": "2018-1-3-14-Scarborough-Breaking-MSNBCs-Pushes-bv4cov2r.g2m.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Badgerite: Two planes. Two buildings. Two crumbling build...",
+      "Link": "http://americablog.com/2018/01/breaking-house-gop-declares-war-fbi.html#comment-2180297",
+      "LocalLinkFileName": "2018-2-12-11-crumbling-buildings-Badgerite-planes-5ye5qmzb.ick.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "The Vandal and the Mosque: A New Chapter of Forgiveness in Arkansas",
-      "Link": "https://www.nytimes.com/2017/12/28/reader-center/mosque-vandal-arkansas.html",
-      "LocalLinkFileName": "2018-1-3-14-Forgiveness-Arkansas-Chapter-Mosque-ywb4sokz.h40.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Jack and Jill Politics",
+      "Link": "http://www.jackandjillpolitics.com/",
+      "LocalLinkFileName": "2018-2-12-11-Politics-xtudhcdp.1xj.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0921204-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "Ranking Every NBA Jersey from Nike's 'City Edition' Release",
-      "Link": "https://www.si.com/nba/2017/12/27/nba-nike-city-edition-bucks-warriors-cavaliers-bulls-magic",
-      "LocalLinkFileName": "2018-1-3-14-Release-Edition-Ranking-Jersey-cpwhoo4h.b0r.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Good As You",
+      "Link": "http://www.goodasyou.org/",
+      "LocalLinkFileName": "2018-2-12-11-Good-5debazwf.jhu.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.783073-05:00"
+      "RipTime": "2018-02-12T11:23:17.0931207-05:00"
     },
     {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "'Black Mirror': Hang the DJ's Ending Explained",
-      "Link": "http://heavy.com/entertainment/2017/12/black-mirror-hang-the-djs-ending-explained/",
-      "LocalLinkFileName": "2018-1-3-14-Explained-Ending-Mirror-Black-e3zv5brm.cs5.html",
+      "Category": "Opinion",
+      "SiteName": "America Blog",
+      "LinkText": "Joe My God",
+      "Link": "http://joemygod.blogspot.com/",
+      "LocalLinkFileName": "2018-2-12-11-God-tsq0fz1u.4en.html",
       "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7840765-05:00"
-    },
-    {
-      "Category": "News",
-      "SiteName": "Google News",
-      "LinkText": "James Harrison, Patriot Not Steeler, Adds Extra Layer of Intrigue to AFC Playoffs",
-      "Link": "https://www.si.com/nfl/2017/12/27/james-harrison-new-england-patriots-pittsburgh-steelers-mmqb-mailbag",
-      "LocalLinkFileName": "2018-1-3-14-Playoffs-Intrigue-Harrison-Steeler-dmyzm1zo.52h.html",
-      "CentileRanking": 0,
-      "RipTime": "2018-01-03T14:38:17.7840765-05:00"
+      "RipTime": "2018-02-12T11:23:17.0931207-05:00"
     }
   ]
 }

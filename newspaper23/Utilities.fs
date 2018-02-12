@@ -7,6 +7,52 @@
     open Newtonsoft.Json
     open System.IO
 
+    let getTheNextSitesToProcess(opts:Newspaper23Config):SiteToVist []=
+        let inputData = opts.InputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Input> defaultNewspaper23Input
+        let newSerialSettings=new JsonSerializerSettings()
+        let nextSiteToProcess = 
+            (inputData.SitesToVisit
+            |> List.filter(fun site->System.DateTime.Now.AddHours(-6.0)>site.LastVisitTime)
+            |> List.toArray
+            ).randomItem        
+        let newNextSiteToProcess = {nextSiteToProcess with LastVisitTime=System.DateTime.Now}
+        let newSites = 
+            inputData.SitesToVisit
+            |> List.map(fun x->
+                if (x.Category=newNextSiteToProcess.Category) && (x.SiteName=newNextSiteToProcess.SiteName) && (x.URLToVisit=newNextSiteToProcess.URLToVisit)
+                    then newNextSiteToProcess
+                    else x
+                )
+        newSerialSettings.Formatting<-Formatting.Indented
+        let newInputData = {inputData with SitesToVisit=newSites; LastRunTime=System.DateTime.Now}
+        let programInput=JsonConvert.SerializeObject(newInputData,newSerialSettings)
+        let fullInputFileName = if opts.InputFile.parameterValue.FileInfoOption.IsSome then opts.InputFile.parameterValue.FileInfoOption.Value.FullName else opts.InputFile.parameterValue.FileName
+        System.IO.File.WriteAllText(fullInputFileName,programInput)
+        [|newNextSiteToProcess|]
+    let updateProcessedSite(opts:Newspaper23Config) (programOutput:Newspaper23Output)  =
+        let inputData = opts.InputFile.parameterValue.LoadJsonDataOrCreateJsonFileIfMissing<Newspaper23Input> defaultNewspaper23Input
+        let newSerialSettings=new JsonSerializerSettings()
+        let newSites = 
+            inputData.SitesToVisit
+            |> List.map(fun site->
+                let linksExistInOurListToUpdate =
+                    programOutput.Links |> Array.exists(fun x->(x.Category=site.Category) && (x.SiteName=site.SiteName))
+                if linksExistInOurListToUpdate
+                 then 
+                    let linksToUpdateWith =
+                        programOutput.Links |> Array.filter(fun x->(x.Category=site.Category) && (x.SiteName=site.SiteName))
+                    let lastTimeLinksWereFound = if linksToUpdateWith.Length>0 then System.DateTime.Now else site.LastTimeLinksWereFound
+                    let siteWithUpdatedData =
+                        {site with LastVisitTime=System.DateTime.Now; TotalVisits=site.TotalVisits+1; LastVisitLinkCount=linksToUpdateWith.Length; LastTimeLinksWereFound=lastTimeLinksWereFound; TotalVisitsLinksGathered = site.TotalVisitsLinksGathered + linksToUpdateWith.Length }
+                    siteWithUpdatedData
+                 else site
+                )
+        newSerialSettings.Formatting<-Formatting.Indented
+        let newInputData = {inputData with SitesToVisit=newSites; LastRunTime=System.DateTime.Now}
+        let programInput=JsonConvert.SerializeObject(newInputData,newSerialSettings)
+        let fullInputFileName = if opts.InputFile.parameterValue.FileInfoOption.IsSome then opts.InputFile.parameterValue.FileInfoOption.Value.FullName else opts.InputFile.parameterValue.FileName
+        System.IO.File.WriteAllText(fullInputFileName,programInput)
+        ()
 
     type System.Net.WebRequest with
       member req.AsyncGetResponseWithTimeout () =

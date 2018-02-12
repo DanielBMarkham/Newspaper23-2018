@@ -203,7 +203,12 @@
              return None
          }
 
-    let loadDoc url =
+    let webclientLoadDoc url =
+        let htmlText=http url 3
+        let doc = new HtmlAgilityPack.HtmlDocument()
+        doc.LoadHtml htmlText
+        doc
+    let browserLoadDoc url =
         let tOut=new System.Timers.Timer((float)60000)
         let doc =
             try
@@ -245,9 +250,11 @@
                 then "//a[text()][not(img) and not(@href='#')]"
                 else customXPathForLinks
         try
-            let doc = loadDoc url
+            let doc =
+                let temp= browserLoadDoc url
+                if (temp = null) || (temp.DocumentNode.InnerText="") then webclientLoadDoc url else temp 
             let docUri = new Uri(url)
-            if (doc.ToString()="") 
+            if (doc.DocumentNode.InnerText="") 
                 then [||]
                 else
                     let nodeResults=doc.DocumentNode.SelectNodes(xPathForLinks)

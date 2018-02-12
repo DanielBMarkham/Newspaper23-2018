@@ -1,5 +1,5 @@
 {
-  "LastRunTime": "2018-01-03T14:58:49.7535522-05:00",
+  "LastRunTime": "2018-02-12T11:23:17.1051276-05:00",
   "SitesToVisit": [
     {
       "Category": "News",
@@ -7,7 +7,12 @@
       "URLToVisit": "https://www.cnn.com",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9742773-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9742773-05:00"
     },
     {
       "Category": "News",
@@ -15,7 +20,12 @@
       "URLToVisit": "http://www.drudgereport.com",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9742773-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9742773-05:00"
     },
     {
       "Category": "News",
@@ -23,7 +33,12 @@
       "URLToVisit": "https://www.foxnews.com",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9742773-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9742773-05:00"
     },
     {
       "Category": "News",
@@ -31,7 +46,12 @@
       "URLToVisit": "https://www.msnbc.com",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9742773-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9742773-05:00"
     },
     {
       "Category": "News",
@@ -39,7 +59,12 @@
       "URLToVisit": "https://www.nbcnews.com",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9742773-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9742773-05:00"
     },
     {
       "Category": "News",
@@ -47,7 +72,12 @@
       "URLToVisit": "https://www.yahoo.com/news",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T11:23:17.1051276-05:00",
+      "LastVisitLinkCount": 30,
+      "TotalVisits": 3,
+      "TotalVisitsLinksGathered": 90,
+      "LastTimeLinksWereFound": "2018-02-12T11:23:17.1051276-05:00"
     },
     {
       "Category": "News",
@@ -55,7 +85,12 @@
       "URLToVisit": "https://www.cbsnews.com",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9752783-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9752783-05:00"
     },
     {
       "Category": "News",
@@ -63,7 +98,12 @@
       "URLToVisit": "https://www.bbc.com/news",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9752783-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9752783-05:00"
     },
     {
       "Category": "News",
@@ -71,7 +111,12 @@
       "URLToVisit": "https://news.google.com",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9752783-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9752783-05:00"
     },
     {
       "Category": "News",
@@ -79,7 +124,12 @@
       "URLToVisit": "http://www.dailymail.co.uk/ushome/index.html",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9752783-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9752783-05:00"
     },
     {
       "Category": "News",
@@ -87,7 +137,12 @@
       "URLToVisit": "https://www.washingtonpost.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9752783-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9752783-05:00"
     },
     {
       "Category": "News",
@@ -95,7 +150,12 @@
       "URLToVisit": "https://www.theguardian.com/us",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9752783-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9752783-05:00"
     },
     {
       "Category": "News",
@@ -103,7 +163,12 @@
       "URLToVisit": "https://www.wsj.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9752783-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9752783-05:00"
     },
     {
       "Category": "News",
@@ -111,7 +176,12 @@
       "URLToVisit": "http://www.latimes.com/hp-2/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
     },
     {
       "Category": "News",
@@ -119,7 +189,12 @@
       "URLToVisit": "https://www.nytimes.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "News",
@@ -127,7 +202,12 @@
       "URLToVisit": "https://www.usatoday.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "Opinion",
@@ -135,7 +215,12 @@
       "URLToVisit": "http://watchingamerica.com/WA/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T11:14:30.1070564-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
     },
     {
       "Category": "Opinion",
@@ -143,7 +228,12 @@
       "URLToVisit": "https://www.theguardian.com/us/commentisfree",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "Opinion",
@@ -151,7 +241,12 @@
       "URLToVisit": "https://www.realclearpolitics.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "Opinion",
@@ -159,7 +254,12 @@
       "URLToVisit": "http://www.realclearpolicy.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "Opinion",
@@ -167,7 +267,12 @@
       "URLToVisit": "http://www.realclearreligion.org/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "Opinion",
@@ -175,7 +280,12 @@
       "URLToVisit": "https://www.realcleareducation.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "Opinion",
@@ -183,7 +293,12 @@
       "URLToVisit": "https://www.huffingtonpost.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9762797-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9762797-05:00"
     },
     {
       "Category": "Opinion",
@@ -191,7 +306,12 @@
       "URLToVisit": "https://medium.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9772811-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9772811-05:00"
     },
     {
       "Category": "Opinion",
@@ -199,7 +319,12 @@
       "URLToVisit": "https://qz.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9772811-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9772811-05:00"
     },
     {
       "Category": "Opinion",
@@ -207,7 +332,12 @@
       "URLToVisit": "https://www.realclearbooks.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9772811-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9772811-05:00"
     },
     {
       "Category": "Opinion",
@@ -215,7 +345,12 @@
       "URLToVisit": "https://www.theatlantic.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T11:23:17.1051276-05:00",
+      "LastVisitLinkCount": 156,
+      "TotalVisits": 2,
+      "TotalVisitsLinksGathered": 312,
+      "LastTimeLinksWereFound": "2018-02-12T11:23:17.1051276-05:00"
     },
     {
       "Category": "Opinion",
@@ -223,7 +358,12 @@
       "URLToVisit": "https://www.dailykos.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9772811-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9772811-05:00"
     },
     {
       "Category": "Opinion",
@@ -231,7 +371,12 @@
       "URLToVisit": "https://wonkette.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9772811-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9772811-05:00"
     },
     {
       "Category": "Opinion",
@@ -239,7 +384,12 @@
       "URLToVisit": "https://www.politico.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9772811-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9772811-05:00"
     },
     {
       "Category": "Opinion",
@@ -247,7 +397,12 @@
       "URLToVisit": "http://americablog.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T11:23:17.1051276-05:00",
+      "LastVisitLinkCount": 102,
+      "TotalVisits": 1,
+      "TotalVisitsLinksGathered": 102,
+      "LastTimeLinksWereFound": "2018-02-12T11:23:17.1051276-05:00"
     },
     {
       "Category": "Opinion",
@@ -255,7 +410,12 @@
       "URLToVisit": "https://www.salon.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
     },
     {
       "Category": "Opinion",
@@ -263,7 +423,12 @@
       "URLToVisit": "http://www.slate.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9772811-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9772811-05:00"
     },
     {
       "Category": "Opinion",
@@ -271,7 +436,12 @@
       "URLToVisit": "https://townhall.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9782799-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9782799-05:00"
     },
     {
       "Category": "Tech/Programming",
@@ -279,7 +449,12 @@
       "URLToVisit": "https://dzone.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9782799-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9782799-05:00"
     },
     {
       "Category": "Tech/Programming",
@@ -287,7 +462,12 @@
       "URLToVisit": "https://news.ycombinator.com/news",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": "//a[@class='storylink']"
+      "CustomXPath": "//a[@class='storylink']",
+      "LastVisitTime": "2018-02-12T10:32:48.9782799-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9782799-05:00"
     },
     {
       "Category": "Tech/Programming",
@@ -295,7 +475,12 @@
       "URLToVisit": "https://www.reddit.com/r/programming/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": "//a[contains(@class, 'title')]"
+      "CustomXPath": "//a[contains(@class, 'title')]",
+      "LastVisitTime": "2018-02-12T10:32:48.9782799-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9782799-05:00"
     },
     {
       "Category": "Tech/Programming",
@@ -303,7 +488,12 @@
       "URLToVisit": "https://www.reddit.com/r/fsharp/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": "//a[contains(@class, 'title')]"
+      "CustomXPath": "//a[contains(@class, 'title')]",
+      "LastVisitTime": "2018-02-12T10:32:48.9782799-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9782799-05:00"
     },
     {
       "Category": "Tech/Programming",
@@ -311,7 +501,12 @@
       "URLToVisit": "https://www.gamasutra.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
     },
     {
       "Category": "Tech/Programming",
@@ -319,7 +514,12 @@
       "URLToVisit": "https://www.reddit.com/r/agile/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": "//a[contains(@class, 'title')]"
+      "CustomXPath": "//a[contains(@class, 'title')]",
+      "LastVisitTime": "2018-02-12T10:32:48.9782799-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9782799-05:00"
     },
     {
       "Category": "Science",
@@ -327,7 +527,12 @@
       "URLToVisit": "https://www.realclearscience.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9782799-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9782799-05:00"
     },
     {
       "Category": "Science",
@@ -335,7 +540,12 @@
       "URLToVisit": "http://quillette.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9792806-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9792806-05:00"
     },
     {
       "Category": "Science",
@@ -343,7 +553,12 @@
       "URLToVisit": "https://theconversation.com/au",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9792806-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9792806-05:00"
     },
     {
       "Category": "Science",
@@ -351,7 +566,12 @@
       "URLToVisit": "https://mosaicscience.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9792806-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9792806-05:00"
     },
     {
       "Category": "Science",
@@ -359,7 +579,12 @@
       "URLToVisit": "http://nautil.us/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9792806-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9792806-05:00"
     },
     {
       "Category": "Science",
@@ -367,7 +592,12 @@
       "URLToVisit": "http://www.bbc.com/news/science_and_environment",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9792806-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9792806-05:00"
     },
     {
       "Category": "Science",
@@ -375,7 +605,12 @@
       "URLToVisit": "https://www.newscientist.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
     },
     {
       "Category": "Science",
@@ -383,7 +618,12 @@
       "URLToVisit": "https://www.livescience.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:50:42.379787-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
     },
     {
       "Category": "Science",
@@ -391,7 +631,12 @@
       "URLToVisit": "https://www.nationalgeographic.com/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
     },
     {
       "Category": "Science",
@@ -399,7 +644,12 @@
       "URLToVisit": "http://www.sciencemag.org/news",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9802813-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9802813-05:00"
     },
     {
       "Category": "Science",
@@ -407,7 +657,12 @@
       "URLToVisit": "https://www.quantamagazine.org/",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9802813-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9802813-05:00"
     },
     {
       "Category": "Science",
@@ -415,7 +670,103 @@
       "URLToVisit": "http://www.nature.com/news/index.html",
       "NumberOfLinksToGather": 30,
       "MorePagesXPath": "",
-      "CustomXPath": ""
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9802813-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9802813-05:00"
+    },
+    {
+      "Category": "History",
+      "SiteName": "Reddit History",
+      "URLToVisit": "https://www.reddit.com/r/history/",
+      "NumberOfLinksToGather": 30,
+      "MorePagesXPath": "",
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9802813-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9802813-05:00"
+    },
+    {
+      "Category": "History",
+      "SiteName": "Reddit Ask Historians",
+      "URLToVisit": "https://www.reddit.com/r/AskHistorians/",
+      "NumberOfLinksToGather": 30,
+      "MorePagesXPath": "",
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9802813-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9802813-05:00"
+    },
+    {
+      "Category": "History",
+      "SiteName": "RealClear History",
+      "URLToVisit": "http://www.realclearhistory.com/",
+      "NumberOfLinksToGather": 30,
+      "MorePagesXPath": "",
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9812827-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9812827-05:00"
+    },
+    {
+      "Category": "History",
+      "SiteName": "On This Day In History",
+      "URLToVisit": "http://www.history.com/this-day-in-history",
+      "NumberOfLinksToGather": 30,
+      "MorePagesXPath": "",
+      "CustomXPath": "",
+      "LastVisitTime": "2018-01-04T12:44:57.696526-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
+    },
+    {
+      "Category": "History",
+      "SiteName": "On This Day From Wikipedia",
+      "URLToVisit": "https://en.wikipedia.org/wiki/Wikipedia:On_this_day/Today",
+      "NumberOfLinksToGather": 30,
+      "MorePagesXPath": "",
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9812827-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9812827-05:00"
+    },
+    {
+      "Category": "History",
+      "SiteName": "On This Day From Encyclopedia Britannica",
+      "URLToVisit": "https://www.britannica.com/on-this-day",
+      "NumberOfLinksToGather": 30,
+      "MorePagesXPath": "",
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:52:10.0451676-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "1980-01-01T12:00:00-05:00"
+    },
+    {
+      "Category": "History",
+      "SiteName": "On This Day In Rock History",
+      "URLToVisit": "http://www.thisdayinrock.com/",
+      "NumberOfLinksToGather": 30,
+      "MorePagesXPath": "",
+      "CustomXPath": "",
+      "LastVisitTime": "2018-02-12T10:32:48.9812827-05:00",
+      "LastVisitLinkCount": 0,
+      "TotalVisits": 0,
+      "TotalVisitsLinksGathered": 0,
+      "LastTimeLinksWereFound": "2018-02-12T10:32:48.9812827-05:00"
     }
   ]
 }
